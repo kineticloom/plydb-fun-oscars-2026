@@ -1,0 +1,79 @@
+year_from,year_to,actress,film,is_winner,is_tie
+1950,1951,Gloria Swanson,Sunset Boulevard,true,false
+1951,1952,Jane Wyman,The Blue Veil,true,false
+1952,1953,Shirley Booth,"Come Back, Little Sheba",true,false
+1953,1954,Audrey Hepburn,Roman Holiday,true,false
+1954,1955,Grace Kelly,The Country Girl,true,false
+1955,1956,Anna Magnani,The Rose Tattoo,true,false
+1956,1957,Ingrid Bergman,Anastasia,true,false
+1957,1958,Joanne Woodward,The Three Faces of Eve,true,false
+1958,1959,Susan Hayward,I Want to Live!,true,false
+1959,1960,Elizabeth Taylor,"Suddenly, Last Summer",true,false
+1960,1961,Greer Garson,Sunrise at Campobello,true,false
+1961,1962,Geraldine Page,Summer and Smoke,true,false
+1962,1963,Geraldine Page,Sweet Bird of Youth,true,false
+1963,1964,Leslie Caron,The L-Shaped Room,true,false
+1964,1965,Anne Bancroft,The Pumpkin Eater,true,false
+1965,1966,Samantha Eggar,The Collector,true,false
+1966,1967,Anouk Aimee,A Man and a Woman,true,false
+1967,1968,Edith Evans,The Whisperers,true,false
+1968,1969,Joanne Woodward,"Rachel, Rachel",true,false
+1969,1970,Genevieve Bujold,Anne of the Thousand Days,true,false
+1970,1971,Ali MacGraw,Love Story,true,false
+1971,1972,Jane Fonda,Klute,true,false
+1972,1973,Liv Ullmann,The Emigrants,true,false
+1973,1974,Marsha Mason,Cinderella Liberty,true,false
+1974,1975,Gena Rowlands,A Woman under the Influence,true,false
+1975,1976,Louise Fletcher,One Flew over the Cuckoo's Nest,true,false
+1976,1977,Faye Dunaway,Network,true,false
+1977,1978,Jane Fonda,Julia,true,false
+1978,1979,Jane Fonda,Coming Home,true,false
+1979,1980,Sally Field,Norma Rae,true,false
+1980,1981,Mary Tyler Moore,Ordinary People,true,false
+1981,1982,Meryl Streep,The French Lieutenant's Woman,true,false
+1982,1983,Meryl Streep,Sophie's Choice,true,false
+1983,1984,Shirley MacLaine,Terms of Endearment,true,false
+1984,1985,Sally Field,Places in the Heart,true,false
+1985,1986,Whoopi Goldberg,The Color Purple,true,false
+1986,1987,Marlee Matlin,Children of a Lesser God,true,false
+1987,1988,Sally Kirkland,Anna,true,false
+1988,1989,Jodie Foster,The Accused,true,true
+1988,1989,Shirley MacLaine,Madame Sousatzka,true,true
+1988,1989,Sigourney Weaver,Gorillas in the Mist,true,true
+1989,1990,Michelle Pfeiffer,The Fabulous Baker Boys,true,false
+1990,1991,Kathy Bates,Misery,true,false
+1991,1992,Jodie Foster,The Silence of the Lambs,true,false
+1992,1993,Emma Thompson,Howards End,true,false
+1993,1994,Holly Hunter,The Piano,true,false
+1994,1995,Jessica Lange,Blue Sky,true,false
+1995,1996,Sharon Stone,Casino,true,false
+1996,1997,Brenda Blethyn,Secrets & Lies,true,false
+1997,1998,Judi Dench,Mrs. Brown,true,false
+1998,1999,Cate Blanchett,Elizabeth,true,false
+1999,2000,Hilary Swank,Boys Don't Cry,true,false
+2000,2001,Julia Roberts,Erin Brockovich,true,false
+2001,2002,Sissy Spacek,In the Bedroom,true,false
+2002,2003,Nicole Kidman,The Hours,true,false
+2003,2004,Charlize Theron,Monster,true,false
+2004,2005,Hilary Swank,Million Dollar Baby,true,false
+2005,2006,Felicity Huffman,Transamerica,true,false
+2006,2007,Helen Mirren,The Queen,true,false
+2007,2008,Julie Christie,Away from Her,true,false
+2008,2009,Kate Winslet,Revolutionary Road,true,false
+2009,2010,Sandra Bullock,The Blind Side,true,false
+2010,2011,Natalie Portman,Black Swan,true,false
+2011,2012,Meryl Streep,The Iron Lady,true,false
+2012,2013,Jessica Chastain,Zero Dark Thirty,true,false
+2013,2014,Cate Blanchett,Blue Jasmine,true,false
+2014,2015,Julianne Moore,Still Alice,true,false
+2015,2016,Brie Larson,Room,true,false
+2016,2017,Isabelle Huppert,Elle,true,false
+2017,2018,Frances McDormand,"Three Billboards outside Ebbing, Missouri",true,false
+2018,2019,Glenn Close,The Wife,true,false
+2019,2020,Renée Zellweger,Judy,true,false
+2020,2021,Andra Day,The United States vs. Billie Holiday,true,false
+2021,2022,Nicole Kidman,Being the Ricardos,true,false
+2022,2023,Cate Blanchett,Tár,true,false
+2023,2024,Lily Gladstone,Killers of the Flower Moon,true,false
+2024,2025,Fernanda Torres,I'm Still Here,true,false
+2025,2026,Jessie Buckley,Hamnet,true,false

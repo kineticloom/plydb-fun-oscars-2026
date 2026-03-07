@@ -1,0 +1,444 @@
+year,actor,film,is_winner,is_tie,category,num_films
+1952,Ralph Richardson,The Sound Barrier,true,false,Best British Actor,1
+1952,Jack Hawkins,Mandy,false,false,Best British Actor,1
+1952,James Hayter,The Pickwick Papers,false,false,Best British Actor,1
+1952,Laurence Olivier,Carrie,false,false,Best British Actor,1
+1952,Nigel Patrick,The Sound Barrier,false,false,Best British Actor,1
+1952,Alastair Sim,Folly to Be Wise,false,false,Best British Actor,1
+1952,Marlon Brando,Viva Zapata!,true,false,Best Foreign Actor,1
+1952,Humphrey Bogart,The African Queen,false,false,Best Foreign Actor,1
+1952,Pierre Fresnay,God Needs Men,false,false,Best Foreign Actor,1
+1952,Francesco Golisano,Miracle in Milan,false,false,Best Foreign Actor,1
+1952,Fredric March,Death of a Salesman,false,false,Best Foreign Actor,1
+1953,John Gielgud,Julius Caesar,true,false,Best British Actor,1
+1953,Jack Hawkins,The Cruel Sea,false,false,Best British Actor,1
+1953,Trevor Howard,The Heart of the Matter,false,false,Best British Actor,1
+1953,Duncan Macrae,The Kidnappers,false,false,Best British Actor,1
+1953,Kenneth More,Genevieve,false,false,Best British Actor,1
+1953,Marlon Brando,Julius Caesar,true,false,Best Foreign Actor,1
+1953,Eddie Albert,Roman Holiday,false,false,Best Foreign Actor,1
+1953,Van Heflin,Shane,false,false,Best Foreign Actor,1
+1953,Claude Laydu,Diary of a Country Priest,false,false,Best Foreign Actor,1
+1953,Marcel Mouloudji,We Are All Murderers,false,false,Best Foreign Actor,1
+1953,Gregory Peck,Roman Holiday,false,false,Best Foreign Actor,1
+1953,Spencer Tracy,The Actress,false,false,Best Foreign Actor,1
+1954,Kenneth More,Doctor in the House,true,false,Best British Actor,1
+1954,Maurice Denham,The Purple Plain,false,false,Best British Actor,1
+1954,Robert Donat,Lease of Life,false,false,Best British Actor,1
+1954,John Mills,Hobson's Choice,false,false,Best British Actor,1
+1954,David Niven,Carrington V.C.,false,false,Best British Actor,1
+1954,Donald Wolfit,Svengali,false,false,Best British Actor,1
+1954,Marlon Brando,On the Waterfront,true,false,Best Foreign Actor,1
+1954,Neville Brand,Riot in Cell Block 11,false,false,Best Foreign Actor,1
+1954,José Ferrer,The Caine Mutiny,false,false,Best Foreign Actor,1
+1954,Fredric March,Executive Suite,false,false,Best Foreign Actor,1
+1954,James Stewart,The Glenn Miller Story,false,false,Best Foreign Actor,1
+1955,Laurence Olivier,Richard III,true,false,Best British Actor,1
+1955,Alfie Bass,The Bespoke Overcoat,false,false,Best British Actor,1
+1955,Alec Guinness,The Prisoner,false,false,Best British Actor,1
+1955,Jack Hawkins,The Prisoner,false,false,Best British Actor,1
+1955,Kenneth More,The Deep Blue Sea,false,false,Best British Actor,1
+1955,Michael Redgrave,The Night My Number Came Up,false,false,Best British Actor,1
+1955,Ernest Borgnine,Marty,true,false,Best Foreign Actor,1
+1955,James Dean (posthumous),East of Eden,false,false,Best Foreign Actor,1
+1955,Jack Lemmon,Mister Roberts,false,false,Best Foreign Actor,1
+1955,Toshiro Mifune,Seven Samurai,false,false,Best Foreign Actor,1
+1955,Takashi Shimura,Seven Samurai,false,false,Best Foreign Actor,1
+1955,Frank Sinatra,Not as a Stranger,false,false,Best Foreign Actor,1
+1956,Peter Finch,A Town Like Alice,true,false,Best British Actor,1
+1956,Jack Hawkins,The Long Arm,false,false,Best British Actor,1
+1956,Kenneth More,Reach for the Sky,false,false,Best British Actor,1
+1956,François Périer,Gervaise,true,false,Best Foreign Actor,1
+1956,Gunnar Björnstrand,Smiles of a Summer Night,false,false,Best Foreign Actor,1
+1956,James Dean (posthumous),Rebel without a Cause,false,false,Best Foreign Actor,1
+1956,Pierre Fresnay,The Unfrocked One,false,false,Best Foreign Actor,1
+1956,William Holden,Picnic,false,false,Best Foreign Actor,1
+1956,Karl Malden,Baby Doll,false,false,Best Foreign Actor,1
+1956,Frank Sinatra,The Man with the Golden Arm,false,false,Best Foreign Actor,1
+1956,Spencer Tracy,The Mountain,false,false,Best Foreign Actor,1
+1957,Alec Guinness,The Bridge on the River Kwai,true,false,Best British Actor,1
+1957,Peter Finch,Windom's Way,false,false,Best British Actor,1
+1957,Trevor Howard,Manuela,false,false,Best British Actor,1
+1957,Laurence Olivier,The Prince and the Showgirl,false,false,Best British Actor,1
+1957,Michael Redgrave,Time Without Pity,false,false,Best British Actor,1
+1957,Henry Fonda,12 Angry Men,true,false,Best Foreign Actor,1
+1957,Richard Basehart,Time Limit,false,false,Best Foreign Actor,1
+1957,Pierre Brasseur,The Gates of Paris [ 4 ],false,false,Best Foreign Actor,1
+1957,Tony Curtis,Sweet Smell of Success,false,false,Best Foreign Actor,1
+1957,Jean Gabin,La Traversé de Paris,false,false,Best Foreign Actor,1
+1957,Robert Mitchum,"Heaven Knows, Mr. Allison",false,false,Best Foreign Actor,1
+1957,Sidney Poitier,Edge of the City,false,false,Best Foreign Actor,1
+1957,Ed Wynn,The Great Man,false,false,Best Foreign Actor,1
+1958,Trevor Howard,The Key,true,false,Best British Actor,1
+1958,Michael Craig,Sea of Sand,false,false,Best British Actor,1
+1958,Laurence Harvey,Room at the Top,false,false,Best British Actor,1
+1958,I. S. Johar,Harry Black,false,false,Best British Actor,1
+1958,Anthony Quayle,Ice Cold in Alex,false,false,Best British Actor,1
+1958,Terry-Thomas,tom thumb,false,false,Best British Actor,1
+1958,Donald Wolfit,Room at the Top,false,false,Best British Actor,1
+1958,Sidney Poitier,The Defiant Ones,true,false,Best Foreign Actor,1
+1958,Marlon Brando,The Young Lions,false,false,Best Foreign Actor,1
+1958,Tony Curtis,The Defiant Ones,false,false,Best Foreign Actor,1
+1958,Glenn Ford,The Sheepman,false,false,Best Foreign Actor,1
+1958,Curd Jürgens,The Enemy Below / The Inn of the Sixth Happiness,false,false,Best Foreign Actor,2
+1958,Charles Laughton,Witness for the Prosecution,false,false,Best Foreign Actor,1
+1958,Paul Newman,Cat on a Hot Tin Roof,false,false,Best Foreign Actor,1
+1958,Victor Sjöström,Wild Strawberries,false,false,Best Foreign Actor,1
+1958,Spencer Tracy,The Last Hurrah,false,false,Best Foreign Actor,1
+1959,Peter Sellers,I'm All Right Jack,true,false,Best British Actor,1
+1959,Stanley Baker,Yesterday's Enemy,false,false,Best British Actor,1
+1959,Richard Burton,Look Back in Anger,false,false,Best British Actor,1
+1959,Peter Finch,The Nun's Story,false,false,Best British Actor,1
+1959,Laurence Harvey,Expresso Bongo,false,false,Best British Actor,1
+1959,Gordon Jackson,Yesterday's Enemy,false,false,Best British Actor,1
+1959,Laurence Olivier,The Devil's Disciple,false,false,Best British Actor,1
+1959,Jack Lemmon,Some Like It Hot,true,false,Best Foreign Actor,1
+1959,Zbigniew Cybulski,Ashes and Diamonds,false,false,Best Foreign Actor,1
+1959,Jean Desailly,Maigret Sets a Trap,false,false,Best Foreign Actor,1
+1959,Jean Gabin,Maigret Sets a Trap,false,false,Best Foreign Actor,1
+1959,Takashi Shimura,Living,false,false,Best Foreign Actor,1
+1959,James Stewart,Anatomy of a Murder,false,false,Best Foreign Actor,1
+1960,Peter Finch,The Trials of Oscar Wilde,true,false,Best British Actor,1
+1960,Richard Attenborough,The Angry Silence,false,false,Best British Actor,1
+1960,Albert Finney,Saturday Night and Sunday Morning,false,false,Best British Actor,1
+1960,John Fraser,The Trials of Oscar Wilde,false,false,Best British Actor,1
+1960,Alec Guinness,Tunes of Glory,false,false,Best British Actor,1
+1960,John Mills,Tunes of Glory,false,false,Best British Actor,1
+1960,Laurence Olivier,The Entertainer,false,false,Best British Actor,1
+1960,Jack Lemmon,The Apartment,true,false,Best Foreign Actor,1
+1960,George Hamilton,Crime and Punishment U.S.A.,false,false,Best Foreign Actor,1
+1960,Burt Lancaster,Elmer Gantry,false,false,Best Foreign Actor,1
+1960,Fredric March,Inherit the Wind,false,false,Best Foreign Actor,1
+1960,Yves Montand,Let's Make Love,false,false,Best Foreign Actor,1
+1960,Spencer Tracy,Inherit the Wind,false,false,Best Foreign Actor,1
+1961,Peter Finch,No Love for Johnnie,true,false,Best British Actor,1
+1961,Dirk Bogarde,Victim,false,false,Best British Actor,1
+1961,Paul Newman,The Hustler,true,false,Best Foreign Actor,1
+1961,Montgomery Clift,Judgment at Nuremberg,false,false,Best Foreign Actor,1
+1961,Vladimir Ivashov,Ballad of a Soldier,false,false,Best Foreign Actor,1
+1961,Philippe Leroy,The Night Watch,false,false,Best Foreign Actor,1
+1961,Sidney Poitier,A Raisin in the Sun,false,false,Best Foreign Actor,1
+1961,Maximilian Schell,Judgment at Nuremberg,false,false,Best Foreign Actor,1
+1961,Alberto Sordi,The Best of Enemies,false,false,Best Foreign Actor,1
+1962,Peter O'Toole,Lawrence of Arabia,true,false,Best British Actor,1
+1962,Richard Attenborough,The Dock Brief,false,false,Best British Actor,1
+1962,Alan Bates,A Kind of Loving,false,false,Best British Actor,1
+1962,James Mason,Lolita,false,false,Best British Actor,1
+1962,Laurence Olivier,Term of Trial,false,false,Best British Actor,1
+1962,Peter Sellers,Only Two Can Play,false,false,Best British Actor,1
+1962,Burt Lancaster,Birdman of Alcatraz,true,false,Best Foreign Actor,1
+1962,Jean-Paul Belmondo,"Léon Morin, Priest",false,false,Best Foreign Actor,1
+1962,Kirk Douglas,Lonely are the Brave,false,false,Best Foreign Actor,1
+1962,George Hamilton,Light in the Piazza,false,false,Best Foreign Actor,1
+1962,Charles Laughton,Advise and Consent,false,false,Best Foreign Actor,1
+1962,Anthony Quinn,Lawrence of Arabia,false,false,Best Foreign Actor,1
+1962,Robert Ryan,Billy Budd,false,false,Best Foreign Actor,1
+1962,Georges Wilson,The Long Absence,false,false,Best Foreign Actor,1
+1963,Dirk Bogarde,The Servant,true,false,Best British Actor,1
+1963,Tom Courtenay,Billy Liar,false,false,Best British Actor,1
+1963,Albert Finney,Tom Jones,false,false,Best British Actor,1
+1963,Hugh Griffith,Tom Jones,false,false,Best British Actor,1
+1963,Richard Harris,This Sporting Life,false,false,Best British Actor,1
+1963,Marcello Mastroianni,Divorce--Italian Style,true,false,Best Foreign Actor,1
+1963,Franco Citti,Accattone,false,false,Best Foreign Actor,1
+1963,Howard Da Silva,David and Lisa,false,false,Best Foreign Actor,1
+1963,Jack Lemmon,Days of Wine and Roses,false,false,Best Foreign Actor,1
+1963,Paul Newman,Hud,false,false,Best Foreign Actor,1
+1963,Gregory Peck,To Kill a Mockingbird,false,false,Best Foreign Actor,1
+1964,Richard Attenborough,Guns at Batasi / Seance on a Wet Afternoon,true,false,Best British Actor,2
+1964,Tom Courtenay,King & Country,false,false,Best British Actor,1
+1964,Peter O'Toole,Becket,false,false,Best British Actor,1
+1964,Peter Sellers,Dr. Strangelove / The Pink Panther,false,false,Best British Actor,2
+1964,Marcello Mastroianni,"Yesterday, Today and Tomorrow",true,false,Best Foreign Actor,1
+1964,Cary Grant,Charade,false,false,Best Foreign Actor,1
+1964,Sterling Hayden,Dr. Strangelove,false,false,Best Foreign Actor,1
+1964,Sidney Poitier,Lilies of the Field,false,false,Best Foreign Actor,1
+1965,Dirk Bogarde,Darling,true,false,Best British Actor,1
+1965,Harry Andrews,The Hill,false,false,Best British Actor,1
+1965,Michael Caine,The Ipcress File,false,false,Best British Actor,1
+1965,Rex Harrison,My Fair Lady,false,false,Best British Actor,1
+1965,Lee Marvin,Cat Ballou / The Killers,true,false,Best Foreign Actor,2
+1965,Jack Lemmon,Good Neighbor Sam / How to Murder Your Wife,false,false,Best Foreign Actor,2
+1965,Anthony Quinn,Zorba the Greek,false,false,Best Foreign Actor,1
+1965,Innokenty Smoktunovsky,Hamlet,false,false,Best Foreign Actor,1
+1965,Oskar Werner,Ship of Fools,false,false,Best Foreign Actor,1
+1966,Richard Burton,The Spy Who Came in from the Cold / Who's Afraid of Virginia Woolf?,true,false,Best British Actor,2
+1966,Michael Caine,Alfie,false,false,Best British Actor,1
+1966,Ralph Richardson,Doctor Zhivago / Khartoum / The Wrong Box,false,false,Best British Actor,3
+1966,David Warner,Morgan – A Suitable Case for Treatment,false,false,Best British Actor,1
+1966,Rod Steiger,The Pawnbroker,true,false,Best Foreign Actor,1
+1966,Jean-Paul Belmondo,Pierrot le Fou,false,false,Best Foreign Actor,1
+1966,Sidney Poitier,A Patch of Blue,false,false,Best Foreign Actor,1
+1966,Oskar Werner,The Spy Who Came In from the Cold,false,false,Best Foreign Actor,1
+1967,Paul Scofield,A Man for All Seasons,true,false,Best British Actor,1
+1967,Dirk Bogarde,Accident / Our Mother's House,false,false,Best British Actor,2
+1967,Richard Burton,The Taming of the Shrew,false,false,Best British Actor,1
+1967,James Mason,The Deadly Affair,false,false,Best British Actor,1
+1967,Rod Steiger,In the Heat of the Night,true,false,Best Foreign Actor,1
+1967,Warren Beatty,Bonnie and Clyde,false,false,Best Foreign Actor,1
+1967,Sidney Poitier,In the Heat of the Night,false,false,Best Foreign Actor,1
+1967,Orson Welles,Chimes at Midnight,false,false,Best Foreign Actor,1
+1968,Spencer Tracy,Guess Who's Coming to Dinner,true,false,Best Actor,1
+1968,Trevor Howard,The Charge of the Light Brigade,false,false,Best Actor,1
+1968,Ron Moody,Oliver!,false,false,Best Actor,1
+1968,Nicol Williamson,The Bofors Gun,false,false,Best Actor,1
+1969,Dustin Hoffman,John and Mary / Midnight Cowboy,true,false,Best Actor,2
+1969,Alan Bates,Women in Love,false,false,Best Actor,1
+1969,Walter Matthau,"Hello, Dolly! / The Secret Life of an American Wife",false,false,Best Actor,2
+1969,Nicol Williamson,Inadmissible Evidence,false,false,Best Actor,1
+1970,Robert Redford,Butch Cassidy and the Sundance Kid / Downhill Racer / Tell Them Willie Boy Is Here,true,false,Best Actor,3
+1970,Elliott Gould,Bob & Carol & Ted & Alice / MASH,false,false,Best Actor,2
+1970,Paul Newman,Butch Cassidy and the Sundance Kid,false,false,Best Actor,1
+1970,George C. Scott,Patton,false,false,Best Actor,1
+1971,Peter Finch,Sunday Bloody Sunday,true,false,Best Actor,1
+1971,Dirk Bogarde,Death in Venice,false,false,Best Actor,1
+1971,Albert Finney,Gumshoe,false,false,Best Actor,1
+1971,Dustin Hoffman,Little Big Man,false,false,Best Actor,1
+1972,Gene Hackman,The French Connection / The Poseidon Adventure,true,false,Best Actor,2
+1972,Marlon Brando,The Godfather / The Nightcomers,false,false,Best Actor,2
+1972,George C. Scott,The Hospital / They Might Be Giants,false,false,Best Actor,2
+1972,Robert Shaw,Young Winston,false,false,Best Actor,1
+1973,Walter Matthau,Charley Varrick / Pete 'n' Tillie,true,false,Best Actor,2
+1973,Marlon Brando,Last Tango in Paris,false,false,Best Actor,1
+1973,Laurence Olivier,Sleuth,false,false,Best Actor,1
+1973,Donald Sutherland,Don't Look Now / Steelyard Blues,false,false,Best Actor,2
+1974,Jack Nicholson,Chinatown / The Last Detail,true,false,Best Actor,2
+1974,Albert Finney,Murder on the Orient Express,false,false,Best Actor,1
+1974,Gene Hackman,The Conversation,false,false,Best Actor,1
+1974,Al Pacino,Serpico,false,false,Best Actor,1
+1975,Al Pacino,Dog Day Afternoon / The Godfather Part II,true,false,Best Actor,2
+1975,Richard Dreyfuss,Jaws,false,false,Best Actor,1
+1975,Gene Hackman,French Connection II / Night Moves,false,false,Best Actor,2
+1975,Dustin Hoffman,Lenny,false,false,Best Actor,1
+1976,Jack Nicholson,One Flew over the Cuckoo's Nest,true,false,Best Actor,1
+1976,Robert De Niro,Taxi Driver,false,false,Best Actor,1
+1976,Dustin Hoffman,All the President's Men / Marathon Man,false,false,Best Actor,2
+1976,Walter Matthau,The Bad News Bears / The Sunshine Boys,false,false,Best Actor,2
+1977,Peter Finch (posthumous),Network,true,false,Best Actor,1
+1977,Woody Allen,Annie Hall,false,false,Best Actor,1
+1977,William Holden,Network,false,false,Best Actor,1
+1977,Sylvester Stallone,Rocky,false,false,Best Actor,1
+1978,Richard Dreyfuss,The Goodbye Girl,true,false,Best Actor,1
+1978,Anthony Hopkins,Magic,false,false,Best Actor,1
+1978,Brad Davis,Midnight Express,false,false,Best Actor,1
+1978,Peter Ustinov,Death on the Nile,false,false,Best Actor,1
+1979,Jack Lemmon,The China Syndrome,true,false,Best Actor,1
+1979,Woody Allen,Manhattan,false,false,Best Actor,1
+1979,Robert De Niro,The Deer Hunter,false,false,Best Actor,1
+1979,Martin Sheen,Apocalypse Now,false,false,Best Actor,1
+1980,John Hurt,The Elephant Man,true,false,Best Actor,1
+1980,Dustin Hoffman,Kramer vs. Kramer,false,false,Best Actor,1
+1980,Roy Scheider,All That Jazz,false,false,Best Actor,1
+1980,Peter Sellers,Being There,false,false,Best Actor,1
+1981,Burt Lancaster,Atlantic City,true,false,Best Actor,1
+1981,Robert De Niro,Raging Bull,false,false,Best Actor,1
+1981,Bob Hoskins,The Long Good Friday,false,false,Best Actor,1
+1981,Jeremy Irons,The French Lieutenant's Woman,false,false,Best Actor,1
+1982,Ben Kingsley,Gandhi,true,false,Best Actor,1
+1982,Warren Beatty,Reds,false,false,Best Actor,1
+1982,Albert Finney,Shoot the Moon,false,false,Best Actor,1
+1982,Henry Fonda,On Golden Pond,false,false,Best Actor,1
+1982,Jack Lemmon,Missing,false,false,Best Actor,1
+1983,Michael Caine,Educating Rita / The Honorary Consul,true,false,Best Actor,2
+1983,Dustin Hoffman,Tootsie,true,false,Best Actor,1
+1983,Robert De Niro,The King of Comedy,false,false,Best Actor,1
+1984,Haing S. Ngor,The Killing Fields,true,false,Best Actor,1
+1984,Tom Courtenay,The Dresser,false,false,Best Actor,1
+1984,Albert Finney,The Dresser,false,false,Best Actor,1
+1984,Sam Waterston,The Killing Fields,false,false,Best Actor,1
+1985,William Hurt,Kiss of the Spider Woman,true,false,Best Actor,1
+1985,F. Murray Abraham,Amadeus,false,false,Best Actor,1
+1985,Victor Banerjee,A Passage to India,false,false,Best Actor,1
+1985,Harrison Ford,Witness,false,false,Best Actor,1
+1986,Bob Hoskins,Mona Lisa,true,false,Best Actor,1
+1986,Woody Allen,Hannah and Her Sisters,false,false,Best Actor,1
+1986,Michael Caine,Hannah and Her Sisters,false,false,Best Actor,1
+1986,Paul Hogan,Crocodile Dundee,false,false,Best Actor,1
+1987,Sean Connery,The Name of the Rose,true,false,Best Actor,1
+1987,Gerard Depardieu,Jean de Florette,false,false,Best Actor,1
+1987,Yves Montand,Jean de Florette,false,false,Best Actor,1
+1987,Gary Oldman,Prick Up Your Ears,false,false,Best Actor,1
+1988,John Cleese,A Fish Called Wanda,true,false,Best Actor,1
+1988,Michael Douglas,Fatal Attraction,false,false,Best Actor,1
+1988,Kevin Kline,A Fish Called Wanda,false,false,Best Actor,1
+1988,Robin Williams,"Good Morning, Vietnam",false,false,Best Actor,1
+1989,Daniel Day-Lewis,My Left Foot,true,false,Best Actor,1
+1989,Kenneth Branagh,Henry V,false,false,Best Actor,1
+1989,Dustin Hoffman,Rain Man,false,false,Best Actor,1
+1989,Robin Williams,Dead Poets Society,false,false,Best Actor,1
+1990,Philippe Noiret,Cinema Paradiso,true,false,Best Actor,1
+1990,Sean Connery,The Hunt for Red October,false,false,Best Actor,1
+1990,Tom Cruise,Born on the Fourth of July,false,false,Best Actor,1
+1990,Robert De Niro,Good Fellas,false,false,Best Actor,1
+1991,Anthony Hopkins,The Silence of the Lambs,true,false,Best Actor,1
+1991,Kevin Costner,Dances With Wolves,false,false,Best Actor,1
+1991,Gerard Depardieu,Cyrano de Bergerac,false,false,Best Actor,1
+1991,Alan Rickman,"Truly, Madly, Deeply",false,false,Best Actor,1
+1992,Robert Downey Jr.,Chaplin,true,false,Best Actor,1
+1992,Daniel Day-Lewis,The Last of the Mohicans,false,false,Best Actor,1
+1992,Stephen Rea,The Crying Game,false,false,Best Actor,1
+1992,Tim Robbins,The Player,false,false,Best Actor,1
+1993,Anthony Hopkins,The Remains of the Day / Shadowlands,true,false,Best Actor,2
+1993,Daniel Day-Lewis,In the Name of the Father,false,false,Best Actor,1
+1993,Liam Neeson,Schindler's List,false,false,Best Actor,1
+1994,Hugh Grant,Four Weddings and a Funeral,true,false,Best Actor,1
+1994,Tom Hanks,Forrest Gump,false,false,Best Actor,1
+1994,Terence Stamp,"The Adventures of Priscilla, Queen of the Desert",false,false,Best Actor,1
+1994,John Travolta,Pulp Fiction,false,false,Best Actor,1
+1995,Nigel Hawthorne,The Madness of King George,true,false,Best Actor,1
+1995,Nicolas Cage,Leaving Las Vegas,false,false,Best Actor,1
+1995,Jonathan Pryce,Carrington,false,false,Best Actor,1
+1995,Massimo Troisi (posthumous),Il Postino: The Postman,false,false,Best Actor,1
+1996,Geoffrey Rush,Shine,true,false,Best Actor,1
+1996,Ralph Fiennes,The English Patient,false,false,Best Actor,1
+1996,Ian McKellen,Richard III,false,false,Best Actor,1
+1996,Timothy Spall,Secrets & Lies,false,false,Best Actor,1
+1997,Robert Carlyle,The Full Monty,true,false,Best Actor,1
+1997,Billy Connolly,Mrs. Brown,false,false,Best Actor,1
+1997,Kevin Spacey,L.A. Confidential,false,false,Best Actor,1
+1997,Ray Winstone,Nil by Mouth,false,false,Best Actor,1
+1998,Roberto Benigni,Life Is Beautiful,true,false,Best Actor,1
+1998,Michael Caine,Little Voice,false,false,Best Actor,1
+1998,Joseph Fiennes,Shakespeare in Love,false,false,Best Actor,1
+1998,Tom Hanks,Saving Private Ryan,false,false,Best Actor,1
+1999,Kevin Spacey,American Beauty,true,false,Best Actor,1
+1999,Jim Broadbent,Topsy-Turvy,false,false,Best Actor,1
+1999,Russell Crowe,The Insider,false,false,Best Actor,1
+1999,Ralph Fiennes,The End of the Affair,false,false,Best Actor,1
+1999,Om Puri,East is East,false,false,Best Actor,1
+2000,Jamie Bell,Billy Elliot,true,false,Best Actor,1
+2000,Russell Crowe,Gladiator,false,false,Best Actor,1
+2000,Michael Douglas,Wonder Boys,false,false,Best Actor,1
+2000,Tom Hanks,Cast Away,false,false,Best Actor,1
+2000,Geoffrey Rush,Quills,false,false,Best Actor,1
+2001,Russell Crowe,A Beautiful Mind,true,false,Best Actor,1
+2001,Jim Broadbent,Iris,false,false,Best Actor,1
+2001,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring,false,false,Best Actor,1
+2001,Kevin Spacey,The Shipping News,false,false,Best Actor,1
+2001,Tom Wilkinson,In the Bedroom,false,false,Best Actor,1
+2002,Daniel Day-Lewis,Gangs of New York,true,false,Best Actor,1
+2002,Adrien Brody,The Pianist,false,false,Best Actor,1
+2002,Nicolas Cage,Adaptation,false,false,Best Actor,1
+2002,Michael Caine,The Quiet American,false,false,Best Actor,1
+2002,Jack Nicholson,About Schmidt,false,false,Best Actor,1
+2003,Bill Murray,Lost in Translation,true,false,Best Actor,1
+2003,Benicio Del Toro,21 Grams,false,false,Best Actor,1
+2003,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl,false,false,Best Actor,1
+2003,Jude Law,Cold Mountain,false,false,Best Actor,1
+2003,Sean Penn,21 Grams / Mystic River,false,false,Best Actor,2
+2004,Jamie Foxx,Ray,true,false,Best Actor,1
+2004,Jim Carrey,Eternal Sunshine of the Spotless Mind,false,false,Best Actor,1
+2004,Johnny Depp,Finding Neverland,false,false,Best Actor,1
+2004,Leonardo DiCaprio,The Aviator,false,false,Best Actor,1
+2004,Gael García Bernal,The Motorcycle Diaries,false,false,Best Actor,1
+2005,Philip Seymour Hoffman,Capote,true,false,Best Actor,1
+2005,Ralph Fiennes,The Constant Gardener,false,false,Best Actor,1
+2005,Heath Ledger,Brokeback Mountain,false,false,Best Actor,1
+2005,Joaquin Phoenix,Walk the Line,false,false,Best Actor,1
+2005,David Strathairn,"Good Night, and Good Luck.",false,false,Best Actor,1
+2006,Forest Whitaker,The Last King of Scotland,true,false,Best Actor,1
+2006,Daniel Craig,Casino Royale,false,false,Best Actor,1
+2006,Leonardo DiCaprio,The Departed,false,false,Best Actor,1
+2006,Richard Griffiths,The History Boys,false,false,Best Actor,1
+2006,Peter O'Toole,Venus,false,false,Best Actor,1
+2007,Daniel Day-Lewis,There Will Be Blood,true,false,Best Actor,1
+2007,George Clooney,Michael Clayton,false,false,Best Actor,1
+2007,James McAvoy,Atonement,false,false,Best Actor,1
+2007,Viggo Mortensen,Eastern Promises,false,false,Best Actor,1
+2007,Ulrich Mühe (posthumous),The Lives of Others,false,false,Best Actor,1
+2008,Mickey Rourke,The Wrestler,true,false,Best Actor,1
+2008,Frank Langella,Frost/Nixon,false,false,Best Actor,1
+2008,Dev Patel,Slumdog Millionaire,false,false,Best Actor,1
+2008,Sean Penn,Milk,false,false,Best Actor,1
+2008,Brad Pitt,The Curious Case of Benjamin Button,false,false,Best Actor,1
+2009,Colin Firth,A Single Man,true,false,Best Actor,1
+2009,Jeff Bridges,Crazy Heart,false,false,Best Actor,1
+2009,George Clooney,Up in the Air,false,false,Best Actor,1
+2009,Jeremy Renner,The Hurt Locker,false,false,Best Actor,1
+2009,Andy Serkis,Sex & Drugs & Rock & Roll,false,false,Best Actor,1
+2010,Colin Firth,The King's Speech,true,false,Best Actor,1
+2010,Javier Bardem,Biutiful,false,false,Best Actor,1
+2010,Jeff Bridges,True Grit,false,false,Best Actor,1
+2010,Jesse Eisenberg,The Social Network,false,false,Best Actor,1
+2010,James Franco,127 Hours,false,false,Best Actor,1
+2011,Jean Dujardin,The Artist,true,false,Best Actor,1
+2011,George Clooney,The Descendants,false,false,Best Actor,1
+2011,Michael Fassbender,Shame,false,false,Best Actor,1
+2011,Gary Oldman,Tinker Tailor Soldier Spy,false,false,Best Actor,1
+2011,Brad Pitt,Moneyball,false,false,Best Actor,1
+2012,Daniel Day-Lewis,Lincoln,true,false,Best Actor,1
+2012,Ben Affleck,Argo,false,false,Best Actor,1
+2012,Bradley Cooper,Silver Linings Playbook,false,false,Best Actor,1
+2012,Hugh Jackman,Les Misérables,false,false,Best Actor,1
+2012,Joaquin Phoenix,The Master,false,false,Best Actor,1
+2013,Chiwetel Ejiofor,12 Years a Slave,true,false,Best Actor,1
+2013,Christian Bale,American Hustle,false,false,Best Actor,1
+2013,Bruce Dern,Nebraska,false,false,Best Actor,1
+2013,Leonardo DiCaprio,The Wolf of Wall Street,false,false,Best Actor,1
+2013,Tom Hanks,Captain Phillips,false,false,Best Actor,1
+2014,Eddie Redmayne,The Theory of Everything,true,false,Best Actor,1
+2014,Benedict Cumberbatch,The Imitation Game,false,false,Best Actor,1
+2014,Ralph Fiennes,The Grand Budapest Hotel,false,false,Best Actor,1
+2014,Jake Gyllenhaal,Nightcrawler,false,false,Best Actor,1
+2014,Michael Keaton,Birdman,false,false,Best Actor,1
+2015,Leonardo DiCaprio,The Revenant,true,false,Best Actor,1
+2015,Bryan Cranston,Trumbo,false,false,Best Actor,1
+2015,Matt Damon,The Martian,false,false,Best Actor,1
+2015,Michael Fassbender,Steve Jobs,false,false,Best Actor,1
+2015,Eddie Redmayne,The Danish Girl,false,false,Best Actor,1
+2016,Casey Affleck,Manchester by the Sea,true,false,Best Actor,1
+2016,Andrew Garfield,Hacksaw Ridge,false,false,Best Actor,1
+2016,Ryan Gosling,La La Land,false,false,Best Actor,1
+2016,Jake Gyllenhaal,Nocturnal Animals,false,false,Best Actor,1
+2016,Viggo Mortensen,Captain Fantastic,false,false,Best Actor,1
+2017,Gary Oldman,Darkest Hour,true,false,Best Actor,1
+2017,Jamie Bell,Film Stars Don't Die in Liverpool,false,false,Best Actor,1
+2017,Timothée Chalamet,Call Me by Your Name,false,false,Best Actor,1
+2017,Daniel Day-Lewis,Phantom Thread,false,false,Best Actor,1
+2017,Daniel Kaluuya,Get Out,false,false,Best Actor,1
+2018,Rami Malek,Bohemian Rhapsody,true,false,Best Actor,1
+2018,Christian Bale,Vice,false,false,Best Actor,1
+2018,Steve Coogan,Stan & Ollie,false,false,Best Actor,1
+2018,Bradley Cooper,A Star Is Born,false,false,Best Actor,1
+2018,Viggo Mortensen,Green Book,false,false,Best Actor,1
+2019,Joaquin Phoenix,Joker,true,false,Best Actor,1
+2019,Leonardo DiCaprio,Once upon a Time...in Hollywood,false,false,Best Actor,1
+2019,Adam Driver,Marriage Story,false,false,Best Actor,1
+2019,Taron Egerton,Rocketman,false,false,Best Actor,1
+2019,Jonathan Pryce,The Two Popes,false,false,Best Actor,1
+2020,Anthony Hopkins,The Father,true,false,Best Actor,1
+2020,Riz Ahmed,Sound of Metal,false,false,Best Actor,1
+2020,Chadwick Boseman (posthumous),Ma Rainey's Black Bottom,false,false,Best Actor,1
+2020,Adarsh Gourav,The White Tiger,false,false,Best Actor,1
+2020,Mads Mikkelsen,Another Round,false,false,Best Actor,1
+2020,Tahar Rahim,The Mauritanian,false,false,Best Actor,1
+2021,Will Smith,King Richard,true,false,Best Actor,1
+2021,Adeel Akhtar,Ali & Ava,false,false,Best Actor,1
+2021,Mahershala Ali,Swan Song,false,false,Best Actor,1
+2021,Benedict Cumberbatch,The Power of the Dog,false,false,Best Actor,1
+2021,Leonardo DiCaprio,Don't Look Up,false,false,Best Actor,1
+2021,Stephen Graham,Boiling Point,false,false,Best Actor,1
+2022,Austin Butler,Elvis,true,false,Best Actor,1
+2022,Colin Farrell,The Banshees of Inisherin,false,false,Best Actor,1
+2022,Brendan Fraser,The Whale,false,false,Best Actor,1
+2022,Daryl McCormack,"Good Luck to You, Leo Grande",false,false,Best Actor,1
+2022,Paul Mescal,Aftersun,false,false,Best Actor,1
+2022,Bill Nighy,Living,false,false,Best Actor,1
+2023,Cillian Murphy,Oppenheimer,true,false,Best Actor,1
+2023,Bradley Cooper,Maestro,false,false,Best Actor,1
+2023,Colman Domingo,Rustin,false,false,Best Actor,1
+2023,Paul Giamatti,The Holdovers,false,false,Best Actor,1
+2023,Barry Keoghan,Saltburn,false,false,Best Actor,1
+2023,Teo Yoo,Past Lives,false,false,Best Actor,1
+2024,Adrien Brody,The Brutalist,true,false,Best Actor,1
+2024,Timothée Chalamet,A Complete Unknown,false,false,Best Actor,1
+2024,Colman Domingo,Sing Sing,false,false,Best Actor,1
+2024,Ralph Fiennes,Conclave,false,false,Best Actor,1
+2024,Hugh Grant,Heretic,false,false,Best Actor,1
+2024,Sebastian Stan,The Apprentice,false,false,Best Actor,1
+2025,Robert Aramayo,I Swear,true,false,Best Actor,1
+2025,Timothée Chalamet,Marty Supreme,false,false,Best Actor,1
+2025,Leonardo DiCaprio,One Battle after Another,false,false,Best Actor,1
+2025,Ethan Hawke,Blue Moon,false,false,Best Actor,1
+2025,Michael B. Jordan,Sinners,false,false,Best Actor,1
+2025,Jesse Plemons,Bugonia,false,false,Best Actor,1

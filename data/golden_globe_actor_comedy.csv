@@ -1,0 +1,78 @@
+year_from,year_to,actor,film,is_winner,is_tie
+1950,1951,Fred Astaire,Three Little Words,true,false
+1951,1952,Danny Kaye,On the Riviera,true,false
+1952,1953,Donald O'Connor,Singin' in the Rain,true,false
+1953,1954,David Niven,The Moon Is Blue,true,false
+1954,1955,James Mason,A Star Is Born,true,false
+1955,1956,Tom Ewell,The Seven Year Itch,true,false
+1956,1957,Cantinflas,Around the World in 80 Days,true,false
+1957,1958,Frank Sinatra,Pal Joey,true,false
+1958,1959,Danny Kaye,Me and the Colonel,true,false
+1959,1960,Jack Lemmon,Some Like It Hot,true,false
+1960,1961,Jack Lemmon,The Apartment,true,false
+1961,1962,Glenn Ford,Pocketful of Miracles,true,false
+1962,1963,Marcello Mastroianni,Divorce--Italian Style,true,false
+1963,1964,Alberto Sordi,The Devil,true,false
+1964,1965,Rex Harrison,My Fair Lady,true,false
+1965,1966,Lee Marvin,Cat Ballou,true,false
+1966,1967,Alan Arkin,The Russians Are Coming The Russians Are Coming,true,false
+1967,1968,Richard Harris,Camelot,true,false
+1968,1969,Ron Moody,Oliver!,true,false
+1969,1970,Peter O'Toole,"Goodbye, Mr. Chips",true,false
+1970,1971,Albert Finney,Scrooge,true,false
+1971,1972,Chaim Topol,Fiddler on the Roof,true,false
+1972,1973,Jack Lemmon,Avanti!,true,false
+1973,1974,George Segal,A Touch of Class,true,false
+1974,1975,Art Carney,Harry and Tonto,true,false
+1975,1976,George Burns,The Sunshine Boys,true,true
+1975,1976,Walter Matthau,The Sunshine Boys,true,true
+1976,1977,Kris Kristofferson,A Star Is Born,true,false
+1977,1978,Richard Dreyfuss,The Goodbye Girl,true,false
+1978,1979,Warren Beatty,Heaven Can Wait,true,false
+1979,1980,Peter Sellers,Being There,true,false
+1980,1981,Ray Sharkey,The Idolmaker,true,false
+1981,1982,Dudley Moore,Arthur,true,false
+1982,1983,Dustin Hoffman,Tootsie,true,false
+1983,1984,Michael Caine,Educating Rita,true,false
+1984,1985,Dudley Moore,Micki & Maude,true,false
+1985,1986,Jack Nicholson,Prizzi's Honor,true,false
+1986,1987,Paul Hogan,"""Crocodile"" Dundee",true,false
+1987,1988,Robin Williams,"Good Morning, Vietnam",true,false
+1988,1989,Tom Hanks,Big,true,false
+1989,1990,Morgan Freeman,Driving Miss Daisy,true,false
+1990,1991,Gerard Depardieu,Green Card,true,false
+1991,1992,Robin Williams,The Fisher King,true,false
+1992,1993,Tim Robbins,The Player,true,false
+1993,1994,Robin Williams,Mrs. Doubtfire,true,false
+1994,1995,Hugh Grant,Four Weddings and a Funeral,true,false
+1995,1996,John Travolta,Get Shorty,true,false
+1996,1997,Tom Cruise,Jerry Maguire,true,false
+1997,1998,Jack Nicholson,As Good as It Gets,true,false
+1998,1999,Michael Caine,Little Voice,true,false
+1999,2000,Jim Carrey,Man on the Moon,true,false
+2000,2001,George Clooney,"O Brother, Where Art Thou?",true,false
+2001,2002,Gene Hackman,The Royal Tenenbaums,true,false
+2002,2003,Richard Gere,Chicago,true,false
+2003,2004,Bill Murray,Lost in Translation,true,false
+2004,2005,Jamie Foxx,Ray,true,false
+2005,2006,Joaquin Phoenix,Walk the Line,true,false
+2006,2007,Sacha Baron Cohen,Borat,true,false
+2007,2008,Johnny Depp,Sweeney Todd: The Demon Barber of Fleet Street,true,false
+2008,2009,Colin Farrell,In Bruges,true,false
+2009,2010,Robert Downey Jr.,Sherlock Holmes,true,false
+2010,2011,Paul Giamatti,Barney's Version,true,false
+2011,2012,Jean Dujardin,The Artist,true,false
+2012,2013,Hugh Jackman,Les Misérables,true,false
+2013,2014,Leonardo DiCaprio,The Wolf of Wall Street,true,false
+2014,2015,Michael Keaton,Birdman,true,false
+2015,2016,Matt Damon,The Martian,true,false
+2016,2017,Ryan Gosling,La La Land,true,false
+2017,2018,James Franco,The Disaster Artist,true,false
+2018,2019,Christian Bale,Vice,true,false
+2019,2020,Taron Egerton,Rocketman,true,false
+2020,2021,Sacha Baron Cohen,Borat Subsequent Moviefilm,true,false
+2021,2022,Andrew Garfield,"tick, tick...BOOM!",true,false
+2022,2023,Colin Farrell,The Banshees of Inisherin,true,false
+2023,2024,Paul Giamatti,The Holdovers,true,false
+2024,2025,Sebastian Stan,A Different Man,true,false
+2025,2026,Timothée Chalamet,Marty Supreme,true,false

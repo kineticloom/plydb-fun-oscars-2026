@@ -1,0 +1,161 @@
+year,actor,film,is_winner,is_tie
+1994,Martin Landau,Ed Wood,true,false
+1994,Samuel L. Jackson,Pulp Fiction,false,false
+1994,Chazz Palminteri,Bullets over Broadway,false,false
+1994,Gary Sinise,Forrest Gump,false,false
+1994,John Turturro,Quiz Show,false,false
+1995,Ed Harris,Apollo 13,true,false
+1995,Kevin Bacon,Murder in the First,false,false
+1995,Kenneth Branagh,Othello,false,false
+1995,Don Cheadle,Devil in a Blue Dress,false,false
+1995,Kevin Spacey,The Usual Suspects,false,false
+1996,"Cuba Gooding, Jr.",Jerry Maguire,true,false
+1996,Hank Azaria,The Birdcage,false,false
+1996,Nathan Lane,Albert Goldman,false,false
+1996,William H. Macy,Fargo,false,false
+1996,Noah Taylor,Shine,false,false
+1997,Robin Williams,Good Will Hunting,true,false
+1997,Billy Connolly,Mrs. Brown,false,false
+1997,Anthony Hopkins,Amistad,false,false
+1997,Greg Kinnear,As Good as It Gets,false,false
+1997,Burt Reynolds,Boogie Nights,false,false
+1998,Robert Duvall,A Civil Action,true,false
+1998,James Coburn,Affliction,false,false
+1998,David Kelly,Waking Ned Devine,false,false
+1998,Geoffrey Rush,Shakespeare in Love,false,false
+1998,Billy Bob Thornton,A Simple Plan,false,false
+1999,Michael Caine,The Cider House Rules,true,false
+1999,Chris Cooper,American Beauty,false,false
+1999,Tom Cruise,Magnolia,false,false
+1999,Michael Clarke Duncan,The Green Mile,false,false
+1999,Haley Joel Osment,The Sixth Sense,false,false
+2000,Albert Finney,Erin Brockovich,true,false
+2000,Jeff Bridges,The Contender,false,false
+2000,Willem Dafoe,Shadow of the Vampire,false,false
+2000,Gary Oldman,The Contender,false,false
+2000,Joaquin Phoenix,Gladiator,false,false
+2001,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring,true,false
+2001,Jim Broadbent,Iris,false,false
+2001,Hayden Christensen,Life as a House,false,false
+2001,Ethan Hawke,Training Day,false,false
+2001,Ben Kingsley,Sexy Beast,false,false
+2002,Christopher Walken,Catch Me If You Can,true,false
+2002,Chris Cooper,Adaptation,false,false
+2002,Ed Harris,The Hours,false,false
+2002,Alfred Molina,Frida,false,false
+2002,Dennis Quaid,Far from Heaven,false,false
+2003,Tim Robbins,Mystic River,true,false
+2003,Alec Baldwin,The Cooler,false,false
+2003,Chris Cooper,Seabiscuit,false,false
+2003,Benicio Del Toro,21 Grams,false,false
+2003,Ken Watanabe,The Last Samurai,false,false
+2004,Morgan Freeman,Million Dollar Baby,true,false
+2004,Thomas Haden Church,Sideways,false,false
+2004,Jamie Foxx,Collateral,false,false
+2004,James Garner,The Notebook,false,false
+2004,Freddie Highmore,Finding Neverland,false,false
+2005,Paul Giamatti,Cinderella Man,true,false
+2005,Don Cheadle,Crash,false,false
+2005,Matt Dillon,Sgt. John Ryan,false,false
+2005,George Clooney,Syriana,false,false
+2005,Jake Gyllenhaal,Brokeback Mountain,false,false
+2006,Eddie Murphy,Dreamgirls,true,false
+2006,Alan Arkin,Little Miss Sunshine,false,false
+2006,Leonardo DiCaprio,The Departed,false,false
+2006,Jackie Earle Haley,Little Children,false,false
+2006,Djimon Hounsou,Blood Diamond,false,false
+2007,Javier Bardem,No Country for Old Men,true,false
+2007,Casey Affleck,The Assassination of Jesse James by the Coward Robert Ford,false,false
+2007,Hal Holbrook,Into the Wild,false,false
+2007,Tommy Lee Jones,No Country for Old Men,false,false
+2007,Tom Wilkinson,Michael Clayton,false,false
+2008,Heath Ledger,The Dark Knight,true,false
+2008,Josh Brolin,Milk,false,false
+2008,Robert Downey Jr.,Tropic Thunder,false,false
+2008,Philip Seymour Hoffman,Doubt,false,false
+2008,Dev Patel,Slumdog Millionaire,false,false
+2009,Christoph Waltz,Inglourious Basterds,true,false
+2009,Matt Damon,Invictus,false,false
+2009,Woody Harrelson,The Messenger,false,false
+2009,Christopher Plummer,The Last Station,false,false
+2009,Stanley Tucci,The Lovely Bones,false,false
+2010,Christian Bale,The Fighter,true,false
+2010,John Hawkes,Winter's Bone,false,false
+2010,Jeremy Renner,The Town,false,false
+2010,Mark Ruffalo,The Kids Are All Right,false,false
+2010,Geoffrey Rush,The King's Speech,false,false
+2011,Christopher Plummer,Beginners,true,false
+2011,Kenneth Branagh,My Week with Marilyn,false,false
+2011,Armie Hammer,J. Edgar,false,false
+2011,Jonah Hill,Moneyball,false,false
+2011,Nick Nolte,Warrior,false,false
+2012,Tommy Lee Jones,Lincoln,true,false
+2012,Alan Arkin,Argo,false,false
+2012,Javier Bardem,Skyfall,false,false
+2012,Robert De Niro,Silver Linings Playbook,false,false
+2012,Philip Seymour Hoffman,The Master,false,false
+2013,Jared Leto,Dallas Buyers Club,true,false
+2013,Barkhad Abdi,Captain Phillips,false,false
+2013,Daniel Brühl,Rush,false,false
+2013,Michael Fassbender,12 Years a Slave,false,false
+2013,James Gandolfini,Enough Said,false,false
+2014,J.K. Simmons,Whiplash,true,false
+2014,Robert Duvall,The Judge,false,false
+2014,Ethan Hawke,Boyhood,false,false
+2014,Edward Norton,Birdman,false,false
+2014,Mark Ruffalo,Foxcatcher,false,false
+2015,Idris Elba,Beasts of No Nation,true,false
+2015,Christian Bale,The Big Short,false,false
+2015,Mark Rylance,Bridge of Spies,false,false
+2015,Michael Shannon,99 Homes,false,false
+2015,Jacob Tremblay,Room,false,false
+2016,Mahershala Ali,Moonlight,true,false
+2016,Jeff Bridges,Hell or High Water,false,false
+2016,Hugh Grant,Florence Foster Jenkins,false,false
+2016,Lucas Hedges,Manchester by the Sea,false,false
+2016,Dev Patel,Lion,false,false
+2017,Sam Rockwell,"Three Billboards outside Ebbing, Missouri",true,false
+2017,Steve Carell,Battle of the Sexes,false,false
+2017,Willem Dafoe,The Florida Project,false,false
+2017,Woody Harrelson,"Three Billboards outside Ebbing, Missouri",false,false
+2017,Richard Jenkins,The Shape of Water,false,false
+2018,Mahershala Ali,Green Book,true,false
+2018,Timothée Chalamet,Beautiful Boy,false,false
+2018,Adam Driver,BlacKkKlansman,false,false
+2018,Sam Elliott,A Star Is Born,false,false
+2018,Richard E. Grant,Can You Ever Forgive Me?,false,false
+2019,Brad Pitt,Once upon a Time...in Hollywood,true,false
+2019,Jamie Foxx,Just Mercy,false,false
+2019,Tom Hanks,A Beautiful Day in the Neighborhood,false,false
+2019,Al Pacino,The Irishman,false,false
+2019,Joe Pesci,Russell Bufalino,false,false
+2020,Daniel Kaluuya,Judas and the Black Messiah,true,false
+2020,Sacha Baron Cohen,The Trial of the Chicago 7,false,false
+2020,Chadwick Boseman,Da 5 Bloods,false,false
+2020,Jared Leto,The Little Things,false,false
+2020,"Leslie Odom, Jr.",One Night in Miami...,false,false
+2021,Troy Kotsur,CODA,true,false
+2021,Ben Affleck,The Tender Bar,false,false
+2021,Bradley Cooper,Licorice Pizza,false,false
+2021,Jared Leto,House of Gucci,false,false
+2021,Kodi Smit-McPhee,The Power of the Dog,false,false
+2022,Ke Huy Quan,Everything Everywhere All at Once,true,false
+2022,Paul Dano,The Fabelmans,false,false
+2022,Brendan Gleeson,The Banshees of Inisherin,false,false
+2022,Barry Keoghan,Dominic Kearney,false,false
+2022,Eddie Redmayne,The Good Nurse,false,false
+2023,Robert Downey Jr.,Oppenheimer,true,false
+2023,Sterling K. Brown,American Fiction,false,false
+2023,Willem Dafoe,Poor Things,false,false
+2023,Robert De Niro,Killers of the Flower Moon,false,false
+2023,Ryan Gosling,Barbie,false,false
+2024,Kieran Culkin,A Real Pain,true,false
+2024,Jonathan Bailey,Wicked,false,false
+2024,Yura Borisov,Anora,false,false
+2024,Edward Norton,A Complete Unknown,false,false
+2024,Jeremy Strong,The Apprentice,false,false
+2025,Sean Penn,One Battle after Another,true,false
+2025,Miles Caton,Sinners,false,false
+2025,Benicio Del Toro,One Battle after Another,false,false
+2025,Jacob Elordi,Frankenstein,false,false
+2025,Paul Mescal,Hamnet,false,false

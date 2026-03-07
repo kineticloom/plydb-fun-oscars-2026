@@ -1,0 +1,299 @@
+{
+  "databases": {
+    "oscars": {
+      "metadata": {
+        "name": "Oscar Nominations",
+        "description": "Historical Academy Award nominations and winners, including 2026 (98th ceremony) nominations"
+      },
+      "type": "file",
+      "path": "data/oscar_nominations.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "bafta_film": {
+      "metadata": {
+        "name": "BAFTA Best Film",
+        "description": "BAFTA Award for Best Film nominees and winners by year"
+      },
+      "type": "file",
+      "path": "data/bafta_film.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "bafta_direction": {
+      "metadata": {
+        "name": "BAFTA Best Direction",
+        "description": "BAFTA Award for Best Direction nominees and winners by year"
+      },
+      "type": "file",
+      "path": "data/bafta_direction.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "bafta_leading_actor": {
+      "metadata": {
+        "name": "BAFTA Best Actor in a Leading Role",
+        "description": "BAFTA Best Actor nominees and winners. Has category field (Best British Actor vs Best Actor) - unified since ~1968"
+      },
+      "type": "file",
+      "path": "data/bafta_leading_actor.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "bafta_leading_actress": {
+      "metadata": {
+        "name": "BAFTA Best Actress in a Leading Role",
+        "description": "BAFTA Best Actress nominees and winners"
+      },
+      "type": "file",
+      "path": "data/bafta_leading_actress.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "bafta_supporting_actor": {
+      "metadata": {
+        "name": "BAFTA Best Supporting Actor",
+        "description": "BAFTA Best Supporting Actor nominees and winners"
+      },
+      "type": "file",
+      "path": "data/bafta_supporting_actor.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "bafta_supporting_actress": {
+      "metadata": {
+        "name": "BAFTA Best Supporting Actress",
+        "description": "BAFTA Best Supporting Actress nominees and winners"
+      },
+      "type": "file",
+      "path": "data/bafta_supporting_actress.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_picture_drama": {
+      "metadata": {
+        "name": "Golden Globe Best Picture Drama",
+        "description": "Golden Globe Best Motion Picture - Drama nominees and winners. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_picture_drama.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_picture_comedy": {
+      "metadata": {
+        "name": "Golden Globe Best Picture Comedy/Musical",
+        "description": "Golden Globe Best Motion Picture - Musical or Comedy nominees and winners. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_picture_comedy.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_picture": {
+      "metadata": {
+        "name": "Golden Globe Best Picture (pre-1950)",
+        "description": "Golden Globe Best Motion Picture early era (pre-split into Drama/Comedy). Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_picture.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_director": {
+      "metadata": {
+        "name": "Golden Globe Best Director",
+        "description": "Golden Globe Best Director nominees and winners. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_director.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_actor_drama": {
+      "metadata": {
+        "name": "Golden Globe Best Actor Drama",
+        "description": "Golden Globe Best Actor in a Motion Picture - Drama. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_actor_drama.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_actor_comedy": {
+      "metadata": {
+        "name": "Golden Globe Best Actor Comedy/Musical",
+        "description": "Golden Globe Best Actor in a Motion Picture - Musical or Comedy. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_actor_comedy.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_actor": {
+      "metadata": {
+        "name": "Golden Globe Best Actor (pre-split)",
+        "description": "Golden Globe Best Actor early era. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_actor.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_actress_drama": {
+      "metadata": {
+        "name": "Golden Globe Best Actress Drama",
+        "description": "Golden Globe Best Actress in a Motion Picture - Drama. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_actress_drama.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_actress_comedy": {
+      "metadata": {
+        "name": "Golden Globe Best Actress Comedy/Musical",
+        "description": "Golden Globe Best Actress in a Motion Picture - Musical or Comedy. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_actress_comedy.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "gg_actress": {
+      "metadata": {
+        "name": "Golden Globe Best Actress (pre-split)",
+        "description": "Golden Globe Best Actress early era. Uses year_from/year_to columns."
+      },
+      "type": "file",
+      "path": "data/golden_globe_actress.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "sag_cast": {
+      "metadata": {
+        "name": "SAG Outstanding Cast in a Motion Picture",
+        "description": "SAG Award for Outstanding Performance by a Cast in a Motion Picture. Columns: year, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/sag_cast_award.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "sag_lead_actor": {
+      "metadata": {
+        "name": "SAG Outstanding Male Actor - Leading Role",
+        "description": "SAG Award for Outstanding Performance by a Male Actor in a Leading Role. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/sag_lead_actor.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "sag_lead_actress": {
+      "metadata": {
+        "name": "SAG Outstanding Female Actor - Leading Role",
+        "description": "SAG Award for Outstanding Performance by a Female Actor in a Leading Role. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/sag_lead_actress.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "sag_supporting_actor": {
+      "metadata": {
+        "name": "SAG Outstanding Male Actor - Supporting Role",
+        "description": "SAG Award for Outstanding Performance by a Male Actor in a Supporting Role. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/sag_supporting_actor.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "sag_supporting_actress": {
+      "metadata": {
+        "name": "SAG Outstanding Female Actor - Supporting Role",
+        "description": "SAG Award for Outstanding Performance by a Female Actor in a Supporting Role. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/sag_supporting_actress.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "critics_choice_picture": {
+      "metadata": {
+        "name": "Critics Choice Best Picture",
+        "description": "Critics Choice Award for Best Picture. Columns: year, film, director, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/critics_choice_picture.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "critics_choice_director": {
+      "metadata": {
+        "name": "Critics Choice Best Director",
+        "description": "Critics Choice Award for Best Director. Columns: year, director, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/critics_choice_director.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "critics_choice_actor": {
+      "metadata": {
+        "name": "Critics Choice Best Actor",
+        "description": "Critics Choice Award for Best Actor. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/critics_choice_actor.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "critics_choice_actress": {
+      "metadata": {
+        "name": "Critics Choice Best Actress",
+        "description": "Critics Choice Award for Best Actress. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/critics_choice_actress.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "critics_choice_supporting_actor": {
+      "metadata": {
+        "name": "Critics Choice Best Supporting Actor",
+        "description": "Critics Choice Award for Best Supporting Actor. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/critics_choice_supporting_actor.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "critics_choice_supporting_actress": {
+      "metadata": {
+        "name": "Critics Choice Best Supporting Actress",
+        "description": "Critics Choice Award for Best Supporting Actress. Columns: year, actor, film, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/critics_choice_supporting_actress.csv",
+      "format": "csv",
+      "header_row": true
+    },
+    "tiff": {
+      "metadata": {
+        "name": "TIFF People's Choice Award",
+        "description": "Toronto International Film Festival People's Choice Award. Columns: year, film, director, is_winner, is_tie."
+      },
+      "type": "file",
+      "path": "data/tiff_peoples_choice.csv",
+      "format": "csv",
+      "header_row": true
+    }
+  },
+  "semantic_context": {
+    "overlays": [
+      "oscars-overlay.yaml"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+year,actress,film,is_winner,is_tie,num_films
+1968,Billie Whitelaw,Charlie Bubbles / Twisted Nerve,true,false,2
+1968,Pat Heywood,Romeo and Juliet,false,false,1
+1968,Virginia Maskell,Interlude,false,false,1
+1968,Simone Signoret,Games,false,false,1
+1969,Celia Johnson,The Prime of Miss Jean Brodie,true,false,1
+1969,Peggy Ashcroft,Three into Two Won't Go,false,false,1
+1969,Pamela Franklin,The Prime of Miss Jean Brodie,false,false,1
+1969,Mary Wimbush,Oh! What a Lovely War,false,false,1
+1970,Susannah York,"They Shoot Horses, Don't They?",true,false,1
+1970,Evin Crowley,Ryan's Daughter,false,false,1
+1970,Estelle Parsons,Watermelon Man,false,false,1
+1970,Maureen Stapleton,Airport,false,false,1
+1971,Margaret Leighton,The Go-Between,true,false,1
+1971,Jane Asher,Deep End,false,false,1
+1971,Georgia Brown,The Raging Moon,false,false,1
+1971,Georgia Engel,Taking Off,false,false,1
+1972,Cloris Leachman,The Last Picture Show,true,false,1
+1972,Marisa Berenson,Cabaret,false,false,1
+1972,Eileen Brennan,The Last Picture Show,false,false,1
+1972,Shelley Winters,The Poseidon Adventure,false,false,1
+1973,Valentina Cortese,Day for Night,true,false,1
+1973,Rosemary Leach,That'll Be the Day,false,false,1
+1973,Delphine Seyrig,The Day of the Jackal,false,false,1
+1973,Ingrid Thulin,Cries and Whispers,false,false,1
+1974,Ingrid Bergman,Murder on the Orient Express,true,false,1
+1974,Sylvia Sidney,"Summer Wishes, Winter Dreams",false,false,1
+1974,Sylvia Syms,The Tamarind Seed,false,false,1
+1974,Cindy Williams,American Graffiti,false,false,1
+1975,Diane Ladd,Alice Doesn't Live Here Anymore,true,false,1
+1975,Ronee Blakley,Nashville,false,false,1
+1975,Lelia Goldoni,Alice Doesn't Live Here Anymore,false,false,1
+1975,Gwen Welles,Nashville,false,false,1
+1976,Jodie Foster,Bugsy Malone / Taxi Driver,true,false,2
+1976,Annette Crosbie,The Slipper and the Rose,false,false,1
+1976,Vivien Merchant,The Homecoming,false,false,1
+1976,Billie Whitelaw,The Omen,false,false,1
+1977,Jenny Agutter,Equus,true,false,1
+1977,Geraldine Chaplin,Welcome to L.A.,false,false,1
+1977,Joan Plowright,Equus,false,false,1
+1977,Shelley Winters,"Next Stop, Greenwich Village",false,false,1
+1978,Geraldine Page,Interiors,true,false,1
+1978,Angela Lansbury,Death on the Nile / Maggie Smith,false,false,2
+1978,Mona Washbourne,Stevie,false,false,1
+1979,Rachel Roberts,Yanks,true,false,1
+1979,Lisa Eichhorn,The Europeans,false,false,1
+1979,Mariel Hemingway,Manhattan / Meryl Streep,false,false,2
+,1980 ( 34th ),Not awarded,false,false,1
+,1981 ( 35th ),Not awarded,false,false,1
+1982,Rohini Hattangadi,Gandhi,true,false,1
+1982,Maureen Stapleton,Reds,true,false,1
+1982,Candice Bergen,Gandhi,false,false,1
+1982,Jane Fonda,On Golden Pond,false,false,1
+1983,Jamie Lee Curtis,Trading Places,true,false,1
+1983,Teri Garr,Tootsie,false,false,1
+1983,Rosemary Harris,The Ploughman's Lunch,false,false,1
+1983,Maureen Lipman,Educating Rita,false,false,1
+1984,Liz Smith,A Private Function,true,false,1
+1984,Eileen Atkins,The Dresser,false,false,1
+1984,Cher,Silkwood,false,false,1
+1984,Tuesday Weld,Once Upon a Time in America,false,false,1
+1985,Rosanna Arquette,Desperately Seeking Susan,true,false,1
+1985,Judi Dench,Wetherby,false,false,1
+1985,Anjelica Huston,Prizzi's Honor,false,false,1
+1985,Tracey Ullman,Plenty,false,false,1
+1986,Judi Dench,A Room with a View,true,false,1
+1986,Rosanna Arquette,After Hours,false,false,1
+1986,Barbara Hershey,Hannah and Her Sisters,false,false,1
+1986,Rosemary Leach,A Room with a View,false,false,1
+1987,Susan Wooldridge,Hope and Glory,true,false,1
+1987,Judi Dench,84 Charing Cross Road,false,false,1
+1987,Vanessa Redgrave,Prick up Your Ears,false,false,1
+1987,Dianne Wiest,Radio Days,false,false,1
+1988,Judi Dench,A Handful of Dust,true,false,1
+1988,Maria Aitken,A Fish Called Wanda,false,false,1
+1988,Anne Archer,Fatal Attraction,false,false,1
+1988,Olympia Dukakis,Moonstruck,false,false,1
+1989,Michelle Pfeiffer,Dangerous Liaisons,true,false,1
+1989,Peggy Ashcroft,Madame Sousatzka,false,false,1
+1989,Laura San Giacomo,"sex, lies, and videotape",false,false,1
+1989,Sigourney Weaver,Working Girl,false,false,1
+1990,Whoopi Goldberg,Ghost,true,false,1
+1990,Anjelica Huston,Crimes and Misdemeanors,false,false,1
+1990,Shirley MacLaine,Steel Magnolias,false,false,1
+1990,Billie Whitelaw,The Krays,false,false,1
+1991,Kate Nelligan,Frankie and Johnny,true,false,1
+1991,Annette Bening,The Grifters,false,false,1
+1991,Amanda Plummer,The Fisher King,false,false,1
+1991,Julie Walters,Stepping Out,false,false,1
+1992,Miranda Richardson,Damage / The Crying Game,true,false,2
+1992,Kathy Bates,Fried Green Tomatoes,false,false,1
+1992,Helena Bonham Carter,Howards End,false,false,1
+1993,Miriam Margolyes,The Age of Innocence,true,false,1
+1993,Holly Hunter,The Firm,false,false,1
+1993,Winona Ryder,The Age of Innocence,false,false,1
+1993,Maggie Smith,The Secret Garden,false,false,1
+1994,Kristin Scott Thomas,Four Weddings and a Funeral,true,false,1
+1994,Charlotte Coleman,Four Weddings and a Funeral,false,false,1
+1994,Sally Field,Forrest Gump,false,false,1
+1994,Anjelica Huston,Manhattan Murder Mystery,false,false,1
+1995,Kate Winslet,Sense and Sensibility,true,false,1
+1995,Joan Allen,Nixon,false,false,1
+1995,Mira Sorvino,Mighty Aphrodite,false,false,1
+1995,Elizabeth Spriggs,Sense and Sensibility,false,false,1
+1996,Juliette Binoche,The English Patient,true,false,1
+1996,Lauren Bacall,The Mirror Has Two Faces,false,false,1
+1996,Marianne Jean-Baptiste,Secrets & Lies,false,false,1
+1996,Lynn Redgrave,Shine,false,false,1
+1997,Sigourney Weaver,The Ice Storm,true,false,1
+1997,Jennifer Ehle,Wilde,false,false,1
+1997,Lesley Sharp,The Full Monty,false,false,1
+1997,Zoe Wanamaker,Wilde,false,false,1
+1998,Judi Dench,Shakespeare in Love,true,false,1
+1998,Kathy Bates,Primary Colors,false,false,1
+1998,Brenda Blethyn,Little Voice,false,false,1
+1998,Lynn Redgrave,Gods and Monsters,false,false,1
+1999,Maggie Smith,Tea with Mussolini,true,false,1
+1999,Thora Birch,American Beauty,false,false,1
+1999,Cate Blanchett,The Talented Mr. Ripley,false,false,1
+1999,Cameron Diaz,Being John Malkovich,false,false,1
+1999,Mena Suvari,American Beauty,false,false,1
+2000,Julie Walters,Billy Elliot,true,false,1
+2000,Judi Dench,Chocolat,false,false,1
+2000,Frances McDormand,Almost Famous,false,false,1
+2000,Lena Olin,Chocolat,false,false,1
+2000,Ziyi Zhang,"Crouching Tiger, Hidden Dragon",false,false,1
+2001,Jennifer Connelly,A Beautiful Mind,true,false,1
+2001,Judi Dench,The Shipping News,false,false,1
+2001,Helen Mirren,Gosford Park / Maggie Smith,false,false,2
+2001,Kate Winslet,Iris,false,false,1
+2002,Catherine Zeta-Jones,Chicago,true,false,1
+2002,Toni Collette,About a Boy,false,false,1
+2002,Julianne Moore,The Hours,false,false,1
+2002,Queen Latifah,Chicago,false,false,1
+2002,Meryl Streep,Adaptation,false,false,1
+2003,Renée Zellweger,Cold Mountain,true,false,1
+2003,Holly Hunter,Thirteen,false,false,1
+2003,Laura Linney,Mystic River,false,false,1
+2003,Judy Parfitt,Girl with a Pearl Earring,false,false,1
+2003,Emma Thompson,Love Actually,false,false,1
+2004,Cate Blanchett,The Aviator,true,false,1
+2004,Julie Christie,Finding Neverland,false,false,1
+2004,Heather Craney,Vera Drake,false,false,1
+2004,Natalie Portman,Closer,false,false,1
+2004,Meryl Streep,The Manchurian Candidate,false,false,1
+2005,Thandiwe Newton,Crash,true,false,1
+2005,Brenda Blethyn,Pride & Prejudice,false,false,1
+2005,Catherine Keener,Capote,false,false,1
+2005,Frances McDormand,North Country,false,false,1
+2005,Michelle Williams,Brokeback Mountain,false,false,1
+2006,Jennifer Hudson,Dreamgirls,true,false,1
+2006,Emily Blunt,The Devil Wears Prada,false,false,1
+2006,Abigail Breslin,Little Miss Sunshine / Toni Collette,false,false,2
+2006,Frances de la Tour,The History Boys,false,false,1
+2007,Tilda Swinton,Michael Clayton,true,false,1
+2007,Cate Blanchett,I'm Not There,false,false,1
+2007,Kelly Macdonald,No Country for Old Men,false,false,1
+2007,Samantha Morton,Control,false,false,1
+2007,Saoirse Ronan,Atonement,false,false,1
+2008,Penélope Cruz,Vicky Cristina Barcelona,true,false,1
+2008,Amy Adams,Doubt,false,false,1
+2008,Freida Pinto,Slumdog Millionaire,false,false,1
+2008,Tilda Swinton,Burn After Reading,false,false,1
+2008,Marisa Tomei,The Wrestler,false,false,1
+2009,Mo'Nique,Precious,true,false,1
+2009,Anne-Marie Duff,Nowhere Boy,false,false,1
+2009,Vera Farmiga,Up in the Air / Anna Kendrick,false,false,2
+2009,Kristin Scott Thomas,Nowhere Boy,false,false,1
+2010,Helena Bonham Carter,The King's Speech,true,false,1
+2010,Amy Adams,The Fighter,false,false,1
+2010,Barbara Hershey,Black Swan,false,false,1
+2010,Lesley Manville,Another Year,false,false,1
+2010,Miranda Richardson,Made in Dagenham,false,false,1
+2011,Octavia Spencer,The Help,true,false,1
+2011,Jessica Chastain,The Help,false,false,1
+2011,Judi Dench,My Week with Marilyn,false,false,1
+2011,Melissa McCarthy,Bridesmaids,false,false,1
+2011,Carey Mulligan,Drive,false,false,1
+2012,Anne Hathaway,Les Misérables,true,false,1
+2012,Amy Adams,The Master,false,false,1
+2012,Judi Dench,Skyfall,false,false,1
+2012,Sally Field,Lincoln,false,false,1
+2012,Helen Hunt,The Sessions,false,false,1
+2013,Jennifer Lawrence,American Hustle,true,false,1
+2013,Sally Hawkins,Blue Jasmine,false,false,1
+2013,Lupita Nyong'o,12 Years a Slave,false,false,1
+2013,Julia Roberts,August: Osage County,false,false,1
+2013,Oprah Winfrey,The Butler,false,false,1
+2014,Patricia Arquette,Boyhood,true,false,1
+2014,Keira Knightley,The Imitation Game,false,false,1
+2014,Rene Russo,Nightcrawler,false,false,1
+2014,Imelda Staunton,Pride,false,false,1
+2014,Emma Stone,Birdman,false,false,1
+2015,Kate Winslet,Steve Jobs,true,false,1
+2015,Jennifer Jason Leigh,The Hateful Eight,false,false,1
+2015,Rooney Mara,Carol,false,false,1
+2015,Alicia Vikander,Ex Machina,false,false,1
+2015,Julie Walters,Brooklyn,false,false,1
+2016,Viola Davis,Fences,true,false,1
+2016,Naomie Harris,Moonlight,false,false,1
+2016,Nicole Kidman,Lion,false,false,1
+2016,Hayley Squires,"I, Daniel Blake",false,false,1
+2016,Michelle Williams,Manchester by the Sea,false,false,1
+2017,Allison Janney,"I, Tonya",true,false,1
+2017,Lesley Manville,Phantom Thread,false,false,1
+2017,Laurie Metcalf,Lady Bird,false,false,1
+2017,Kristin Scott Thomas,Darkest Hour,false,false,1
+2017,Octavia Spencer,The Shape of Water,false,false,1
+2018,Rachel Weisz,The Favourite,true,false,1
+2018,Amy Adams,Vice,false,false,1
+2018,Claire Foy,First Man,false,false,1
+2018,Margot Robbie,Mary Queen of Scots,false,false,1
+2018,Emma Stone,The Favourite,false,false,1
+2019,Laura Dern,Marriage Story,true,false,1
+2019,Scarlett Johansson,Jojo Rabbit,false,false,1
+2019,Florence Pugh,Little Women,false,false,1
+2019,Margot Robbie,Bombshell / Once Upon a Time in Hollywood,false,false,2
+2020,Youn Yuh-jung,Minari,true,false,1
+2020,Niamh Algar,Calm with Horses,false,false,1
+2020,Kosar Ali,Rocks,false,false,1
+2020,Maria Bakalova,Borat Subsequent Moviefilm,false,false,1
+2020,Dominique Fishback,Judas and the Black Messiah,false,false,1
+2020,Ashley Madekwe,County Lines,false,false,1
+2021,Ariana DeBose,West Side Story,true,false,1
+2021,Caitríona Balfe,Belfast,false,false,1
+2021,Jessie Buckley,The Lost Daughter,false,false,1
+2021,Ann Dowd,Mass,false,false,1
+2021,Aunjanue Ellis-Taylor,King Richard,false,false,1
+2021,Ruth Negga,Passing,false,false,1
+2022,Kerry Condon,The Banshees of Inisherin,true,false,1
+2022,Angela Bassett,Black Panther: Wakanda Forever,false,false,1
+2022,Hong Chau,The Whale,false,false,1
+2022,Jamie Lee Curtis,Everything Everywhere All at Once,false,false,1
+2022,Dolly de Leon,Triangle of Sadness,false,false,1
+2022,Carey Mulligan,She Said,false,false,1
+2023,Da'Vine Joy Randolph,The Holdovers,true,false,1
+2023,Emily Blunt,Oppenheimer,false,false,1
+2023,Danielle Brooks,The Color Purple,false,false,1
+2023,Claire Foy,All of Us Strangers,false,false,1
+2023,Sandra Hüller,The Zone of Interest,false,false,1
+2023,Rosamund Pike,Saltburn,false,false,1
+2024,Zoe Saldaña,Emilia Pérez,true,false,1
+2024,Jamie Lee Curtis,The Last Showgirl,false,false,1
+2024,Selena Gomez,Emilia Pérez,false,false,1
+2024,Ariana Grande,Wicked,false,false,1
+2024,Felicity Jones,The Brutalist,false,false,1
+2024,Isabella Rossellini,Conclave,false,false,1
+2025,Wunmi Mosaku,Sinners,true,false,1
+2025,Odessa A'zion,Marty Supreme,false,false,1
+2025,Inga Ibsdotter Lilleaas,Sentimental Value,false,false,1
+2025,Carey Mulligan,The Ballad of Wallis Island,false,false,1
+2025,Teyana Taylor,One Battle after Another,false,false,1
+2025,Emily Watson,Hamnet,false,false,1

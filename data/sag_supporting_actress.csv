@@ -1,0 +1,161 @@
+year,actress,film,is_winner,is_tie
+1994,Dianne Wiest,Bullets over Broadway,true,false
+1994,Jamie Lee Curtis,True Lies,false,false
+1994,Sally Field,Forrest Gump,false,false
+1994,Uma Thurman,Pulp Fiction,false,false
+1994,Robin Wright,Forrest Gump,false,false
+1995,Kate Winslet,Sense and Sensibility,true,false
+1995,Stockard Channing,Smoke,false,false
+1995,Anjelica Huston,The Crossing Guard,false,false
+1995,Mira Sorvino,Mighty Aphrodite,false,false
+1995,Mare Winningham,Georgia,false,false
+1996,Lauren Bacall,The Mirror Has Two Faces,true,false
+1996,Juliette Binoche,The English Patient,false,false
+1996,Marisa Tomei,Unhook the Stars,false,false
+1996,Gwen Verdon,Marvin's Room,false,false
+1996,Renée Zellweger,Jerry Maguire,false,false
+1997,Kim Basinger,L.A. Confidential,true,false
+1997,Gloria Stuart,Titanic,true,false
+1997,Minnie Driver,Good Will Hunting,false,false
+1997,Alison Elliott,The Wings of the Dove,false,false
+1997,Julianne Moore,Boogie Nights,false,false
+1998,Kathy Bates,Primary Colors,true,false
+1998,Brenda Blethyn,Little Voice,false,false
+1998,Judi Dench,Shakespeare in Love,false,false
+1998,Rachel Griffiths,Hilary and Jackie,false,false
+1998,Lynn Redgrave,Gods and Monsters,false,false
+1999,Angelina Jolie,"Girl, Interrupted",true,false
+1999,Cameron Diaz,Being John Malkovich,false,false
+1999,Catherine Keener,Maxine Lund,false,false
+1999,Julianne Moore,Magnolia,false,false
+1999,Chloë Sevigny,Boys Don't Cry,false,false
+2000,Judi Dench,Chocolat,true,false
+2000,Kate Hudson,Almost Famous,false,false
+2000,Frances McDormand,Elaine Miller,false,false
+2000,Julie Walters,Billy Elliot,false,false
+2000,Kate Winslet,Quills,false,false
+2001,Helen Mirren,Gosford Park,true,false
+2001,Cate Blanchett,Bandits,false,false
+2001,Judi Dench,The Shipping News,false,false
+2001,Cameron Diaz,Vanilla Sky,false,false
+2001,Dakota Fanning,I Am Sam,false,false
+2002,Catherine Zeta-Jones,Chicago,true,false
+2002,Kathy Bates,About Schmidt,false,false
+2002,Queen Latifah,Chicago,false,false
+2002,Julianne Moore,The Hours,false,false
+2002,Michelle Pfeiffer,White Oleander,false,false
+2003,Renée Zellweger,Cold Mountain,true,false
+2003,Maria Bello,The Cooler,false,false
+2003,Keisha Castle-Hughes,Whale Rider,false,false
+2003,Patricia Clarkson,Pieces of April,false,false
+2003,Holly Hunter,Thirteen,false,false
+2004,Cate Blanchett,The Aviator,true,false
+2004,Cloris Leachman,Spanglish,false,false
+2004,Laura Linney,Kinsey,false,false
+2004,Virginia Madsen,Sideways,false,false
+2004,Sophie Okonedo,Hotel Rwanda,false,false
+2005,Rachel Weisz,The Constant Gardener,true,false
+2005,Amy Adams,Junebug,false,false
+2005,Catherine Keener,Capote,false,false
+2005,Frances McDormand,North Country,false,false
+2005,Michelle Williams,Brokeback Mountain,false,false
+2006,Jennifer Hudson,Dreamgirls,true,false
+2006,Adriana Barraza,Babel,false,false
+2006,Cate Blanchett,Notes on a Scandal,false,false
+2006,Abigail Breslin,Little Miss Sunshine,false,false
+2006,Rinko Kikuchi,Babel,false,false
+2007,Ruby Dee,American Gangster,true,false
+2007,Cate Blanchett,I'm Not There,false,false
+2007,Catherine Keener,Into the Wild,false,false
+2007,Amy Ryan,Gone Baby Gone,false,false
+2007,Tilda Swinton,Michael Clayton,false,false
+2008,Kate Winslet,The Reader,true,false
+2008,Amy Adams,Doubt,false,false
+2008,Penélope Cruz,Vicky Cristina Barcelona,false,false
+2008,Viola Davis,Doubt,false,false
+2008,Taraji P. Henson,The Curious Case of Benjamin Button,false,false
+2009,Mo'Nique,Precious,true,false
+2009,Penélope Cruz,Nine,false,false
+2009,Vera Farmiga,Up in the Air,false,false
+2009,Anna Kendrick,Natalie Keener,false,false
+2009,Diane Kruger,Inglourious Basterds,false,false
+2010,Melissa Leo,The Fighter,true,false
+2010,Amy Adams,The Fighter,false,false
+2010,Helena Bonham Carter,The King's Speech,false,false
+2010,Mila Kunis,Black Swan,false,false
+2010,Hailee Steinfeld,True Grit,false,false
+2011,Octavia Spencer,The Help,true,false
+2011,Bérénice Bejo,The Artist,false,false
+2011,Jessica Chastain,The Help,false,false
+2011,Melissa McCarthy,Bridesmaids,false,false
+2011,Janet McTeer,Albert Nobbs,false,false
+2012,Anne Hathaway,Les Misérables,true,false
+2012,Sally Field,Lincoln,false,false
+2012,Helen Hunt,The Sessions,false,false
+2012,Nicole Kidman,The Paperboy,false,false
+2012,Maggie Smith,The Best Exotic Marigold Hotel,false,false
+2013,Lupita Nyong'o,12 Years a Slave,true,false
+2013,Jennifer Lawrence,American Hustle,false,false
+2013,Julia Roberts,August: Osage County,false,false
+2013,June Squibb,Nebraska,false,false
+2013,Oprah Winfrey,The Butler,false,false
+2014,Patricia Arquette,Boyhood,true,false
+2014,Keira Knightley,The Imitation Game,false,false
+2014,Emma Stone,Birdman,false,false
+2014,Meryl Streep,Into the Woods,false,false
+2014,Naomi Watts,St. Vincent,false,false
+2015,Alicia Vikander,The Danish Girl,true,false
+2015,Rooney Mara,Carol,false,false
+2015,Rachel McAdams,Spotlight,false,false
+2015,Helen Mirren,Trumbo,false,false
+2015,Kate Winslet,Steve Jobs,false,false
+2016,Viola Davis,Fences,true,false
+2016,Naomie Harris,Moonlight,false,false
+2016,Nicole Kidman,Lion,false,false
+2016,Octavia Spencer,Hidden Figures,false,false
+2016,Michelle Williams,Manchester by the Sea,false,false
+2017,Allison Janney,"I, Tonya",true,false
+2017,Mary J. Blige,Mudbound,false,false
+2017,Hong Chau,Downsizing,false,false
+2017,Holly Hunter,The Big Sick,false,false
+2017,Laurie Metcalf,Lady Bird,false,false
+2018,Emily Blunt,A Quiet Place,true,false
+2018,Amy Adams,Vice,false,false
+2018,Margot Robbie,Mary Queen of Scots,false,false
+2018,Emma Stone,The Favourite,false,false
+2018,Rachel Weisz,Lady Sarah,false,false
+2019,Laura Dern,Marriage Story,true,false
+2019,Scarlett Johansson,Jojo Rabbit,false,false
+2019,Nicole Kidman,Bombshell,false,false
+2019,Jennifer Lopez,Hustlers,false,false
+2019,Margot Robbie,Bombshell,false,false
+2020,Yuh-Jung Youn,Minari,true,false
+2020,Maria Bakalova,Borat Subsequent Moviefilm,false,false
+2020,Glenn Close,Hillbilly Elegy,false,false
+2020,Olivia Colman,The Father,false,false
+2020,Helena Zengel,News of the World,false,false
+2021,Ariana DeBose,West Side Story,true,false
+2021,Caitríona Balfe,Belfast,false,false
+2021,Cate Blanchett,Nightmare Alley,false,false
+2021,Kirsten Dunst,The Power of the Dog,false,false
+2021,Ruth Negga,Passing,false,false
+2022,Jamie Lee Curtis,Everything Everywhere All at Once,true,false
+2022,Angela Bassett,Black Panther: Wakanda Forever,false,false
+2022,Hong Chau,The Whale,false,false
+2022,Kerry Condon,The Banshees of Inisherin,false,false
+2022,Stephanie Hsu,Everything Everywhere All at Once,false,false
+2023,Da'Vine Joy Randolph,The Holdovers,true,false
+2023,Emily Blunt,Oppenheimer,false,false
+2023,Danielle Brooks,The Color Purple,false,false
+2023,Penélope Cruz,Ferrari,false,false
+2023,Jodie Foster,Nyad,false,false
+2024,Zoe Saldaña,Emilia Pérez,true,false
+2024,Monica Barbaro,A Complete Unknown,false,false
+2024,Jamie Lee Curtis,The Last Showgirl,false,false
+2024,Danielle Deadwyler,The Piano Lesson,false,false
+2024,Ariana Grande,Wicked,false,false
+2025,Amy Madigan,Weapons,true,false
+2025,Odessa A'zion,Marty Supreme,false,false
+2025,Ariana Grande,Wicked: For Good,false,false
+2025,Wunmi Mosaku,Sinners,false,false
+2025,Teyana Taylor,One Battle after Another,false,false

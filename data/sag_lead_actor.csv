@@ -1,0 +1,161 @@
+year,actor,film,is_winner,is_tie
+1994,Tom Hanks,Forrest Gump,true,false
+1994,Morgan Freeman,The Shawshank Redemption,false,false
+1994,Paul Newman,Nobody's Fool,false,false
+1994,Tim Robbins,The Shawshank Redemption,false,false
+1994,John Travolta,Pulp Fiction,false,false
+1995,Nicolas Cage,Leaving Las Vegas,true,false
+1995,Anthony Hopkins,Nixon,false,false
+1995,James Earl Jones,"Cry, the Beloved Country",false,false
+1995,Sean Penn,Dead Man Walking,false,false
+1995,Massimo Troisi,Il Postino: The Postman,false,false
+1996,Geoffrey Rush,Shine,true,false
+1996,Tom Cruise,Jerry Maguire,false,false
+1996,Ralph Fiennes,The English Patient,false,false
+1996,Woody Harrelson,The People vs. Larry Flynt,false,false
+1996,Billy Bob Thornton,Sling Blade,false,false
+1997,Jack Nicholson,As Good as It Gets,true,false
+1997,Matt Damon,Good Will Hunting,false,false
+1997,Robert Duvall,The Apostle,false,false
+1997,Peter Fonda,Ulee's Gold,false,false
+1997,Dustin Hoffman,Wag the Dog,false,false
+1998,Roberto Benigni,Life Is Beautiful,true,false
+1998,Joseph Fiennes,Shakespeare in Love,false,false
+1998,Tom Hanks,Saving Private Ryan,false,false
+1998,Ian McKellen,Gods and Monsters,false,false
+1998,Nick Nolte,Affliction,false,false
+1999,Kevin Spacey,American Beauty,true,false
+1999,Jim Carrey,Man on the Moon,false,false
+1999,Russell Crowe,The Insider,false,false
+1999,Philip Seymour Hoffman,Flawless,false,false
+1999,Denzel Washington,The Hurricane,false,false
+2000,Benicio Del Toro,Traffic,true,false
+2000,Jamie Bell,Billy Elliot,false,false
+2000,Russell Crowe,Gladiator,false,false
+2000,Tom Hanks,Cast Away,false,false
+2000,Geoffrey Rush,Quills,false,false
+2001,Russell Crowe,A Beautiful Mind,true,false
+2001,Kevin Kline,Life as a House,false,false
+2001,Sean Penn,I Am Sam,false,false
+2001,Denzel Washington,Training Day,false,false
+2001,Tom Wilkinson,In the Bedroom,false,false
+2002,Daniel Day-Lewis,Gangs of New York,true,false
+2002,Adrien Brody,The Pianist,false,false
+2002,Nicolas Cage,Adaptation,false,false
+2002,Richard Gere,Chicago,false,false
+2002,Jack Nicholson,About Schmidt,false,false
+2003,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl,true,false
+2003,Peter Dinklage,The Station Agent,false,false
+2003,Ben Kingsley,House of Sand and Fog,false,false
+2003,Bill Murray,Lost in Translation,false,false
+2003,Sean Penn,Mystic River,false,false
+2004,Jamie Foxx,Ray,true,false
+2004,Don Cheadle,Hotel Rwanda,false,false
+2004,Johnny Depp,Finding Neverland,false,false
+2004,Leonardo DiCaprio,The Aviator,false,false
+2004,Paul Giamatti,Sideways,false,false
+2005,Philip Seymour Hoffman,Capote,true,false
+2005,Russell Crowe,Cinderella Man,false,false
+2005,Heath Ledger,Brokeback Mountain,false,false
+2005,Joaquin Phoenix,Walk the Line,false,false
+2005,David Strathairn,"Good Night, and Good Luck.",false,false
+2006,Forest Whitaker,The Last King of Scotland,true,false
+2006,Leonardo DiCaprio,Blood Diamond,false,false
+2006,Ryan Gosling,Half Nelson,false,false
+2006,Peter O'Toole,Venus,false,false
+2006,Will Smith,The Pursuit of Happyness,false,false
+2007,Daniel Day-Lewis,There Will Be Blood,true,false
+2007,George Clooney,Michael Clayton,false,false
+2007,Ryan Gosling,Lars and the Real Girl,false,false
+2007,Emile Hirsch,Into the Wild,false,false
+2007,Viggo Mortensen,Eastern Promises,false,false
+2008,Sean Penn,Milk,true,false
+2008,Richard Jenkins,The Visitor,false,false
+2008,Frank Langella,Frost/Nixon,false,false
+2008,Brad Pitt,The Curious Case of Benjamin Button,false,false
+2008,Mickey Rourke,The Wrestler,false,false
+2009,Jeff Bridges,Crazy Heart,true,false
+2009,George Clooney,Up in the Air,false,false
+2009,Colin Firth,A Single Man,false,false
+2009,Morgan Freeman,Invictus,false,false
+2009,Jeremy Renner,The Hurt Locker,false,false
+2010,Colin Firth,The King's Speech,true,false
+2010,Jeff Bridges,True Grit,false,false
+2010,Robert Duvall,Get Low,false,false
+2010,Jesse Eisenberg,The Social Network,false,false
+2010,James Franco,127 Hours,false,false
+2011,Jean Dujardin,The Artist,true,false
+2011,Demián Bichir,A Better Life,false,false
+2011,George Clooney,The Descendants,false,false
+2011,Leonardo DiCaprio,J. Edgar,false,false
+2011,Brad Pitt,Moneyball,false,false
+2012,Daniel Day-Lewis,Lincoln,true,false
+2012,Bradley Cooper,Silver Linings Playbook,false,false
+2012,John Hawkes,The Sessions,false,false
+2012,Hugh Jackman,Les Misérables,false,false
+2012,Denzel Washington,Flight,false,false
+2013,Matthew McConaughey,Dallas Buyers Club,true,false
+2013,Bruce Dern,Nebraska,false,false
+2013,Chiwetel Ejiofor,12 Years a Slave,false,false
+2013,Tom Hanks,Captain Phillips,false,false
+2013,Forest Whitaker,The Butler,false,false
+2014,Eddie Redmayne,The Theory of Everything,true,false
+2014,Steve Carell,Foxcatcher,false,false
+2014,Benedict Cumberbatch,The Imitation Game,false,false
+2014,Jake Gyllenhaal,Nightcrawler,false,false
+2014,Michael Keaton,Birdman,false,false
+2015,Leonardo DiCaprio,The Revenant,true,false
+2015,Bryan Cranston,Trumbo,false,false
+2015,Johnny Depp,Black Mass,false,false
+2015,Michael Fassbender,Steve Jobs,false,false
+2015,Eddie Redmayne,The Danish Girl,false,false
+2016,Denzel Washington,Fences,true,false
+2016,Casey Affleck,Manchester by the Sea,false,false
+2016,Ryan Gosling,La La Land,false,false
+2016,Andrew Garfield,Hacksaw Ridge,false,false
+2016,Viggo Mortensen,Captain Fantastic,false,false
+2017,Gary Oldman,Darkest Hour,true,false
+2017,Timothée Chalamet,Call Me by Your Name,false,false
+2017,James Franco,The Disaster Artist,false,false
+2017,Daniel Kaluuya,Get Out,false,false
+2017,Denzel Washington,"Roman J. Israel, Esq.",false,false
+2018,Rami Malek,Bohemian Rhapsody,true,false
+2018,Christian Bale,Vice,false,false
+2018,Bradley Cooper,A Star Is Born,false,false
+2018,Viggo Mortensen,Green Book,false,false
+2018,John David Washington,BlacKkKlansman,false,false
+2019,Joaquin Phoenix,Joker,true,false
+2019,Christian Bale,Ford v Ferrari,false,false
+2019,Leonardo DiCaprio,Once upon a Time...in Hollywood,false,false
+2019,Adam Driver,Marriage Story,false,false
+2019,Taron Egerton,Rocketman,false,false
+2020,Chadwick Boseman,Ma Rainey's Black Bottom,true,false
+2020,Riz Ahmed,Sound of Metal,false,false
+2020,Anthony Hopkins,The Father,false,false
+2020,Gary Oldman,Mank,false,false
+2020,Steven Yeun,Minari,false,false
+2021,Will Smith,King Richard,true,false
+2021,Javier Bardem,Being the Ricardos,false,false
+2021,Benedict Cumberbatch,The Power of the Dog,false,false
+2021,Andrew Garfield,"tick, tick...BOOM!",false,false
+2021,Denzel Washington,The Tragedy of Macbeth,false,false
+2022,Brendan Fraser,The Whale,true,false
+2022,Austin Butler,Elvis,false,false
+2022,Colin Farrell,The Banshees of Inisherin,false,false
+2022,Bill Nighy,Living,false,false
+2022,Adam Sandler,Hustle,false,false
+2023,Cillian Murphy,Oppenheimer,true,false
+2023,Bradley Cooper,Maestro,false,false
+2023,Colman Domingo,Rustin,false,false
+2023,Paul Giamatti,The Holdovers,false,false
+2023,Jeffrey Wright,American Fiction,false,false
+2024,Timothée Chalamet,A Complete Unknown,true,false
+2024,Adrien Brody,The Brutalist,false,false
+2024,Daniel Craig,Queer,false,false
+2024,Colman Domingo,Sing Sing,false,false
+2024,Ralph Fiennes,Conclave,false,false
+2025,Michael B. Jordan,Sinners,true,false
+2025,Timothée Chalamet,Marty Supreme,false,false
+2025,Leonardo DiCaprio,One Battle after Another,false,false
+2025,Ethan Hawke,Blue Moon,false,false
+2025,Jesse Plemons,Bugonia,false,false

@@ -1,0 +1,228 @@
+version: "1.0"
+
+semantic_model:
+  name: oscars_2026_analysis
+  description: >
+    Semantic model for predicting 2026 Oscar winners using historical Academy Award data
+    and 2025-season precursor awards (BAFTA, Golden Globes, SAG, Critics Choice, TIFF).
+
+  ai_context:
+    instructions: >
+      KEY DATA QUIRKS — handle these in every query:
+
+      1. GOLDEN GLOBE YEAR SCHEMA: All gg_* tables use year_from and year_to columns instead
+         of a single year column. Use year_from to match the film release/eligibility year
+         (e.g. year_from = 2025 for 2026 Oscar ceremony films). GG tables contain winners
+         only — there are no nominee rows, only one row per year per category.
+
+      2. BAFTA ACTOR/ACTRESS CATEGORY COLUMN: bafta_leading_actor and bafta_leading_actress
+         both have a 'category' column. Early years show "Best British Actor" / "Best British
+         Actress"; the modern unified category (from ~1968) is "Best Actor" / "Best Actress".
+         Filter on the modern value for cross-era comparisons.
+
+      3. ACTRESS VS ACTOR COLUMN NAME: Actress-specific tables (bafta_leading_actress,
+         bafta_supporting_actress, sag_lead_actress, sag_supporting_actress,
+         critics_choice_actress, critics_choice_supporting_actress,
+         golden_globe_actress_drama, golden_globe_actress_comedy) use the column name
+         'actress', not 'actor'.
+
+      4. GOLDEN GLOBE PHYSICAL TABLE NAMES: The GG actress tables have different physical
+         names than their catalog IDs. Use:
+           gg_actress_drama.default.golden_globe_actress_drama
+           gg_actress_comedy.default.golden_globe_actress_comedy
+         (All other gg_* table names match their catalog ID.)
+
+      5. 2026 OSCAR NOMINEES: Use Ceremony = 98 and Year = '2025' to retrieve the 2026
+         nominees. The Winner column is BLANK (not 'False') for all Ceremony 98 rows —
+         the ceremony has not yet occurred. Do not filter on Winner for Ceremony 98.
+
+  datasets:
+    - name: oscar_nominations
+      source: oscars.default.oscar_nominations
+      description: >
+        Historical Academy Award nominations, ceremonies 1 through 98. Ceremony 98 covers
+        films from 2025 (the 2026 Oscar ceremony). Winner is 'True' for winners, blank for
+        non-winners and all Ceremony 98 rows.
+      fields:
+        - name: Ceremony
+          description: Ceremony number (integer). 1 = 1927/28, 98 = 2026 ceremony for 2025 films.
+        - name: Year
+          description: >
+            Release year as a string. Most years are four-digit (e.g. '2025'), but early
+            ceremonies use slash notation (e.g. '1927/28'). Cast to INTEGER carefully —
+            early years will fail conversion. Filter by Ceremony number when possible.
+        - name: CanonicalCategory
+          description: >
+            Standardized category name. Key values for this project:
+            'BEST PICTURE', 'DIRECTING', 'ACTOR IN A LEADING ROLE',
+            'ACTRESS IN A LEADING ROLE', 'ACTOR IN A SUPPORTING ROLE',
+            'ACTRESS IN A SUPPORTING ROLE'
+        - name: Film
+          description: >
+            Film title. Pipe-separated (|) for split nominations across multiple films.
+        - name: Name
+          description: >
+            Nominee name. For BEST PICTURE this is producer names; for DIRECTING it is the
+            director; for acting categories it is the performer.
+        - name: Winner
+          description: >
+            'True' (string) if winner, blank string if nominated but did not win.
+            Blank for ALL Ceremony 98 rows (ceremony not yet held).
+
+    - name: bafta_film
+      source: bafta_film.default.bafta_film
+      description: >
+        BAFTA Award for Best Film. Columns: year (integer, release year), film, director,
+        is_winner (boolean), is_tie, num_films. Contains both nominees and winners.
+
+    - name: bafta_direction
+      source: bafta_direction.default.bafta_direction
+      description: >
+        BAFTA Award for Best Direction. Columns: year, director, film, is_winner, is_tie, num_films.
+        Contains both nominees and winners.
+
+    - name: bafta_leading_actor
+      source: bafta_leading_actor.default.bafta_leading_actor
+      description: >
+        BAFTA Best Actor in a Leading Role. Columns: year, actor, film, is_winner, is_tie,
+        category, num_films. The 'category' column splits early history: "Best British Actor"
+        (pre-~1968) vs "Best Actor" (modern era). Filter on category = 'Best Actor' for
+        modern-era analysis. Contains both nominees and winners.
+
+    - name: bafta_leading_actress
+      source: bafta_leading_actress.default.bafta_leading_actress
+      description: >
+        BAFTA Best Actress in a Leading Role. Columns: year, actress, film, is_winner, is_tie,
+        category, num_films. Same category split as bafta_leading_actor: "Best British Actress"
+        vs "Best Actress". Filter on category = 'Best Actress' for modern-era analysis.
+        Contains both nominees and winners.
+
+    - name: bafta_supporting_actor
+      source: bafta_supporting_actor.default.bafta_supporting_actor
+      description: >
+        BAFTA Best Supporting Actor. Columns: year, actor, film, is_winner, is_tie, num_films.
+        Contains both nominees and winners.
+
+    - name: bafta_supporting_actress
+      source: bafta_supporting_actress.default.bafta_supporting_actress
+      description: >
+        BAFTA Best Supporting Actress. Columns: year, actress, film, is_winner, is_tie, num_films.
+        Contains both nominees and winners.
+
+    - name: gg_picture_drama
+      source: gg_picture_drama.default.gg_picture_drama
+      description: >
+        Golden Globe Best Picture - Drama. Columns: year_from, year_to, film, is_winner, is_tie.
+        Winners only — no nominee rows. Use year_from for release year matching.
+
+    - name: gg_picture_comedy
+      source: gg_picture_comedy.default.gg_picture_comedy
+      description: >
+        Golden Globe Best Picture - Musical or Comedy. Columns: year_from, year_to, film,
+        is_winner, is_tie. Winners only. Use year_from for release year matching.
+
+    - name: gg_director
+      source: gg_director.default.gg_director
+      description: >
+        Golden Globe Best Director. Columns: year_from, year_to, director, film, is_winner, is_tie.
+        Winners only. Use year_from for release year matching.
+
+    - name: gg_actor_drama
+      source: gg_actor_drama.default.gg_actor_drama
+      description: >
+        Golden Globe Best Actor - Drama. Columns: year_from, year_to, actor, film, is_winner, is_tie.
+        Winners only. Use year_from for release year matching.
+
+    - name: gg_actor_comedy
+      source: gg_actor_comedy.default.gg_actor_comedy
+      description: >
+        Golden Globe Best Actor - Musical or Comedy. Columns: year_from, year_to, actor, film,
+        is_winner, is_tie. Winners only. Note: GG Comedy Actor has historically low conversion
+        to Oscar Best Actor (~9%) — treat with caution in prediction queries.
+
+    - name: gg_actress_drama
+      source: gg_actress_drama.default.golden_globe_actress_drama
+      description: >
+        Golden Globe Best Actress - Drama. Physical table: golden_globe_actress_drama.
+        Columns: year_from, year_to, actress, film, is_winner, is_tie. Winners only.
+        Use year_from for release year matching. Column is 'actress', not 'actor'.
+
+    - name: gg_actress_comedy
+      source: gg_actress_comedy.default.golden_globe_actress_comedy
+      description: >
+        Golden Globe Best Actress - Musical or Comedy. Physical table: golden_globe_actress_comedy.
+        Columns: year_from, year_to, actress, film, is_winner, is_tie. Winners only.
+        Column is 'actress', not 'actor'.
+
+    - name: sag_cast
+      source: sag_cast.default.sag_cast_award
+      description: >
+        SAG Outstanding Cast in a Motion Picture. Columns: year (integer, release year),
+        film, is_winner, is_tie. Contains both nominees and winners.
+
+    - name: sag_lead_actor
+      source: sag_lead_actor.default.sag_lead_actor
+      description: >
+        SAG Outstanding Male Actor - Leading Role. Columns: year, actor, film, is_winner, is_tie.
+        Contains both nominees and winners.
+
+    - name: sag_lead_actress
+      source: sag_lead_actress.default.sag_lead_actress
+      description: >
+        SAG Outstanding Female Actor - Leading Role. Columns: year, actress, film, is_winner, is_tie.
+        Contains both nominees and winners. Column is 'actress', not 'actor'.
+
+    - name: sag_supporting_actor
+      source: sag_supporting_actor.default.sag_supporting_actor
+      description: >
+        SAG Outstanding Male Actor - Supporting Role. Columns: year, actor, film, is_winner, is_tie.
+        Contains both nominees and winners.
+
+    - name: sag_supporting_actress
+      source: sag_supporting_actress.default.sag_supporting_actress
+      description: >
+        SAG Outstanding Female Actor - Supporting Role. Columns: year, actress, film, is_winner, is_tie.
+        Contains both nominees and winners. Column is 'actress', not 'actor'.
+
+    - name: critics_choice_picture
+      source: critics_choice_picture.default.critics_choice_picture
+      description: >
+        Critics Choice Award for Best Picture. Columns: year (integer, release year), film,
+        director, is_winner, is_tie. Contains both nominees and winners.
+
+    - name: critics_choice_director
+      source: critics_choice_director.default.critics_choice_director
+      description: >
+        Critics Choice Award for Best Director. Columns: year, director, film, is_winner, is_tie.
+        Contains both nominees and winners.
+
+    - name: critics_choice_actor
+      source: critics_choice_actor.default.critics_choice_actor
+      description: >
+        Critics Choice Award for Best Actor. Columns: year, actor, film, is_winner, is_tie.
+        Contains both nominees and winners.
+
+    - name: critics_choice_actress
+      source: critics_choice_actress.default.critics_choice_actress
+      description: >
+        Critics Choice Award for Best Actress. Columns: year, actress, film, is_winner, is_tie.
+        Contains both nominees and winners. Column is 'actress', not 'actor'.
+
+    - name: critics_choice_supporting_actor
+      source: critics_choice_supporting_actor.default.critics_choice_supporting_actor
+      description: >
+        Critics Choice Award for Best Supporting Actor. Columns: year, actor, film, is_winner, is_tie.
+        Contains both nominees and winners.
+
+    - name: critics_choice_supporting_actress
+      source: critics_choice_supporting_actress.default.critics_choice_supporting_actress
+      description: >
+        Critics Choice Award for Best Supporting Actress. Columns: year, actress, film, is_winner, is_tie.
+        Contains both nominees and winners. Column is 'actress', not 'actor'.
+
+    - name: tiff_peoples_choice
+      source: tiff.default.tiff_peoples_choice
+      description: >
+        TIFF People's Choice Award. Columns: year (integer, release year), film, director,
+        is_winner, is_tie. Contains both nominees and winners. No person-level (actor/actress)
+        data — film and director only.

@@ -1,0 +1,9 @@
+year_from,year_to,film,is_winner,is_tie
+1943,1944,The Song of Bernadette,true,false
+1944,1945,Going My Way,true,false
+1945,1946,The Lost Weekend,true,false
+1946,1947,The Best Years of Our Lives,true,false
+1947,1948,Gentleman's Agreement,true,false
+1948,1950,Johnny Belinda,true,true
+1948,1950,The Treasure of the Sierra Madre,true,true
+1949,1950,All the King's Men,true,false

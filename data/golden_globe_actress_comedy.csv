@@ -1,0 +1,80 @@
+year_from,year_to,actress,film,is_winner,is_tie
+1950,1951,Judy Holliday,Born Yesterday,true,false
+1951,1952,June Allyson,Too Young to Kiss,true,false
+1952,1953,Susan Hayward,With a Song in My Heart,true,false
+1953,1954,Ethel Merman,Call Me Madam,true,false
+1954,1955,Judy Garland,A Star Is Born,true,false
+1955,1956,Jean Simmons,Guys and Dolls,true,false
+1956,1957,Deborah Kerr,The King and I,true,false
+1957,1958,Taina Elg,Les Girls,true,true
+1957,1958,Kay Kendall,Les Girls,true,true
+1958,1959,Rosalind Russell,Auntie Mame,true,false
+1959,1960,Marilyn Monroe,Some Like It Hot,true,false
+1960,1961,Shirley MacLaine,The Apartment,true,false
+1961,1962,Rosalind Russell,A Majority of One,true,false
+1962,1963,Rosalind Russell,Gypsy,true,false
+1963,1964,Shirley MacLaine,Irma La Douce,true,false
+1964,1965,Julie Andrews,Mary Poppins,true,false
+1965,1966,Julie Andrews,The Sound of Music,true,false
+1966,1967,Lynn Redgrave,Georgy Girl,true,false
+1967,1968,Anne Bancroft,The Graduate,true,false
+1968,1969,Barbra Streisand,Funny Girl,true,false
+1969,1970,Patty Duke,"Me, Natalie",true,false
+1970,1971,Carrie Snodgress,Diary of a Mad Housewife,true,false
+1971,1972,Twiggy,The Boy Friend,true,false
+1972,1973,Liza Minnelli,Cabaret,true,false
+1973,1974,Glenda Jackson,A Touch of Class,true,false
+1974,1975,Raquel Welch,The Three Musketeers,true,false
+1975,1976,Ann-Margret,Tommy,true,false
+1976,1977,Barbra Streisand,A Star Is Born,true,false
+1977,1978,Diane Keaton,Annie Hall,true,true
+1977,1978,Marsha Mason,The Goodbye Girl,true,true
+1978,1979,Ellen Burstyn,"Same Time, Next Year",true,true
+1978,1979,Maggie Smith,California Suite,true,true
+1979,1980,Bette Midler,The Rose,true,false
+1980,1981,Sissy Spacek,Coal Miner's Daughter,true,false
+1981,1982,Bernadette Peters,Pennies from Heaven,true,false
+1982,1983,Julie Andrews,Victor Victoria,true,false
+1983,1984,Julie Walters,Educating Rita,true,false
+1984,1985,Kathleen Turner,Romancing the Stone,true,false
+1985,1986,Kathleen Turner,Prizzi's Honor,true,false
+1986,1987,Sissy Spacek,Crimes of the Heart,true,false
+1987,1988,Cher,Moonstruck,true,false
+1988,1989,Melanie Griffith,Working Girl,true,false
+1989,1990,Jessica Tandy,Driving Miss Daisy,true,false
+1990,1991,Julia Roberts,Pretty Woman,true,false
+1991,1992,Bette Midler,For the Boys,true,false
+1992,1993,Miranda Richardson,Enchanted April,true,false
+1993,1994,Angela Bassett,What's Love Got to Do with It,true,false
+1994,1995,Jamie Lee Curtis,True Lies,true,false
+1995,1996,Nicole Kidman,To Die For,true,false
+1996,1997,Madonna,Evita,true,false
+1997,1998,Helen Hunt,As Good as It Gets,true,false
+1998,1999,Gwyneth Paltrow,Shakespeare in Love,true,false
+1999,2000,Janet McTeer,Tumbleweeds,true,false
+2000,2001,Renée Zellweger,Nurse Betty,true,false
+2001,2002,Nicole Kidman,Moulin Rouge!,true,false
+2002,2003,Renée Zellweger,Chicago,true,false
+2003,2004,Diane Keaton,Something's Gotta Give,true,false
+2004,2005,Annette Bening,Being Julia,true,false
+2005,2006,Reese Witherspoon,Walk the Line,true,false
+2006,2007,Meryl Streep,The Devil Wears Prada,true,false
+2007,2008,Marion Cotillard,La Vie en Rose,true,false
+2008,2009,Sally Hawkins,Happy-Go-Lucky,true,false
+2009,2010,Meryl Streep,Julie & Julia,true,false
+2010,2011,Annette Bening,The Kids Are All Right,true,false
+2011,2012,Michelle Williams,My Week with Marilyn,true,false
+2012,2013,Jennifer Lawrence,Silver Linings Playbook,true,false
+2013,2014,Amy Adams,American Hustle,true,false
+2014,2015,Amy Adams,Big Eyes,true,false
+2015,2016,Jennifer Lawrence,Joy,true,false
+2016,2017,Emma Stone,La La Land,true,false
+2017,2018,Saoirse Ronan,Lady Bird,true,false
+2018,2019,Olivia Colman,The Favourite,true,false
+2019,2020,Awkwafina,The Farewell,true,false
+2020,2021,Rosamund Pike,I Care a Lot,true,false
+2021,2022,Rachel Zegler,West Side Story,true,false
+2022,2023,Michelle Yeoh,Everything Everywhere All at Once,true,false
+2023,2024,Emma Stone,Poor Things,true,false
+2024,2025,Demi Moore,The Substance,true,false
+2025,2026,Rose Byrne,If I Had Legs I'd Kick You,true,false

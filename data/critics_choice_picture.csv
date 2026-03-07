@@ -1,0 +1,305 @@
+year,film,director,is_winner,is_tie
+1995,Sense and Sensibility,Ang Lee,true,false
+1996,Fargo,Joel Coen and Ethan Coen,true,false
+1996,Big Night,Campbell Scott and Stanley Tucci,false,false
+1996,The Crucible,Nicholas Hytner,false,false
+1996,The English Patient,Anthony Minghella,false,false
+1996,Evita,Alan Parker,false,false
+1996,Hamlet,Kenneth Branagh,false,false
+1996,Jerry Maguire,Cameron Crowe,false,false
+1996,Lone Star,John Sayles,false,false
+1996,The People vs. Larry Flynt,Milos Forman,false,false
+1996,Shine,Scott Hicks,false,false
+1997,L.A. Confidential,Curtis Hanson,true,false
+1997,Amistad,Steven Spielberg,false,false
+1997,As Good as It Gets,James L. Brooks,false,false
+1997,Boogie Nights,Paul Thomas Anderson,false,false
+1997,Donnie Brasco,Mike Newell,false,false
+1997,Good Will Hunting,Gus Van Sant,false,false
+1997,The Full Monty,Peter Cattaneo,false,false
+1997,Titanic,James Cameron,false,false
+1997,Wag the Dog,Barry Levinson,false,false
+1997,The Wings of the Dove,Iain Softley,false,false
+1998,Saving Private Ryan,Steven Spielberg,true,false
+1998,Elizabeth,Shekhar Kapur,false,false
+1998,Gods and Monsters,Bill Condon,false,false
+1998,Life Is Beautiful,Roberto Benigni,false,false
+1998,Out of Sight,Steven Soderbergh,false,false
+1998,Pleasantville,Gary Ross,false,false
+1998,Shakespeare in Love,John Madden,false,false
+1998,A Simple Plan,Sam Raimi,false,false
+1998,The Thin Red Line,Terrence Malick,false,false
+1998,The Truman Show,Peter Weir,false,false
+1999,American Beauty,Sam Mendes,true,false
+1999,Being John Malkovich,Spike Jonze,false,false
+1999,The Cider House Rules,Lasse Hallström,false,false
+1999,The Green Mile,Frank Darabont,false,false
+1999,The Insider,Michael Mann,false,false
+1999,Magnolia,Paul Thomas Anderson,false,false
+1999,Man on the Moon,Milos Forman,false,false
+1999,The Sixth Sense,M. Night Shyamalan,false,false
+1999,The Talented Mr. Ripley,Anthony Minghella,false,false
+1999,Three Kings,David O. Russell,false,false
+2000,Gladiator,Ridley Scott,true,false
+2000,Almost Famous,Cameron Crowe,false,false
+2000,Billy Elliot,Stephen Daldry,false,false
+2000,Cast Away,Robert Zemeckis,false,false
+2000,"Crouching Tiger, Hidden Dragon",Ang Lee,false,false
+2000,Erin Brockovich,Steven Soderbergh,false,false
+2000,Quills,Philip Kaufman,false,false
+2000,Thirteen Days,Roger Donaldson,false,false
+2000,Traffic,Steven Soderbergh,false,false
+2000,Wonder Boys,Curtis Hanson,false,false
+2000,You Can Count on Me,Kenneth Lonergan,false,false
+2001,A Beautiful Mind,Ron Howard,true,false
+2001,Ali,Michael Mann,false,false
+2001,In the Bedroom,Todd Field,false,false
+2001,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,false,false
+2001,The Man Who Wasn't There,Joel Coen,false,false
+2001,Memento,Christopher Nolan,false,false
+2001,Moulin Rouge!,Baz Luhrmann,false,false
+2001,Mulholland Drive,David Lynch,false,false
+2001,The Shipping News,Lasse Hallström,false,false
+2001,Shrek,Andrew Adamson and Vicky Jenson,false,false
+2002,Chicago,Rob Marshall,true,false
+2002,About Schmidt,Alexander Payne,false,false
+2002,Adaptation,Spike Jonze,false,false
+2002,Catch Me If You Can,Steven Spielberg,false,false
+2002,Far from Heaven,Todd Haynes,false,false
+2002,Gangs of New York,Martin Scorsese,false,false
+2002,The Hours,Stephen Daldry,false,false
+2002,The Lord of the Rings: The Two Towers,Peter Jackson,false,false
+2002,The Pianist,Roman Polanski,false,false
+2002,Road to Perdition,Sam Mendes,false,false
+2003,The Lord of the Rings: The Return of the King,Peter Jackson,true,false
+2003,Big Fish,Tim Burton,false,false
+2003,Cold Mountain,Anthony Minghella,false,false
+2003,Finding Nemo,Andrew Stanton,false,false
+2003,In America,Jim Sheridan,false,false
+2003,The Last Samurai,Edward Zwick,false,false
+2003,Lost in Translation,Sofia Coppola,false,false
+2003,Master and Commander: The Far Side of the World,Peter Weir,false,false
+2003,Mystic River,Clint Eastwood,false,false
+2003,Seabiscuit,Gary Ross,false,false
+2004,Sideways,Alexander Payne,true,false
+2004,The Aviator,Martin Scorsese,false,false
+2004,Collateral,Michael Mann,false,false
+2004,Eternal Sunshine of the Spotless Mind,Michel Gondry,false,false
+2004,Finding Neverland,Marc Forster,false,false
+2004,Hotel Rwanda,Terry George,false,false
+2004,Kinsey,Bill Condon,false,false
+2004,Million Dollar Baby,Clint Eastwood,false,false
+2004,The Phantom of the Opera,Joel Schumacher,false,false
+2004,Ray,Taylor Hackford,false,false
+2005,Brokeback Mountain,Ang Lee,true,false
+2005,Capote,Bennett Miller,false,false
+2005,Cinderella Man,Ron Howard,false,false
+2005,The Constant Gardener,Fernando Meirelles,false,false
+2005,Crash,Paul Haggis,false,false
+2005,"Good Night, and Good Luck.",George Clooney,false,false
+2005,King Kong,Peter Jackson,false,false
+2005,Memoirs of a Geisha,Rob Marshall,false,false
+2005,Munich,Steven Spielberg,false,false
+2005,Walk the Line,James Mangold,false,false
+2006,The Departed,Martin Scorsese,true,false
+2006,Babel,Alejandro González Iñárritu,false,false
+2006,Blood Diamond,Edward Zwick,false,false
+2006,Dreamgirls,Bill Condon,false,false
+2006,Letters from Iwo Jima,Clint Eastwood,false,false
+2006,Little Children,Todd Field,false,false
+2006,Little Miss Sunshine,Jonathan Dayton and Valerie Faris,false,false
+2006,Notes on a Scandal,Richard Eyre,false,false
+2006,The Queen,Stephen Frears,false,false
+2006,United 93,Paul Greengrass,false,false
+2007,No Country for Old Men,Joel Coen and Ethan Coen,true,false
+2007,American Gangster,Ridley Scott,false,false
+2007,Atonement,Joe Wright,false,false
+2007,The Diving Bell and the Butterfly,Julian Schnabel,false,false
+2007,Into the Wild,Sean Penn,false,false
+2007,Juno,Jason Reitman,false,false
+2007,The Kite Runner,Marc Forster,false,false
+2007,Michael Clayton,Tony Gilroy,false,false
+2007,Sweeney Todd: The Demon Barber of Fleet Street,Tim Burton,false,false
+2007,There Will Be Blood,Paul Thomas Anderson,false,false
+2008,Slumdog Millionaire,Danny Boyle,true,false
+2008,Changeling,Clint Eastwood,false,false
+2008,The Curious Case of Benjamin Button,David Fincher,false,false
+2008,The Dark Knight,Christopher Nolan,false,false
+2008,Doubt,John Patrick Shanley,false,false
+2008,Frost/Nixon,Ron Howard,false,false
+2008,Milk,Gus Van Sant,false,false
+2008,The Reader,Stephen Daldry,false,false
+2008,WALL-E,Andrew Stanton,false,false
+2008,The Wrestler,Darren Aronofsky,false,false
+2009,The Hurt Locker,Kathryn Bigelow,true,false
+2009,Avatar,James Cameron,false,false
+2009,An Education,Lone Scherfig,false,false
+2009,Inglourious Basterds,Quentin Tarantino,false,false
+2009,Invictus,Clint Eastwood,false,false
+2009,Nine,Rob Marshall,false,false
+2009,Precious,Lee Daniels,false,false
+2009,A Serious Man,Joel Coen and Ethan Coen,false,false
+2009,Up,Pete Docter,false,false
+2009,Up in the Air,Jason Reitman,false,false
+2010,The Social Network,David Fincher,true,false
+2010,127 Hours,Danny Boyle,false,false
+2010,Black Swan,Darren Aronofsky,false,false
+2010,The Fighter,David O. Russell,false,false
+2010,Inception,Christopher Nolan,false,false
+2010,The King's Speech,Tom Hooper,false,false
+2010,The Town,Ben Affleck,false,false
+2010,Toy Story 3,Lee Unkrich,false,false
+2010,True Grit,Joel Coen and Ethan Coen,false,false
+2010,Winter's Bone,Debra Granik,false,false
+2011,The Artist,Michel Hazanavicius,true,false
+2011,The Descendants,Alexander Payne,false,false
+2011,Drive,Nicolas Winding Refn,false,false
+2011,Extremely Loud & Incredibly Close,Stephen Daldry,false,false
+2011,The Help,Tate Taylor,false,false
+2011,Hugo,Martin Scorsese,false,false
+2011,Midnight in Paris,Woody Allen,false,false
+2011,Moneyball,Bennett Miller,false,false
+2011,The Tree of Life,Terrence Malick,false,false
+2011,War Horse,Steven Spielberg,false,false
+2012,Argo,Ben Affleck,true,false
+2012,Beasts of the Southern Wild,Benh Zeitlin,false,false
+2012,Django Unchained,Quentin Tarantino,false,false
+2012,Les Misérables,Tom Hooper,false,false
+2012,Life of Pi,Ang Lee,false,false
+2012,Lincoln,Steven Spielberg,false,false
+2012,The Master,Paul Thomas Anderson,false,false
+2012,Moonrise Kingdom,Wes Anderson,false,false
+2012,Silver Linings Playbook,David O. Russell,false,false
+2012,Zero Dark Thirty,Kathryn Bigelow,false,false
+2013,12 Years a Slave,Steve McQueen,true,false
+2013,American Hustle,David O. Russell,false,false
+2013,Captain Phillips,Paul Greengrass,false,false
+2013,Dallas Buyers Club,Jean-Marc Vallée,false,false
+2013,Gravity,Alfonso Cuarón,false,false
+2013,Her,Spike Jonze,false,false
+2013,Inside Llewyn Davis,Joel Coen and Ethan Coen,false,false
+2013,Nebraska,Alexander Payne,false,false
+2013,Saving Mr. Banks,John Lee Hancock,false,false
+2013,The Wolf of Wall Street,Martin Scorsese,false,false
+2014,Boyhood,Richard Linklater,true,false
+2014,Birdman,Alejandro G. Iñárritu,false,false
+2014,Gone Girl,David Fincher,false,false
+2014,The Grand Budapest Hotel,Wes Anderson,false,false
+2014,The Imitation Game,Morten Tyldum,false,false
+2014,Nightcrawler,Dan Gilroy,false,false
+2014,Selma,Ava DuVernay,false,false
+2014,The Theory of Everything,James Marsh,false,false
+2014,Unbroken,Angelina Jolie,false,false
+2014,Whiplash,Damien Chazelle,false,false
+2015,Spotlight,Tom McCarthy,true,false
+2015,The Big Short,Adam McKay,false,false
+2015,Bridge of Spies,Steve Spielberg,false,false
+2015,Brooklyn,John Crowley,false,false
+2015,Carol,Todd Haynes,false,false
+2015,Mad Max: Fury Road,George Miller,false,false
+2015,The Martian,Ridley Scott,false,false
+2015,The Revenant,Alejandro G. Iñárritu,false,false
+2015,Room,Lenny Abrahamson,false,false
+2015,Sicario,Denis Villeneuve,false,false
+2015,Star Wars: The Force Awakens,J. J. Abrams,false,false
+2016,La La Land,Damien Chazelle,true,false
+2016,Arrival,Denis Villeneuve,false,false
+2016,Fences,Denzel Washington,false,false
+2016,Hacksaw Ridge,Mel Gibson,false,false
+2016,Hell or High Water,David Mackenzie,false,false
+2016,Lion,Garth Davis,false,false
+2016,Loving,Jeff Nichols,false,false
+2016,Manchester by the Sea,Kenneth Lonergan,false,false
+2016,Moonlight,Barry Jenkins,false,false
+2016,Sully,Clint Eastwood,false,false
+2017,The Shape of Water,Guillermo del Toro,true,false
+2017,The Big Sick,Michael Showalter,false,false
+2017,Call Me by Your Name,Luca Guadagnino,false,false
+2017,Darkest Hour,Joe Wright,false,false
+2017,Dunkirk,Christopher Nolan,false,false
+2017,The Florida Project,Sean Baker,false,false
+2017,Get Out,Jordan Peele,false,false
+2017,Lady Bird,Greta Gerwig,false,false
+2017,The Post,Steven Spielberg,false,false
+2017,"Three Billboards outside Ebbing, Missouri",Martin McDonagh,false,false
+2018,Roma,Alfonso Cuarón,true,false
+2018,BlacKkKlansman,Spike Lee,false,false
+2018,Black Panther,Ryan Coogler,false,false
+2018,The Favourite,Yorgos Lanthimos,false,false
+2018,First Man,Damien Chazelle,false,false
+2018,Green Book,Peter Farrelly,false,false
+2018,If Beale Street Could Talk,Barry Jenkins,false,false
+2018,Mary Poppins Returns,Rob Marshall,false,false
+2018,A Star Is Born,Bradley Cooper,false,false
+2018,Vice,Adam McKay,false,false
+2019,Once upon a Time...in Hollywood,Quentin Tarantino,true,false
+2019,1917,Sam Mendes,false,false
+2019,Ford v Ferrari,James Mangold,false,false
+2019,The Irishman,Martin Scorsese,false,false
+2019,Jojo Rabbit,Taika Waititi,false,false
+2019,Joker,Todd Phillips,false,false
+2019,Little Women,Greta Gerwig,false,false
+2019,Marriage Story,Noah Baumbach,false,false
+2019,Parasite,Bong Joon Ho,false,false
+2019,Uncut Gems,Josh Safdie and Benny Safdie,false,false
+2020,Nomadland,Chloé Zhao,true,false
+2020,Da 5 Bloods,Spike Lee,false,false
+2020,Ma Rainey's Black Bottom,George C. Wolfe,false,false
+2020,Mank,David Fincher,false,false
+2020,Minari,Lee Isaac Chung,false,false
+2020,News of the World,Paul Greengrass,false,false
+2020,One Night in Miami...,Regina King,false,false
+2020,Promising Young Woman,Emerald Fennell,false,false
+2020,Sound of Metal,Darius Marder,false,false
+2020,The Trial of the Chicago 7,Aaron Sorkin,false,false
+2021,The Power of the Dog,Jane Campion,true,false
+2021,Belfast,Kenneth Branagh,false,false
+2021,CODA,Sian Heder,false,false
+2021,Don't Look Up,Adam McKay,false,false
+2021,Dune,Denis Villeneuve,false,false
+2021,King Richard,Reinaldo Marcus Green,false,false
+2021,Licorice Pizza,Paul Thomas Anderson,false,false
+2021,Nightmare Alley,Guillermo del Toro,false,false
+2021,"tick, tick...BOOM!",Lin-Manuel Miranda,false,false
+2021,West Side Story,Steven Spielberg,false,false
+2022,Everything Everywhere All at Once,Daniel Kwan and Daniel Scheinert,true,false
+2022,Avatar: The Way of Water,James Cameron,false,false
+2022,Babylon,Damien Chazelle,false,false
+2022,The Banshees of Inisherin,Martin McDonagh,false,false
+2022,Elvis,Baz Luhrmann,false,false
+2022,The Fabelmans,Steven Spielberg,false,false
+2022,Glass Onion: A Knives Out Mystery,Rian Johnson,false,false
+2022,RRR,S. S. Rajamouli,false,false
+2022,Tár,Todd Field,false,false
+2022,Top Gun: Maverick,Joseph Kosinski,false,false
+2022,Women Talking,Sarah Polley,false,false
+2023,Oppenheimer,Christopher Nolan,true,false
+2023,American Fiction,Cord Jefferson,false,false
+2023,Barbie,Greta Gerwig,false,false
+2023,The Color Purple,Blitz Bazawule,false,false
+2023,The Holdovers,Alexander Payne,false,false
+2023,Killers of the Flower Moon,Martin Scorsese,false,false
+2023,Maestro,Bradley Cooper,false,false
+2023,Past Lives,Celine Song,false,false
+2023,Poor Things,Yorgos Lanthimos,false,false
+2023,Saltburn,Emerald Fennell,false,false
+2024,Anora,Sean Baker,true,false
+2024,A Complete Unknown,James Mangold,false,false
+2024,The Brutalist,Brady Corbet,false,false
+2024,Conclave,Edward Berger,false,false
+2024,Dune: Part Two,Denis Villeneuve,false,false
+2024,Emilia Pérez,Jacques Audiard,false,false
+2024,Nickel Boys,RaMell Ross,false,false
+2024,Sing Sing,Greg Kwedar,false,false
+2024,The Substance,Coralie Fargeat,false,false
+2024,Wicked,Jon M. Chu,false,false
+2025,One Battle after Another,Paul Thomas Anderson,true,false
+2025,Bugonia,Yorgos Lanthimos,false,false
+2025,Frankenstein,Guillermo del Toro,false,false
+2025,Hamnet,Chloé Zhao,false,false
+2025,Jay Kelly,Noah Baumbach,false,false
+2025,Marty Supreme,Josh Safdie,false,false
+2025,Sentimental Value,Joachim Trier,false,false
+2025,Sinners,Ryan Coogler,false,false
+2025,Train Dreams,Clint Bentley,false,false
+2025,Wicked: For Good,Jon M. Chu,false,false

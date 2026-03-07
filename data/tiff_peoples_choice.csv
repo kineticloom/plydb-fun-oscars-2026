@@ -1,0 +1,101 @@
+year,film,director,is_winner,is_tie
+1978,Girlfriends,Claudia Weill,true,false
+1979,Best Boy,Ira Wohl,true,false
+1980,Bad Timing,Nicolas Roeg,true,false
+1981,Chariots of Fire,Hugh Hudson,true,false
+1982,Tempest,Paul Mazursky,true,false
+1983,The Big Chill,Lawrence Kasdan,true,false
+1984,Places in the Heart,Robert Benton,true,false
+1985,The Official Story (La historia oficial),Luis Puenzo,true,false
+1986,The Decline of the American Empire (Le déclin de l'empire américain),Denys Arcand,true,false
+1987,The Princess Bride,Rob Reiner,true,false
+1988,Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios),Pedro Almodóvar,true,false
+1989,Roger & Me,Michael Moore,true,false
+1990,Cyrano de Bergerac,Jean-Paul Rappeneau,true,false
+1991,The Fisher King,Terry Gilliam,true,false
+1992,Strictly Ballroom,Baz Luhrmann,true,false
+1993,The Snapper,Stephen Frears,true,false
+1994,Priest,Antonia Bird,true,false
+1995,Antonia,Marleen Gorris,true,false
+1996,Shine,Scott Hicks,true,false
+1997,The Hanging Garden,Thom Fitzgerald,true,false
+1998,Life Is Beautiful (La vita è bella),Roberto Benigni,true,false
+1999,American Beauty,Sam Mendes,true,false
+2000,"Crouching Tiger, Hidden Dragon (卧虎藏龙)",Ang Lee,true,false
+2000,The Dish,Rob Sitch,false,false
+2000,Innocence,Paul Cox,false,false
+2000,Billy Elliot,Stephen Daldry,false,false
+2001,Amélie (Le fabuleux destin d'Amélie Poulain),Jean-Pierre Jeunet,true,false
+2001,Maya,Digvijay Singh,false,false
+2001,Monsoon Wedding,Mira Nair,false,false
+2002,Whale Rider,Niki Caro,true,false
+2002,Bowling for Columbine,Michael Moore,false,false
+2002,Bend It Like Beckham,Gurinder Chadha,false,false
+2003,Zatōichi,Takeshi Kitano,true,false
+2003,Go Further,Ron Mann,false,false
+2003,The Corporation,Mark Achbar and Jennifer Abbott,false,false
+2004,Hotel Rwanda,Terry George,true,false
+2005,Tsotsi,Gavin Hood,true,false
+2005,Live and Become,Radu Mihaileanu,false,false
+2005,Dreamer,John Gatins,false,false
+2005,Brokeback Mountain,Ang Lee,false,false
+2005,Mother of Mine,Klaus Härö,false,false
+2006,Bella,Alejandro Gómez Monteverde,true,false
+2006,My Best Friend (Mon meilleur ami),Patrice Leconte,false,false
+2006,Dixie Chicks: Shut Up and Sing,Barbara Kopple and Cecilia Peck,false,false
+2007,Eastern Promises,David Cronenberg,true,false
+2007,Juno,Jason Reitman,false,false
+2007,Body of War,Ellen Spiro and Phil Donahue,false,false
+2008,Slumdog Millionaire,Danny Boyle,true,false
+2008,More Than a Game,Kristopher Belman,false,false
+2008,The Stoning of Soraya M,Cyrus Nowrasteh,false,false
+2009,Precious: Based on the Novel 'Push' by Sapphire,Lee Daniels,true,false
+2009,Mao's Last Dancer,Bruce Beresford,false,false
+2009,Micmacs,Jean-Pierre Jeunet,false,false
+2010,The King's Speech,Tom Hooper,true,false
+2010,The First Grader,Justin Chadwick,false,false
+2011,Where Do We Go Now? ( وهلّأ لوين؟ ),Nadine Labaki,true,false
+2011,Starbuck,Ken Scott,false,false
+2011,A Separation,Asghar Farhadi,false,false
+2012,Silver Linings Playbook,David O. Russell,true,false
+2012,Argo,Ben Affleck,false,false
+2012,Zaytoun,Eran Riklis,false,false
+2013,12 Years a Slave,Steve McQueen,true,false
+2013,Philomena,Stephen Frears,false,false
+2013,Prisoners,Denis Villeneuve,false,false
+2014,The Imitation Game,Morten Tyldum,true,false
+2014,Learning to Drive,Isabel Coixet,false,false
+2014,St. Vincent,Theodore Melfi,false,false
+2015,Room,Lenny Abrahamson,true,false
+2015,Angry Indian Goddesses,Pan Nalin,false,false
+2015,Spotlight,Tom McCarthy,false,false
+2016,La La Land,Damien Chazelle,true,false
+2016,Lion,Garth Davis,false,false
+2016,Queen of Katwe,Mira Nair,false,false
+2017,"Three Billboards outside Ebbing, Missouri",Martin McDonagh,true,false
+2017,"I, Tonya",Craig Gillespie,false,false
+2017,Call Me by Your Name,Luca Guadagnino,false,false
+2018,Green Book,Peter Farrelly,true,false
+2018,If Beale Street Could Talk,Barry Jenkins,false,false
+2018,Roma,Alfonso Cuarón,false,false
+2019,Jojo Rabbit,Taika Waititi,true,false
+2019,Marriage Story,Noah Baumbach,false,false
+2019,Parasite,Bong Joon Ho,false,false
+2020,Nomadland,Chloé Zhao,true,false
+2020,One Night in Miami...,Regina King,false,false
+2020,Beans,Tracey Deer,false,false
+2021,Belfast,Kenneth Branagh,true,false
+2021,Scarborough,"Shasha Nakhai , Rich Williamson",false,false
+2021,The Power of the Dog,Jane Campion,false,false
+2022,The Fabelmans,Steven Spielberg,true,false
+2022,Women Talking,Sarah Polley,false,false
+2022,Glass Onion: A Knives Out Mystery,Rian Johnson,false,false
+2023,American Fiction,Cord Jefferson,true,false
+2023,The Holdovers,Alexander Payne,false,false
+2023,The Boy and the Heron,Hayao Miyazaki,false,false
+2024,The Life of Chuck,Mike Flanagan,true,false
+2024,Emilia Pérez,Jacques Audiard,false,false
+2024,Anora,Sean Baker,false,false
+2025,Hamnet,Chloé Zhao,true,false
+2025,Frankenstein,Guillermo del Toro,false,false
+2025,Wake Up Dead Man,Rian Johnson,false,false

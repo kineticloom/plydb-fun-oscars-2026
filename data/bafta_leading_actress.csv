@@ -1,0 +1,413 @@
+year,actress,film,is_winner,is_tie,category,num_films
+1952,Vivien Leigh,A Streetcar Named Desire,true,false,Best British Actress,1
+1952,Phyllis Calvert,Mandy,false,false,Best British Actress,1
+1952,Celia Johnson,I Believe in You,false,false,Best British Actress,1
+1952,Ann Todd,The Sound Barrier,false,false,Best British Actress,1
+1952,Simone Signoret,Golden Helmet,true,false,Best Foreign Actress,1
+1952,Edwige Feuillère,Olivia,false,false,Best Foreign Actress,1
+1952,Katharine Hepburn,Pat and Mike,false,false,Best Foreign Actress,1
+1952,Judy Holliday,The Marrying Kind,false,false,Best Foreign Actress,1
+1952,Nicole Stéphane,The Strange Ones,false,false,Best Foreign Actress,1
+1953,Audrey Hepburn,Roman Holiday,true,false,Best British Actress,1
+1953,Celia Johnson,The Captain's Paradise,false,false,Best British Actress,1
+1953,Leslie Caron,Lili,true,false,Best Foreign Actress,1
+1953,Shirley Booth,"Come Back, Little Sheba",false,false,Best Foreign Actress,1
+1953,Marie Powers,The Medium,false,false,Best Foreign Actress,1
+1953,Maria Schell,The Heart of the Matter,false,false,Best Foreign Actress,1
+1954,Yvonne Mitchell,The Divided Heart,true,false,Best British Actress,1
+1954,Brenda de Banzie,Hobson's Choice,false,false,Best British Actress,1
+1954,Audrey Hepburn,Sabrina,false,false,Best British Actress,1
+1954,Margaret Leighton,Carrington V.C.,false,false,Best British Actress,1
+1954,Noelle Middleton,Carrington V.C.,false,false,Best British Actress,1
+1954,Cornell Borchers,The Divided Heart,true,false,Best Foreign Actress,1
+1954,Shirley Booth,About Mrs. Leslie,false,false,Best Foreign Actress,1
+1954,Judy Holliday,Phffft,false,false,Best Foreign Actress,1
+1954,Grace Kelly,Dial M for Murder,false,false,Best Foreign Actress,1
+1954,Gina Lollobrigida,"Bread, Love and Dreams",false,false,Best Foreign Actress,1
+1955,Katie Johnson,The Ladykillers,true,false,Best British Actress,1
+1955,Margaret Johnston,Touch and Go,false,false,Best British Actress,1
+1955,Deborah Kerr,The End of the Affair,false,false,Best British Actress,1
+1955,Margaret Lockwood,Cast a Dark Shadow,false,false,Best British Actress,1
+1955,Betsy Blair,Marty,true,false,Best Foreign Actress,1
+1955,Dorothy Dandridge,Carmen Jones,false,false,Best Foreign Actress,1
+1955,Judy Garland,A Star Is Born,false,false,Best Foreign Actress,1
+1955,Julie Harris,I Am a Camera,false,false,Best Foreign Actress,1
+1955,Katharine Hepburn,Summertime,false,false,Best Foreign Actress,1
+1955,Grace Kelly,The Country Girl,false,false,Best Foreign Actress,1
+1955,Giulietta Masina,The Road,false,false,Best Foreign Actress,1
+1955,Marilyn Monroe,The Seven Year Itch,false,false,Best Foreign Actress,1
+1956,Virginia McKenna,A Town Like Alice,true,false,Best British Actress,1
+1956,Dorothy Alison,Reach for the Sky,false,false,Best British Actress,1
+1956,Audrey Hepburn,War and Peace,false,false,Best British Actress,1
+1956,Anna Magnani,The Rose Tattoo,true,false,Best Foreign Actress,1
+1956,Carroll Baker,Baby Doll,false,false,Best Foreign Actress,1
+1956,Eva Dahlbeck,Smiles of a Summer Night,false,false,Best Foreign Actress,1
+1956,Ava Gardner,Bhowani Junction,false,false,Best Foreign Actress,1
+1956,Susan Hayward,I'll Cry Tomorrow,false,false,Best Foreign Actress,1
+1956,Shirley MacLaine,The Trouble with Harry,false,false,Best Foreign Actress,1
+1956,Kim Novak,Picnic,false,false,Best Foreign Actress,1
+1956,Marisa Pavan,The Rose Tattoo,false,false,Best Foreign Actress,1
+1956,Maria Schell,Gervaise,false,false,Best Foreign Actress,1
+1956,Jean Simmons,Guys and Dolls,false,false,Best Foreign Actress,1
+1957,Heather Sears,The Story of Esther Costello,true,false,Best British Actress,1
+1957,Deborah Kerr,Tea and Sympathy,false,false,Best British Actress,1
+1957,Sylvia Syms,Woman in a Dressing Gown,false,false,Best British Actress,1
+1957,Simone Signoret,The Witches of Salem,true,false,Best Foreign Actress,1
+1957,Augusta Dabney,That Night!,false,false,Best Foreign Actress,1
+1957,Katharine Hepburn,The Rainmaker,false,false,Best Foreign Actress,1
+1957,Marilyn Monroe,The Prince and the Showgirl,false,false,Best Foreign Actress,1
+1957,Lilli Palmer,Is Anna Anderson Anastasia?,false,false,Best Foreign Actress,1
+1957,Eva Marie Saint,A Hatful of Rain,false,false,Best Foreign Actress,1
+1957,Joanne Woodward,The Three Faces of Eve,false,false,Best Foreign Actress,1
+1958,Irene Worth,Orders to Kill,true,false,Best British Actress,1
+1958,Hermione Baddeley,Room at the Top,false,false,Best British Actress,1
+1958,Karuna Banerjee,Aparajito,false,false,Best British Actress,1
+1958,Virginia McKenna,Carve Her Name with Pride,false,false,Best British Actress,1
+1958,Simone Signoret,Room at the Top,true,false,Best Foreign Actress,1
+1958,Ingrid Bergman,The Inn of the Sixth Happiness,false,false,Best Foreign Actress,1
+1958,Anna Magnani,Wild Is the Wind,false,false,Best Foreign Actress,1
+1958,Giulietta Masina,Nights of Cabiria,false,false,Best Foreign Actress,1
+1958,Tatiana Samoilova,The Cranes Are Flying,false,false,Best Foreign Actress,1
+1958,Elizabeth Taylor,Cat on a Hot Tin Roof,false,false,Best Foreign Actress,1
+1958,Joanne Woodward,No Down Payment,false,false,Best Foreign Actress,1
+1959,Audrey Hepburn,The Nun's Story,true,false,Best British Actress,1
+1959,Peggy Ashcroft,The Nun's Story,false,false,Best British Actress,1
+1959,Wendy Hiller,Separate Tables,false,false,Best British Actress,1
+1959,Yvonne Mitchell,Sapphire,false,false,Best British Actress,1
+1959,Sylvia Syms,No Trees in the Street,false,false,Best British Actress,1
+1959,Kay Walsh,The Horse's Mouth,false,false,Best British Actress,1
+1959,Shirley MacLaine,Ask Any Girl,true,false,Best Foreign Actress,1
+1959,Ava Gardner,On the Beach,false,false,Best Foreign Actress,1
+1959,Susan Hayward,I Want to Live!,false,false,Best Foreign Actress,1
+1959,Ellie Lambeti,A Matter of Dignity,false,false,Best Foreign Actress,1
+1959,Rosalind Russell,Auntie Mame,false,false,Best Foreign Actress,1
+1960,Rachel Roberts,Saturday Night and Sunday Morning,true,false,Best British Actress,1
+1960,Wendy Hiller,Sons and Lovers,false,false,Best British Actress,1
+1960,Hayley Mills,Pollyanna,false,false,Best British Actress,1
+1960,Shirley MacLaine,The Apartment,true,false,Best Foreign Actress,1
+1960,Pier Angeli,The Angry Silence,false,false,Best Foreign Actress,1
+1960,Melina Mercouri,Never on Sunday,false,false,Best Foreign Actress,1
+1960,Emmanuelle Riva,"Hiroshima, My Love",false,false,Best Foreign Actress,1
+1960,Jean Simmons,Elmer Gantry,false,false,Best Foreign Actress,1
+1960,Monica Vitti,The Adventure,false,false,Best Foreign Actress,1
+1961,Dora Bryan,A Taste of Honey,true,false,Best British Actress,1
+1961,Deborah Kerr,The Sundowners,false,false,Best British Actress,1
+1961,Hayley Mills,Whistle Down the Wind,false,false,Best British Actress,1
+1961,Sophia Loren,Two Women,true,false,Best Foreign Actress,1
+1961,Annie Girardot,Rocco and His Brothers,false,false,Best Foreign Actress,1
+1961,Piper Laurie,The Hustler,false,false,Best Foreign Actress,1
+1961,Claudia McNeil,A Raisin in the Sun,false,false,Best Foreign Actress,1
+1961,Jean Seberg,Breathless,false,false,Best Foreign Actress,1
+1962,Leslie Caron,The L-Shaped Room,true,false,Best British Actress,1
+1962,Virginia Maskell,The Wild and the Willing,false,false,Best British Actress,1
+1962,Janet Munro,Life for Ruth,false,false,Best British Actress,1
+1962,Anne Bancroft,The Miracle Worker,true,false,Best Foreign Actress,1
+1962,Anouk Aimee,Lola,false,false,Best Foreign Actress,1
+1962,Harriet Andersson,Through a Glass Darkly,false,false,Best Foreign Actress,1
+1962,Melina Mercouri,Phaedra,false,false,Best Foreign Actress,1
+1962,Jeanne Moreau,Jules and Jim,false,false,Best Foreign Actress,1
+1962,Geraldine Page,Sweet Bird of Youth,false,false,Best Foreign Actress,1
+1962,Natalie Wood,Splendor in the Grass,false,false,Best Foreign Actress,1
+1963,Rachel Roberts,This Sporting Life,true,false,Best British Actress,1
+1963,Julie Christie,Billy Liar,false,false,Best British Actress,1
+1963,Edith Evans,Tom Jones,false,false,Best British Actress,1
+1963,Sarah Miles,The Servant,false,false,Best British Actress,1
+1963,Barbara Windsor,Sparrows Can't Sing,false,false,Best British Actress,1
+1963,Patricia Neal,Hud,true,false,Best Foreign Actress,1
+1963,Joan Crawford,What Ever Happened to Baby Jane?,false,false,Best Foreign Actress,1
+1963,Bette Davis,What Ever Happened to Baby Jane?,false,false,Best Foreign Actress,1
+1963,Lee Remick,Days of Wine and Roses,false,false,Best Foreign Actress,1
+1963,Daniela Rocca,Divorce--Italian Style,false,false,Best Foreign Actress,1
+1964,Audrey Hepburn,Charade,true,false,Best British Actress,1
+1964,Edith Evans,The Chalk Garden,false,false,Best British Actress,1
+1964,Deborah Kerr,The Chalk Garden,false,false,Best British Actress,1
+1964,Rita Tushingham,Girl with Green Eyes,false,false,Best British Actress,1
+1964,Anne Bancroft,The Pumpkin Eater,true,false,Best Foreign Actress,1
+1964,Ava Gardner,The Night of the Iguana,false,false,Best Foreign Actress,1
+1964,Shirley MacLaine,Irma la Douce / What a Way to Go!,false,false,Best Foreign Actress,2
+1964,Kim Stanley,Seance on a Wet Afternoon,false,false,Best Foreign Actress,1
+1965,Julie Christie,Darling,true,false,Best British Actress,1
+1965,Julie Andrews,The Americanization of Emily / The Sound of Music,false,false,Best British Actress,2
+1965,Maggie Smith,Young Cassidy,false,false,Best British Actress,1
+1965,Rita Tushingham,The Knack ...and How to Get It,false,false,Best British Actress,1
+1965,Patricia Neal,In Harm's Way,true,false,Best Foreign Actress,1
+1965,Jane Fonda,Cat Ballou,false,false,Best Foreign Actress,1
+1965,Lila Kedrova,Zorba the Greek,false,false,Best Foreign Actress,1
+1965,Simone Signoret,Ship of Fools,false,false,Best Foreign Actress,1
+1966,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,true,false,Best British Actress,1
+1966,Julie Christie,Doctor Zhivago / Fahrenheit 451,false,false,Best British Actress,2
+1966,Lynn Redgrave,Georgy Girl,false,false,Best British Actress,1
+1966,Vanessa Redgrave,Morgan – A Suitable Case for Treatment,false,false,Best British Actress,1
+1966,Jeanne Moreau,Viva Maria!,true,false,Best Foreign Actress,1
+1966,Brigitte Bardot,Viva Maria!,false,false,Best Foreign Actress,1
+1966,Joan Hackett,The Group,false,false,Best Foreign Actress,1
+1966,Simone Signoret,The Sleeping Car Murders,false,false,Best Foreign Actress,1
+1967,Edith Evans,The Whisperers,true,false,Best British Actress,1
+1967,Barbara Jefford,Ulysses,false,false,Best British Actress,1
+1967,Elizabeth Taylor,The Taming of the Shrew,false,false,Best British Actress,1
+1967,Anouk Aimee,A Man and a Woman,true,false,Best Foreign Actress,1
+1967,Bibi Andersson,"My Sister, My Love / Persona",false,false,Best Foreign Actress,2
+1967,Jane Fonda,Barefoot in the Park,false,false,Best Foreign Actress,1
+1967,Simone Signoret,The Deadly Affair,false,false,Best Foreign Actress,1
+1968,Katharine Hepburn,Guess Who's Coming to Dinner / The Lion in Winter,true,false,Best Actress,2
+1968,Anne Bancroft,The Graduate,false,false,Best Actress,1
+1968,Catherine Deneuve,Beauty of the Day,false,false,Best Actress,1
+1968,Joanne Woodward,"Rachel, Rachel",false,false,Best Actress,1
+1969,Maggie Smith,The Prime of Miss Jean Brodie,true,false,Best Actress,1
+1969,Mia Farrow,John and Mary / Rosemary's Baby / Secret Ceremony,false,false,Best Actress,3
+1969,Glenda Jackson,Women in Love,false,false,Best Actress,1
+1969,Barbra Streisand,Funny Girl / Hello Dolly!,false,false,Best Actress,2
+1970,Katharine Ross,Butch Cassidy and the Sundance Kid / Tell Them Willie Boy Is Here,true,false,Best Actress,2
+1970,Jane Fonda,"They Shoot Horses, Don't They?",false,false,Best Actress,1
+1970,Goldie Hawn,Cactus Flower / There's a Girl in My Soup,false,false,Best Actress,2
+1970,Sarah Miles,Ryan's Daughter,false,false,Best Actress,1
+1971,Glenda Jackson,Sunday Bloody Sunday,true,false,Best Actress,1
+1971,Lynn Carlin,Taking Off,false,false,Best Actress,1
+1971,Julie Christie,The Go-Between,false,false,Best Actress,1
+1971,Jane Fonda,Klute,false,false,Best Actress,1
+1971,Nanette Newman,The Raging Moon,false,false,Best Actress,1
+1972,Liza Minnelli,Cabaret,true,false,Best Actress,1
+1972,Stéphane Audran,The Butcher,false,false,Best Actress,1
+1972,Anne Bancroft,Young Winston,false,false,Best Actress,1
+1972,Dorothy Tutin,Savage Messiah,false,false,Best Actress,1
+1973,Stéphane Audran,The Discreet Charm of the Bourgeoisie / Just Before Nightfall,true,false,Best Actress,2
+1973,Julie Christie,Don't Look Now,false,false,Best Actress,1
+1973,Glenda Jackson,A Touch of Class,false,false,Best Actress,1
+1973,Diana Ross,Lady Sings the Blues,false,false,Best Actress,1
+1974,Joanne Woodward,"Summer Wishes, Winter Dreams",true,false,Best Actress,1
+1974,Faye Dunaway,Chinatown,false,false,Best Actress,1
+1974,Barbra Streisand,The Way We Were,false,false,Best Actress,1
+1974,Cicely Tyson,The Autobiography of Miss Jane Pittman,false,false,Best Actress,1
+1975,Ellen Burstyn,Alice Doesn't Live Here Anymore,true,false,Best Actress,1
+1975,Anne Bancroft,The Prisoner of Second Avenue,false,false,Best Actress,1
+1975,Valerie Perrine,Lenny,false,false,Best Actress,1
+1975,Liv Ullmann,Scenes from a Marriage,false,false,Best Actress,1
+1976,Louise Fletcher,One Flew over the Cuckoo's Nest,true,false,Best Actress,1
+1976,Lauren Bacall,The Shootist,false,false,Best Actress,1
+1976,Rita Moreno,The Ritz,false,false,Best Actress,1
+1976,Liv Ullmann,Face to Face,false,false,Best Actress,1
+1977,Diane Keaton,Annie Hall,true,false,Best Actress,1
+1977,Faye Dunaway,Network,false,false,Best Actress,1
+1977,Shelley Duvall,3 Women,false,false,Best Actress,1
+1977,Lily Tomlin,The Late Show,false,false,Best Actress,1
+1978,Jane Fonda,Julia,true,false,Best Actress,1
+1978,Anne Bancroft,The Turning Point,false,false,Best Actress,1
+1978,Jill Clayburgh,An Unmarried Woman,false,false,Best Actress,1
+1978,Marsha Mason,The Goodbye Girl,false,false,Best Actress,1
+1979,Jane Fonda,The China Syndrome,true,false,Best Actress,1
+1979,Diane Keaton,Manhattan,false,false,Best Actress,1
+1979,Maggie Smith,California Suite,false,false,Best Actress,1
+1979,Meryl Streep,The Deer Hunter,false,false,Best Actress,1
+1980,Judy Davis,My Brilliant Career,true,false,Best Actress,1
+1980,Shirley MacLaine,Being There,false,false,Best Actress,1
+1980,Bette Midler,The Rose,false,false,Best Actress,1
+1980,Meryl Streep,Kramer vs. Kramer,false,false,Best Actress,1
+1981,Meryl Streep,The French Lieutenant's Woman,true,false,Best Actress,1
+1981,Mary Tyler Moore,Ordinary People,false,false,Best Actress,1
+1981,Maggie Smith,Quartet,false,false,Best Actress,1
+1981,Sissy Spacek,Coal Miner's Daughter,false,false,Best Actress,1
+1982,Katharine Hepburn,On Golden Pond,true,false,Best Actress,1
+1982,Diane Keaton,Reds,false,false,Best Actress,1
+1982,Jennifer Kendal,36 Chowringhee Lane,false,false,Best Actress,1
+1982,Sissy Spacek,Missing,false,false,Best Actress,1
+1983,Julie Walters,Educating Rita,true,false,Best Actress,1
+1983,Jessica Lange,Tootsie,false,false,Best Actress,1
+1983,Phyllis Logan,"Another Time, Another Place",false,false,Best Actress,1
+1983,Meryl Streep,Sophie's Choice,false,false,Best Actress,1
+1984,Maggie Smith,A Private Function,true,false,Best Actress,1
+1984,Shirley MacLaine,Terms of Endearment,false,false,Best Actress,1
+1984,Helen Mirren,Cal,false,false,Best Actress,1
+1984,Meryl Streep,Silkwood,false,false,Best Actress,1
+1985,Peggy Ashcroft,A Passage to India,true,false,Best Actress,1
+1985,Mia Farrow,The Purple Rose of Cairo,false,false,Best Actress,1
+1985,Kelly McGillis,Witness,false,false,Best Actress,1
+1985,Alexandra Pigg,Letter to Brezhnev,false,false,Best Actress,1
+1986,Maggie Smith,A Room with a View,true,false,Best Actress,1
+1986,Mia Farrow,Hannah and Her Sisters,false,false,Best Actress,1
+1986,Meryl Streep,Out of Africa,false,false,Best Actress,1
+1986,Cathy Tyson,Mona Lisa,false,false,Best Actress,1
+1987,Anne Bancroft,84 Charing Cross Road,true,false,Best Actress,1
+1987,Emily Lloyd,Wish You Were Here,false,false,Best Actress,1
+1987,Sarah Miles,Hope and Glory,false,false,Best Actress,1
+1987,Julie Walters,Personal Services,false,false,Best Actress,1
+1988,Maggie Smith,The Lonely Passion of Judith Hearne,true,false,Best Actress,1
+1988,Stéphane Audran,Babette's Feast,false,false,Best Actress,1
+1988,Cher,Moonstruck,false,false,Best Actress,1
+1988,Jamie Lee Curtis,A Fish Called Wanda,false,false,Best Actress,1
+1989,Pauline Collins,Shirley Valentine,true,false,Best Actress,1
+1989,Glenn Close,Dangerous Liaisons,false,false,Best Actress,1
+1989,Jodie Foster,The Accused,false,false,Best Actress,1
+1989,Melanie Griffith,Working Girl,false,false,Best Actress,1
+1990,Jessica Tandy,Driving Miss Daisy,true,false,Best Actress,1
+1990,Shirley MacLaine,Postcards from the Edge,false,false,Best Actress,1
+1990,Michelle Pfeiffer,The Fabulous Baker Boys,false,false,Best Actress,1
+1990,Julia Roberts,Pretty Woman,false,false,Best Actress,1
+1991,Jodie Foster,The Silence of the Lambs,true,false,Best Actress,1
+1991,Geena Davis,Thelma & Louise,false,false,Best Actress,1
+1991,Susan Sarandon,Thelma & Louise,false,false,Best Actress,1
+1991,Juliet Stevenson,"Truly, Madly, Deeply",false,false,Best Actress,1
+1992,Emma Thompson,Howards End,true,false,Best Actress,1
+1992,Judy Davis,Husbands and Wives,false,false,Best Actress,1
+1992,Tara Morice,Strictly Ballroom,false,false,Best Actress,1
+1992,Jessica Tandy,Fried Green Tomatoes,false,false,Best Actress,1
+1993,Holly Hunter,The Piano,true,false,Best Actress,1
+1993,Miranda Richardson,Tom & Viv,false,false,Best Actress,1
+1993,Emma Thompson,The Remains of the Day,false,false,Best Actress,1
+1993,Debra Winger,Shadowlands,false,false,Best Actress,1
+1994,Susan Sarandon,The Client,true,false,Best Actress,1
+1994,Linda Fiorentino,The Last Seduction,false,false,Best Actress,1
+1994,Irène Jacob,Three Colours: Red,false,false,Best Actress,1
+1994,Uma Thurman,Pulp Fiction,false,false,Best Actress,1
+1995,Emma Thompson,Sense and Sensibility,true,false,Best Actress,1
+1995,Nicole Kidman,To Die For,false,false,Best Actress,1
+1995,Helen Mirren,The Madness of King George,false,false,Best Actress,1
+1995,Elisabeth Shue,Leaving Las Vegas,false,false,Best Actress,1
+1996,Brenda Blethyn,Secrets & Lies,true,false,Best Actress,1
+1996,Frances McDormand,Fargo,false,false,Best Actress,1
+1996,Kristin Scott Thomas,The English Patient,false,false,Best Actress,1
+1996,Emily Watson,Breaking the Waves,false,false,Best Actress,1
+1997,Judi Dench,Mrs. Brown,true,false,Best Actress,1
+1997,Kim Basinger,L.A. Confidential,false,false,Best Actress,1
+1997,Helena Bonham Carter,The Wings of the Dove,false,false,Best Actress,1
+1997,Kathy Burke,Nil by Mouth,false,false,Best Actress,1
+1998,Cate Blanchett,Elizabeth,true,false,Best Actress,1
+1998,Jane Horrocks,Little Voice,false,false,Best Actress,1
+1998,Gwyneth Paltrow,Shakespeare in Love,false,false,Best Actress,1
+1998,Emily Watson,Hilary and Jackie,false,false,Best Actress,1
+1999,Annette Bening,American Beauty,true,false,Best Actress,1
+1999,Linda Bassett,East Is East,false,false,Best Actress,1
+1999,Julianne Moore,The End of the Affair,false,false,Best Actress,1
+1999,Emily Watson,Angela's Ashes,false,false,Best Actress,1
+2000,Julia Roberts,Erin Brockovich,true,false,Best Actress,1
+2000,Juliette Binoche,Chocolat,false,false,Best Actress,1
+2000,Kate Hudson,Almost Famous,false,false,Best Actress,1
+2000,Hilary Swank,Boys Don't Cry,false,false,Best Actress,1
+2000,Michelle Yeoh,"Crouching Tiger, Hidden Dragon",false,false,Best Actress,1
+2001,Judi Dench,Iris,true,false,Best Actress,1
+2001,Nicole Kidman,The Others,false,false,Best Actress,1
+2001,Sissy Spacek,In the Bedroom,false,false,Best Actress,1
+2001,Audrey Tautou,Amélie,false,false,Best Actress,1
+2001,Renée Zellweger,Bridget Jones's Diary,false,false,Best Actress,1
+2002,Nicole Kidman,The Hours,true,false,Best Actress,1
+2002,Halle Berry,Monster's Ball,false,false,Best Actress,1
+2002,Salma Hayek,Frida,false,false,Best Actress,1
+2002,Meryl Streep,The Hours,false,false,Best Actress,1
+2002,Renée Zellweger,Chicago,false,false,Best Actress,1
+2003,Scarlett Johansson,Lost in Translation / Girl with a Pearl Earring,true,false,Best Actress,2
+2003,Anne Reid,The Mother,false,false,Best Actress,1
+2003,Uma Thurman,Kill Bill: Volume 1,false,false,Best Actress,1
+2003,Naomi Watts,21 Grams,false,false,Best Actress,1
+2004,Imelda Staunton,Vera Drake,true,false,Best Actress,1
+2004,Charlize Theron,Monster,false,false,Best Actress,1
+2004,Kate Winslet,Eternal Sunshine of the Spotless Mind / Finding Neverland,false,false,Best Actress,2
+2004,Zhang Ziyi,House of Flying Daggers,false,false,Best Actress,1
+2005,Reese Witherspoon,Walk the Line,true,false,Best Actress,1
+2005,Judi Dench,Mrs. Henderson Presents,false,false,Best Actress,1
+2005,Charlize Theron,North Country,false,false,Best Actress,1
+2005,Rachel Weisz,The Constant Gardener,false,false,Best Actress,1
+2005,Zhang Ziyi,Memoirs of a Geisha,false,false,Best Actress,1
+2006,Helen Mirren,The Queen,true,false,Best Actress,1
+2006,Penélope Cruz,Volver,false,false,Best Actress,1
+2006,Judi Dench,Notes on a Scandal,false,false,Best Actress,1
+2006,Meryl Streep,The Devil Wears Prada,false,false,Best Actress,1
+2006,Kate Winslet,Little Children,false,false,Best Actress,1
+2007,Marion Cotillard,La Vie en Rose,true,false,Best Actress,1
+2007,Cate Blanchett,Elizabeth: The Golden Age,false,false,Best Actress,1
+2007,Julie Christie,Away from Her,false,false,Best Actress,1
+2007,Keira Knightley,Atonement,false,false,Best Actress,1
+2007,Elliot Page,Juno,false,false,Best Actress,1
+2008,Kate Winslet,The Reader / Revolutionary Road,true,false,Best Actress,2
+2008,Angelina Jolie,Changeling,false,false,Best Actress,1
+2008,Kristin Scott Thomas,I've Loved You So Long,false,false,Best Actress,1
+2008,Meryl Streep,Doubt,false,false,Best Actress,1
+2009,Carey Mulligan,An Education,true,false,Best Actress,1
+2009,Saoirse Ronan,The Lovely Bones,false,false,Best Actress,1
+2009,Gabourey Sidibe,Precious,false,false,Best Actress,1
+2009,Meryl Streep,Julie & Julia,false,false,Best Actress,1
+2009,Audrey Tautou,Coco before Chanel,false,false,Best Actress,1
+2010,Natalie Portman,Black Swan,true,false,Best Actress,1
+2010,Annette Bening,The Kids Are All Right,false,false,Best Actress,1
+2010,Julianne Moore,The Kids Are All Right,false,false,Best Actress,1
+2010,Noomi Rapace,The Girl with the Dragon Tattoo,false,false,Best Actress,1
+2010,Hailee Steinfeld,True Grit,false,false,Best Actress,1
+2011,Meryl Streep,The Iron Lady,true,false,Best Actress,1
+2011,Bérénice Bejo,The Artist,false,false,Best Actress,1
+2011,Viola Davis,The Help,false,false,Best Actress,1
+2011,Tilda Swinton,We Need to Talk About Kevin,false,false,Best Actress,1
+2011,Michelle Williams,My Week with Marilyn,false,false,Best Actress,1
+2012,Emmanuelle Riva,Amour,true,false,Best Actress,1
+2012,Jessica Chastain,Zero Dark Thirty,false,false,Best Actress,1
+2012,Marion Cotillard,Rust and Bone,false,false,Best Actress,1
+2012,Jennifer Lawrence,Silver Linings Playbook,false,false,Best Actress,1
+2012,Helen Mirren,Hitchcock,false,false,Best Actress,1
+2013,Cate Blanchett,Blue Jasmine,true,false,Best Actress,1
+2013,Amy Adams,American Hustle,false,false,Best Actress,1
+2013,Sandra Bullock,Gravity,false,false,Best Actress,1
+2013,Judi Dench,Philomena,false,false,Best Actress,1
+2013,Emma Thompson,Saving Mr. Banks,false,false,Best Actress,1
+2014,Julianne Moore,Still Alice,true,false,Best Actress,1
+2014,Amy Adams,Big Eyes,false,false,Best Actress,1
+2014,Felicity Jones,The Theory of Everything,false,false,Best Actress,1
+2014,Rosamund Pike,Gone Girl,false,false,Best Actress,1
+2014,Reese Witherspoon,Wild,false,false,Best Actress,1
+2015,Brie Larson,Room,true,false,Best Actress,1
+2015,Cate Blanchett,Carol,false,false,Best Actress,1
+2015,Saoirse Ronan,Brooklyn,false,false,Best Actress,1
+2015,Maggie Smith,The Lady in the Van,false,false,Best Actress,1
+2015,Alicia Vikander,The Danish Girl,false,false,Best Actress,1
+2016,Emma Stone,La La Land,true,false,Best Actress,1
+2016,Amy Adams,Arrival,false,false,Best Actress,1
+2016,Emily Blunt,The Girl on the Train,false,false,Best Actress,1
+2016,Natalie Portman,Jackie,false,false,Best Actress,1
+2016,Meryl Streep,Florence Foster Jenkins,false,false,Best Actress,1
+2017,Frances McDormand,"Three Billboards outside Ebbing, Missouri",true,false,Best Actress,1
+2017,Annette Bening,Film Stars Don't Die in Liverpool,false,false,Best Actress,1
+2017,Sally Hawkins,The Shape of Water,false,false,Best Actress,1
+2017,Margot Robbie,"I, Tonya",false,false,Best Actress,1
+2017,Saoirse Ronan,Lady Bird,false,false,Best Actress,1
+2018,Olivia Colman,The Favourite,true,false,Best Actress,1
+2018,Glenn Close,The Wife,false,false,Best Actress,1
+2018,Viola Davis,Widows,false,false,Best Actress,1
+2018,Lady Gaga,A Star Is Born,false,false,Best Actress,1
+2018,Melissa McCarthy,Can You Ever Forgive Me?,false,false,Best Actress,1
+2019,Renée Zellweger,Judy,true,false,Best Actress,1
+2019,Jessie Buckley,Wild Rose,false,false,Best Actress,1
+2019,Scarlett Johansson,Marriage Story,false,false,Best Actress,1
+2019,Saoirse Ronan,Little Women,false,false,Best Actress,1
+2019,Charlize Theron,Bombshell,false,false,Best Actress,1
+2020,Frances McDormand,Nomadland,true,false,Best Actress,1
+2020,Bukky Bakray,Rocks,false,false,Best Actress,1
+2020,Radha Blank,The Forty-Year-Old Version,false,false,Best Actress,1
+2020,Vanessa Kirby,Pieces of a Woman,false,false,Best Actress,1
+2020,Wunmi Mosaku,His House,false,false,Best Actress,1
+2020,Alfre Woodard,Clemency,false,false,Best Actress,1
+2021,Joanna Scanlan,After Love,true,false,Best Actress,1
+2021,Lady Gaga,House of Gucci,false,false,Best Actress,1
+2021,Alana Haim,Licorice Pizza,false,false,Best Actress,1
+2021,Emilia Jones,CODA,false,false,Best Actress,1
+2021,Renate Reinsve,The Worst Person in the World,false,false,Best Actress,1
+2021,Tessa Thompson,Passing,false,false,Best Actress,1
+2022,Cate Blanchett,Tár,true,false,Best Actress,1
+2022,Viola Davis,The Woman King,false,false,Best Actress,1
+2022,Ana de Armas,Blonde,false,false,Best Actress,1
+2022,Danielle Deadwyler,Till,false,false,Best Actress,1
+2022,Emma Thompson,"Good Luck to You, Leo Grande",false,false,Best Actress,1
+2022,Michelle Yeoh,Everything Everywhere All at Once,false,false,Best Actress,1
+2023,Emma Stone,Poor Things,true,false,Best Actress,1
+2023,Fantasia Barrino,The Color Purple,false,false,Best Actress,1
+2023,Sandra Hüller,Anatomy of a Fall,false,false,Best Actress,1
+2023,Carey Mulligan,Maestro,false,false,Best Actress,1
+2023,Vivian Oparah,Rye Lane,false,false,Best Actress,1
+2023,Margot Robbie,Barbie,false,false,Best Actress,1
+2024,Mikey Madison,Anora,true,false,Best Actress,1
+2024,Cynthia Erivo,Wicked,false,false,Best Actress,1
+2024,Karla Sofía Gascón,Emilia Pérez,false,false,Best Actress,1
+2024,Marianne Jean-Baptiste,Hard Truths,false,false,Best Actress,1
+2024,Demi Moore,The Substance,false,false,Best Actress,1
+2024,Saoirse Ronan,The Outrun,false,false,Best Actress,1
+2025,Jessie Buckley,Hamnet,true,false,Best Actress,1
+2025,Rose Byrne,If I Had Legs I'd Kick You,false,false,Best Actress,1
+2025,Kate Hudson,Song Sung Blue,false,false,Best Actress,1
+2025,Chase Infiniti,One Battle after Another,false,false,Best Actress,1
+2025,Renate Reinsve,Sentimental Value,false,false,Best Actress,1
+2025,Emma Stone,Bugonia,false,false,Best Actress,1

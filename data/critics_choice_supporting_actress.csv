@@ -1,0 +1,150 @@
+year,actress,film,is_winner,is_tie
+1995,Mira Sorvino,Mighty Aphrodite,true,false
+1996,Joan Allen,The Crucible,true,false
+1997,Joan Cusack,In & Out,true,false
+1998,Joan Allen,Pleasantville,true,true
+1998,Kathy Bates,Primary Colors,true,true
+1999,Angelina Jolie,"Girl, Interrupted",true,false
+2000,Frances McDormand,Almost Famous / Wonder Boys,true,false
+2001,Jennifer Connelly,A Beautiful Mind,true,false
+2001,Cameron Diaz,Vanilla Sky,false,false
+2001,Marisa Tomei,In the Bedroom,false,false
+2002,Catherine Zeta-Jones,Chicago,true,false
+2002,Kathy Bates,About Schmidt,false,false
+2002,Meryl Streep,Adaptation,false,false
+2003,Renée Zellweger,Cold Mountain,true,false
+2003,Patricia Clarkson,Pieces of April,false,false
+2003,Marcia Gay Harden,Mystic River,false,false
+2003,Holly Hunter,Thirteen,false,false
+2003,Scarlett Johansson,Lost in Translation,false,false
+2004,Virginia Madsen,Sideways,true,false
+2004,Cate Blanchett,The Aviator,false,false
+2004,Laura Linney,Kinsey,false,false
+2004,Natalie Portman,Closer,false,false
+2004,Kate Winslet,Finding Neverland,false,false
+2005,Amy Adams,Junebug,true,true
+2005,Michelle Williams,Brokeback Mountain,true,true
+2005,Maria Bello,A History of Violence,false,false
+2005,Catherine Keener,Capote,false,false
+2005,Frances McDormand,North Country,false,false
+2005,Rachel Weisz,The Constant Gardener,false,false
+2006,Jennifer Hudson,Dreamgirls,true,false
+2006,Adriana Barraza,Babel,false,false
+2006,Rinko Kikuchi,Babel,false,false
+2006,Cate Blanchett,Notes on a Scandal,false,false
+2006,Catherine O'Hara,For Your Consideration,false,false
+2006,Emma Thompson,Stranger than Fiction,false,false
+2007,Amy Ryan,Gone Baby Gone,true,false
+2007,Cate Blanchett,I'm Not There,false,false
+2007,Catherine Keener,Into the Wild,false,false
+2007,Vanessa Redgrave,Atonement,false,false
+2007,Tilda Swinton,Michael Clayton,false,false
+2008,Kate Winslet,The Reader,true,false
+2008,Penélope Cruz,Vicky Cristina Barcelona,false,false
+2008,Viola Davis,Doubt,false,false
+2008,Vera Farmiga,Nothing but the Truth,false,false
+2008,Taraji P. Henson,The Curious Case of Benjamin Button,false,false
+2008,Marisa Tomei,The Wrestler,false,false
+2009,Mo'Nique,Precious,true,false
+2009,Marion Cotillard,Nine,false,false
+2009,Vera Farmiga,Up in the Air,false,false
+2009,Anna Kendrick,Up in the Air,false,false
+2009,Julianne Moore,A Single Man,false,false
+2009,Samantha Morton,The Messenger,false,false
+2010,Melissa Leo,The Fighter,true,false
+2010,Amy Adams,The Fighter,false,false
+2010,Helena Bonham Carter,The King's Speech,false,false
+2010,Mila Kunis,Black Swan,false,false
+2010,Hailee Steinfeld,True Grit,false,false
+2010,Jacki Weaver,Animal Kingdom,false,false
+2011,Octavia Spencer,The Help,true,false
+2011,Bérénice Bejo,The Artist,false,false
+2011,Jessica Chastain,The Help,false,false
+2011,Melissa McCarthy,Bridesmaids,false,false
+2011,Carey Mulligan,Shame,false,false
+2011,Shailene Woodley,The Descendants,false,false
+2012,Anne Hathaway,Les Misérables,true,false
+2012,Amy Adams,The Master,false,false
+2012,Judi Dench,Skyfall,false,false
+2012,Ann Dowd,Compliance,false,false
+2012,Sally Field,Lincoln,false,false
+2012,Helen Hunt,The Sessions,false,false
+2013,Lupita Nyong'o,12 Years a Slave,true,false
+2013,Scarlett Johansson,Her,false,false
+2013,Jennifer Lawrence,American Hustle,false,false
+2013,Julia Roberts,August: Osage County,false,false
+2013,June Squibb,Nebraska,false,false
+2013,Oprah Winfrey,The Butler,false,false
+2014,Patricia Arquette,Boyhood,true,false
+2014,Jessica Chastain,A Most Violent Year,false,false
+2014,Keira Knightley,The Imitation Game,false,false
+2014,Emma Stone,Birdman,false,false
+2014,Meryl Streep,Into the Woods,false,false
+2014,Tilda Swinton,Snowpiercer,false,false
+2015,Alicia Vikander,The Danish Girl,true,false
+2015,Jennifer Jason Leigh,The Hateful Eight,false,false
+2015,Rooney Mara,Carol,false,false
+2015,Rachel McAdams,Spotlight,false,false
+2015,Helen Mirren,Trumbo,false,false
+2015,Kate Winslet,Steve Jobs,false,false
+2016,Viola Davis,Fences,true,false
+2016,Greta Gerwig,20th Century Women,false,false
+2016,Naomie Harris,Moonlight,false,false
+2016,Nicole Kidman,Lion,false,false
+2016,Janelle Monáe,Hidden Figures,false,false
+2016,Michelle Williams,Manchester by the Sea,false,false
+2017,Allison Janney,"I, Tonya",true,false
+2017,Mary J. Blige,Mudbound,false,false
+2017,Hong Chau,Downsizing,false,false
+2017,Tiffany Haddish,Girls Trip,false,false
+2017,Holly Hunter,The Big Sick,false,false
+2017,Laurie Metcalf,Lady Bird,false,false
+2017,Octavia Spencer,The Shape of Water,false,false
+2018,Regina King,If Beale Street Could Talk,true,false
+2018,Amy Adams,Vice,false,false
+2018,Claire Foy,First Man,false,false
+2018,Nicole Kidman,Boy Erased,false,false
+2018,Emma Stone,The Favourite,false,false
+2018,Rachel Weisz,The Favourite,false,false
+2019,Laura Dern,Marriage Story,true,false
+2019,Scarlett Johansson,Jojo Rabbit,false,false
+2019,Jennifer Lopez,Hustlers,false,false
+2019,Florence Pugh,Little Women,false,false
+2019,Margot Robbie,Bombshell,false,false
+2019,Zhao Shu-zhen,The Farewell,false,false
+2020,Maria Bakalova,Borat Subsequent Moviefilm,true,false
+2020,Ellen Burstyn,Pieces of a Woman,false,false
+2020,Glenn Close,Hillbilly Elegy,false,false
+2020,Amanda Seyfried,Mank,false,false
+2020,Olivia Colman,The Father,false,false
+2020,Youn Yuh-jung,Minari,false,false
+2021,Ariana DeBose,West Side Story,true,false
+2021,Caitríona Balfe,Belfast,false,false
+2021,Kirsten Dunst,The Power of the Dog,false,false
+2021,Ann Dowd,Mass,false,false
+2021,Aunjanue Ellis-Taylor,King Richard,false,false
+2021,Rita Moreno,West Side Story,false,false
+2022,Angela Bassett,Black Panther: Wakanda Forever,true,false
+2022,Jessie Buckley,Women Talking,false,false
+2022,Kerry Condon,The Banshees of Inisherin,false,false
+2022,Jamie Lee Curtis,Everything Everywhere All at Once,false,false
+2022,Stephanie Hsu,Everything Everywhere All at Once,false,false
+2022,Janelle Monáe,Glass Onion: A Knives Out Mystery,false,false
+2023,Da'Vine Joy Randolph,The Holdovers,true,false
+2023,Emily Blunt,Oppenheimer,false,false
+2023,Danielle Brooks,The Color Purple,false,false
+2023,America Ferrera,Barbie,false,false
+2023,Jodie Foster,Nyad,false,false
+2023,Julianne Moore,May December,false,false
+2024,Zoe Saldaña,Emilia Pérez,true,false
+2024,Danielle Deadwyler,The Piano Lesson,false,false
+2024,Aunjanue Ellis-Taylor,Nickel Boys,false,false
+2024,Ariana Grande,Wicked,false,false
+2024,Margaret Qualley,The Substance,false,false
+2024,Isabella Rossellini,Conclave,false,false
+2025,Amy Madigan,Weapons,true,false
+2025,Elle Fanning,Sentimental Value,false,false
+2025,Ariana Grande,Wicked: For Good,false,false
+2025,Inga Ibsdotter Lilleaas,Sentimental Value,false,false
+2025,Wunmi Mosaku,Sinners,false,false
+2025,Teyana Taylor,One Battle after Another,false,false

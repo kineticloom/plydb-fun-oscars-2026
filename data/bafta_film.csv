@@ -1,0 +1,513 @@
+year,film,director,is_winner,is_tie,num_films
+1947,The Best Years of Our Lives,William Wyler,true,false,1
+1948,Hamlet,Laurence Olivier,true,false,1
+1948,Crossfire,Edward Dmytryk,false,false,1
+1948,The Fallen Idol,Carol Reed,false,false,1
+1948,Monsieur Vincent,Maurice Cloche,false,false,1
+1948,The Naked City,Jules Dassin,false,false,1
+1948,Paisan ( Paisà ),Roberto Rossellini,false,false,1
+1948,Four Steps in the Clouds ( Quattro passi fra le nuvole ),Alessandro Blasetti,false,false,1
+1949,Bicycle Thieves ( Ladri di biciclette ),Vittorio De Sica,true,false,1
+1949,The Berliner ( Berliner Ballade ),R. A. Stemmle,false,false,1
+1949,The Last Stage ( Ostatni etap ),Wanda Jakubowska,false,false,1
+1949,The Set-Up,Robert Wise,false,false,1
+1949,The Third Man,Carol Reed,false,false,1
+1949,The Treasure of the Sierra Madre,John Huston,false,false,1
+1949,The Window,Ted Tetzlaff,false,false,1
+1950,All about Eve,Joseph L. Mankiewicz,true,false,1
+1950,The Asphalt Jungle,John Huston,false,false,1
+1950,Beauty and the Devil ( La Beauté du diable ),René Clair,false,false,1
+1950,Intruder in the Dust,Clarence Brown,false,false,1
+1950,The Men,Fred Zinnemann,false,false,1
+1950,On the Town,"Stanley Donen , Gene Kelly",false,false,1
+1950,Orphée (US: Orpheus ),Jean Cocteau,false,false,1
+1951,La Ronde,Max Ophüls,true,false,1
+1951,An American in Paris,Vincente Minnelli,false,false,1
+1951,The Browning Version,Anthony Asquith,false,false,1
+1951,Detective Story,William Wyler,false,false,1
+1951,Sunday in August ( Domenica d'agosto ),Luciano Emmer,false,false,1
+1951,Fourteen Hours,Henry Hathaway,false,false,1
+1951,Miss Julie ( Fröken Julie ),Alf Sjöberg,false,false,1
+1951,The Lavender Hill Mob,Charles Crichton,false,false,1
+1951,The Magic Box (1951),John Boulting,false,false,1
+1951,The Magic Garden,Donald Swanson,false,false,1
+1951,The Man in the White Suit,Alexander Mackendrick,false,false,1
+1951,No Resting Place,Paul Rotha,false,false,1
+1951,The Red Badge of Courage,John Huston,false,false,1
+1951,The Small Miracle,"Maurice Cloche , Ralph Smart",false,false,1
+1951,The Sound of Fury,Cyril Endfield,false,false,1
+1951,A Walk in the Sun,Lewis Milestone,false,false,1
+1951,White Corridors,Pat Jackson,false,false,1
+1951,Edward and Caroline ( Édouard et Caroline ),Jacques Becker,false,false,1
+1952,The Sound Barrier,David Lean,true,false,1
+1952,The African Queen,John Huston,false,false,1
+1952,Angels One Five,George More O'Ferrall,false,false,1
+1952,The Boy Kumasenu,Sean Graham,false,false,1
+1952,Carrie,William Wyler,false,false,1
+1952,Casque d'Or,Jacques Becker,false,false,1
+1952,"Cry, the Beloved Country",Zoltán Korda,false,false,1
+1952,Death of a Salesman,László Benedek,false,false,1
+1952,Limelight,Charles Chaplin,false,false,1
+1952,Mandy,"Alexander Mackendrick , Fred F. Sears",false,false,1
+1952,Miracle in Milan ( Miracolo a Milano ),Vittorio De Sica,false,false,1
+1952,The Young and the Damned ( Los olvidados ),Luis Buñuel,false,false,1
+1952,Outcast of the Islands,Carol Reed,false,false,1
+1952,"Rashomon ( 羅生門 , Rashōmon )",Akira Kurosawa,false,false,1
+1952,The River,Jean Renoir,false,false,1
+1952,Singin' in the Rain,"Stanley Donen , Gene Kelly",false,false,1
+1952,A Streetcar Named Desire,Elia Kazan,false,false,1
+1952,Viva Zapata!,Elia Kazan,false,false,1
+1953,Forbidden Games ( Jeux interdits ),René Clément,true,false,1
+1953,The Bad and the Beautiful,Vincente Minnelli,false,false,1
+1953,"Come Back, Little Sheba",Daniel Mann,false,false,1
+1953,The Cruel Sea,Charles Frend,false,false,1
+1953,Two Cents Worth of Hope ( Due soldi di speranza ),Renato Castellani,false,false,1
+1953,From Here to Eternity,Fred Zinnemann,false,false,1
+1953,Genevieve,Henry Cornelius,false,false,1
+1953,The Heart of the Matter,George More O'Ferrall,false,false,1
+1953,Julius Caesar,Joseph L. Mankiewicz,false,false,1
+1953,The Kidnappers (US: The Little Kidnappers ),Philip Leacock,false,false,1
+1953,Lili,Charles Walters,false,false,1
+1953,The Medium ( Il medium ),Gian-Carlo Menotti,false,false,1
+1953,Mogambo,John Ford,false,false,1
+1953,Moulin Rouge,John Huston,false,false,1
+1953,Are We All Murderers? ( Nous sommes tous des assassins ),André Cayatte,false,false,1
+1953,Little World of Don Camillo ( Don Camillo ),Julien Duvivier,false,false,1
+1953,Roman Holiday,William Wyler,false,false,1
+1953,Shane,George Stevens,false,false,1
+1953,The Sun Shines Bright,John Ford,false,false,1
+1954,The Wages of Fear ( Le salaire de la peur ),Henri-Georges Clouzot,true,false,1
+1954,The Caine Mutiny,Edward Dmytryk,false,false,1
+1954,Carrington V.C.,Anthony Asquith,false,false,1
+1954,The Divided Heart,Charles Crichton,false,false,1
+1954,Doctor in the House,Ralph Thomas,false,false,1
+1954,Executive Suite,Robert Wise,false,false,1
+1954,"For Better, for Worse",J. Lee Thompson,false,false,1
+1954,Hobson's Choice,David Lean,false,false,1
+1954,How to Marry a Millionaire,Jean Negulesco,false,false,1
+1954,"Gate of Hell ( 地獄門 , Jigokumon )",Teinosuke Kinugasa,false,false,1
+1954,The Maggie,Alexander Mackendrick,false,false,1
+1954,The Moon Is Blue,Otto Preminger,false,false,1
+1954,On the Waterfront,Elia Kazan,false,false,1
+1954,"Bread, Love and Dreams ( Pane, amore e fantasia )",Luigi Comencini,false,false,1
+1954,The Purple Plain,Robert Parrish,false,false,1
+1954,Rear Window,Alfred Hitchcock,false,false,1
+1954,Riot in Cell Block 11,Don Siegel,false,false,1
+1954,Robinson Crusoe ( Aventuras de Robinson Crusoe ),Luis Buñuel,false,false,1
+1954,Romeo and Juliet,Renato Castellani,false,false,1
+1954,Seven Brides for Seven Brothers,Stanley Donen,false,false,1
+1955,Richard III,Laurence Olivier,true,false,1
+1955,Bad Day at Black Rock,John Sturges,false,false,1
+1955,Carmen Jones,Otto Preminger,false,false,1
+1955,The Colditz Story,Guy Hamilton,false,false,1
+1955,The Dam Busters,Michael Anderson,false,false,1
+1955,East of Eden,Elia Kazan,false,false,1
+1955,The Ladykillers,Alexander Mackendrick,false,false,1
+1955,Marty,Delbert Mann,false,false,1
+1955,The Night My Number Came Up,Leslie Norman,false,false,1
+1955,The Prisoner,Peter Glenville,false,false,1
+1955,"Seven Samurai ( 七人の侍 , Shichinin no Samurai )",Akira Kurosawa,false,false,1
+1955,Simba,Brian Desmond Hurst,false,false,1
+1955,La Strada,Federico Fellini,false,false,1
+1955,Summertime,David Lean,false,false,1
+1956,Gervaise,René Clément,true,false,1
+1956,Friends for Life ( Amici per la pelle ),Franco Rossi,false,false,1
+1956,Baby Doll,Elia Kazan,false,false,1
+1956,The Battle of the River Plate,"Michael Powell , Emeric Pressburger",false,false,1
+1956,The Unfrocked One ( Le Défroqué ),Léo Joannon,false,false,1
+1956,Guys and Dolls,Joseph L. Mankiewicz,false,false,1
+1956,The Killing,Stanley Kubrick,false,false,1
+1956,The Man Who Never Was,Ronald Neame,false,false,1
+1956,The Man with the Golden Arm,Otto Preminger,false,false,1
+1956,Picnic,Joshua Logan,false,false,1
+1956,"The Grasshopper ( Попрыгунья , Poprygunya )",Samson Samsonov,false,false,1
+1956,Reach for the Sky,Lewis Gilbert,false,false,1
+1956,Rebel without a Cause,Nicholas Ray,false,false,1
+1956,Shadow ( Cień ),Jerzy Kawalerowicz,false,false,1
+1956,Smiles of a Summer Night ( Sommarnattens leende ),Ingmar Bergman,false,false,1
+1956,A Town Like Alice,Jack Lee,false,false,1
+1956,The Trouble with Harry,Alfred Hitchcock,false,false,1
+1956,War and Peace,King Vidor,false,false,1
+1956,Yield to the Night,J. Lee Thompson,false,false,1
+1957,The Bridge on the River Kwai,David Lean,true,false,1
+1957,12 Angry Men,Sidney Lumet,false,false,1
+1957,3:10 to Yuma,Delmer Daves,false,false,1
+1957,The Bachelor Party,Delbert Mann,false,false,1
+1957,He Who Must Die ( Celui qui doit mourir ),Jules Dassin,false,false,1
+1957,Edge of the City,Martin Ritt,false,false,1
+1957,"Heaven Knows, Mr. Allison",John Huston,false,false,1
+1957,"Pather Panchali ( পথের পাঁচালী , Pôther Pãchali )",Satyajit Ray,false,false,1
+1957,Paths of Glory,Stanley Kubrick,false,false,1
+1957,Gates of Paris ( Porte des Lilas ),René Clair,false,false,1
+1957,The Prince and the Showgirl,Laurence Olivier,false,false,1
+1957,The Shiralee,Leslie Norman,false,false,1
+1957,That Night!,John Newland,false,false,1
+1957,The Tin Star,Anthony Mann,false,false,1
+1957,A Man Escaped ( Un condamné à mort s'est échappé ),Robert Bresson,false,false,1
+1957,Windom's Way,Ronald Neame,false,false,1
+1958,Room at the Top,Jack Clayton,true,false,1
+1958,"Aparajito ( অপরাজিত , Ôporajito )",Satyajit Ray,false,false,1
+1958,Cat on a Hot Tin Roof,Richard Brooks,false,false,1
+1958,The Defiant Ones,Stanley Kramer,false,false,1
+1958,Ice Cold in Alex,J. Lee Thompson,false,false,1
+1958,Indiscreet,Stanley Donen,false,false,1
+1958,"The Cranes Are Flying ( Летят журавли , Letyat zhuravli )",Mikhail Kalatozov,false,false,1
+1958,No Down Payment,Martin Ritt,false,false,1
+1958,Nights of Cabiria ( Le notti di Cabiria ),Federico Fellini,false,false,1
+1958,Orders to Kill,Anthony Asquith,false,false,1
+1958,Sea of Sand,Guy Green,false,false,1
+1958,The Sheepman,George Marshall,false,false,1
+1958,Wild Strawberries ( Smultronstället ),Ingmar Bergman,false,false,1
+1958,The Young Lions,Edward Dmytryk,false,false,1
+1959,Ben-Hur,William Wyler,true,false,1
+1959,Anatomy of a Murder,Otto Preminger,false,false,1
+1959,The Magician ( Ansiktet ),Ingmar Bergman,false,false,1
+1959,The Big Country,William Wyler,false,false,1
+1959,Compulsion,Richard Fleischer,false,false,1
+1959,Gigi,Vincente Minnelli,false,false,1
+1959,Look Back in Anger,Tony Richardson,false,false,1
+1959,Maigret Sets a Trap ( Maigret tend un piège ),Jean Delannoy,false,false,1
+1959,North West Frontier,J. Lee Thompson,false,false,1
+1959,The Nun's Story,Fred Zinnemann,false,false,1
+1959,Ashes and Diamonds ( Popiół i diament ),Andrzej Wajda,false,false,1
+1959,Sapphire,Basil Dearden,false,false,1
+1959,Some Like It Hot,Billy Wilder,false,false,1
+1959,Tiger Bay,J. Lee Thompson,false,false,1
+1959,Yesterday's Enemy,Val Guest,false,false,1
+1960,The Apartment,Billy Wilder,true,false,1
+1960,The 400 Blows ( Les quatre cents coups ),Francois Truffaut,false,false,1
+1960,The Angry Silence,Guy Green,false,false,1
+1960,The Adventure ( L'avventura ),Michelangelo Antonioni,false,false,1
+1960,La Dolce Vita,Federico Fellini,false,false,1
+1960,Elmer Gantry,Richard Brooks,false,false,1
+1960,"Hiroshima mon amour ( 二十四時間の情事 , Nijūyojikan'nojōji )",Alain Resnais,false,false,1
+1960,Inherit the Wind,Stanley Kramer,false,false,1
+1960,Let's Make Love,George Cukor,false,false,1
+1960,Black Orpheus ( Orfeu Negro ),Marcel Camus,false,false,1
+1960,"Never on Sunday ( Ποτέ την Κυριακή , Poté tin Kyriakí )",Jules Dassin,false,false,1
+1960,Saturday Night and Sunday Morning,Karel Reisz,false,false,1
+1960,Shadows,John Cassavetes,false,false,1
+1960,Spartacus,Stanley Kubrick,false,false,1
+1960,The Testament of Orpheus ( Le testament d'Orphée ),Jean Cocteau,false,false,1
+1960,The Trials of Oscar Wilde,Ken Hughes,false,false,1
+1960,Tunes of Glory,Ronald Neame,false,false,1
+1961,"Ballad of a Soldier ( Баллада о солдате, Ballada o soldate )",Grigori Chukhrai,true,true,1
+1961,The Hustler,Robert Rossen,true,true,1
+1961,The World of Apu,Satyajit Ray,false,false,1
+1961,The Innocents,Jack Clayton,false,false,1
+1961,Judgment at Nuremberg,Stanley Kramer,false,false,1
+1961,The Long and the Short and the Tall,Leslie Norman,false,false,1
+1961,Rocco and His Brothers ( Rocco e i suoi fratelli ),Luchino Visconti,false,false,1
+1961,The Sundowners,Fred Zinnemann,false,false,1
+1961,A Taste of Honey,Tony Richardson,false,false,1
+1961,The Hole ( Le Trou ; US: The Night Watch ),Jacques Becker,false,false,1
+1961,Whistle Down the Wind,Bryan Forbes,false,false,1
+1962,Lawrence of Arabia,David Lean,true,false,1
+1962,Last Year at Marienbad ( L'Année dernière à Marienbad ),Alain Resnais,false,false,1
+1962,Billy Budd,Peter Ustinov,false,false,1
+1962,The Elusive Corporal ( Le Caporal épinglé ),Jean Renoir,false,false,1
+1962,"The Lady with the Dog ( Дама с собачкой , Dama s sobachkoy )",Iosif Kheifits,false,false,1
+1962,"The Naked Island ( 裸の島 , Hadaka no Shima )",Kaneto Shindō,false,false,1
+1962,Jules and Jim ( Jules et Jim ),Francois Truffaut,false,false,1
+1962,A Kind of Loving,John Schlesinger,false,false,1
+1962,The L-Shaped Room,Bryan Forbes,false,false,1
+1962,Lola,Jacques Demy,false,false,1
+1962,The Manchurian Candidate,John Frankenheimer,false,false,1
+1962,The Miracle Worker,Arthur Penn,false,false,1
+1962,Only Two Can Play,Sidney Gilliat,false,false,1
+1962,Phaedra ( Φαίδρα ),Jules Dassin,false,false,1
+1962,Through a Glass Darkly ( Såsom i en spegel ),Ingmar Bergman,false,false,1
+1962,Thou Shalt Not Kill ( Tu ne tueras point ),Claude Autant-Lara,false,false,1
+1962,The Long Absence ( Une aussi longue absence ),Henri Colpi,false,false,1
+1962,West Side Story,"Jerome Robbins , Robert Wise",false,false,1
+1963,Tom Jones,Tony Richardson,true,false,1
+1963,8½ ( Otto e mezzo ),Federico Fellini,false,false,1
+1963,Billy Liar,John Schlesinger,false,false,1
+1963,David and Lisa,Frank Perry,false,false,1
+1963,Days of Wine and Roses,Blake Edwards,false,false,1
+1963,Divorce Italian Style ( Divorzio all'italiana ),Pietro Germi,false,false,1
+1963,Hud,Martin Ritt,false,false,1
+1963,Knife in the Water ( Nóż w wodzie ),Roman Polanski,false,false,1
+1963,The Four Days of Naples ( Le quattro giornate di Napoli ),Nanni Loy,false,false,1
+1963,The Servant,Joseph Losey,false,false,1
+1963,This Sporting Life,Lindsay Anderson,false,false,1
+1963,To Kill a Mockingbird,Robert Mulligan,false,false,1
+1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,true,false,1
+1964,Becket,Peter Glenville,false,false,1
+1964,The Pumpkin Eater,Jack Clayton,false,false,1
+1964,The Train,John Frankenheimer,false,false,1
+1965,My Fair Lady,George Cukor,true,false,1
+1965,"Hamlet ( Гамлет , Gamlet )",Grigori Kozintsev,false,false,1
+1965,The Hill,Sidney Lumet,false,false,1
+1965,The Knack ...and How to Get It,Richard Lester,false,false,1
+1965,"Zorba the Greek ( Αλέξης Ζορμπάς , Alexis Zorbas )",Michael Cacoyannis,false,false,1
+1966,Who's Afraid of Virginia Woolf?,Mike Nichols,true,false,1
+1966,Doctor Zhivago,David Lean,false,false,1
+1966,Morgan – A Suitable Case for Treatment,Karel Reisz,false,false,1
+1966,The Spy Who Came In from the Cold,Martin Ritt,false,false,1
+1967,A Man for All Seasons,Fred Zinnemann,true,false,1
+1967,Bonnie and Clyde,Arthur Penn,false,false,1
+1967,In the Heat of the Night,Norman Jewison,false,false,1
+1967,A Man and a Woman ( Un homme et une femme ),Claude Lelouch,false,false,1
+1968,The Graduate,Mike Nichols,true,false,1
+1968,2001: A Space Odyssey,Stanley Kubrick,false,false,1
+1968,Oliver!,Carol Reed,false,false,1
+1968,Closely Observed Trains ( Ostře sledované vlaky ),Jiří Menzel,false,false,1
+1969,Midnight Cowboy,John Schlesinger,true,false,1
+1969,Oh! What a Lovely War,Richard Attenborough,false,false,1
+1969,Women in Love,Ken Russell,false,false,1
+1969,Z,Costa-Gavras,false,false,1
+1970,Butch Cassidy and the Sundance Kid,George Roy Hill,true,false,1
+1970,Kes,Kenneth Loach,false,false,1
+1970,M*A*S*H,Robert Altman,false,false,1
+1970,Ryan's Daughter,David Lean,false,false,1
+1971,Sunday Bloody Sunday,John Schlesinger,true,false,1
+1971,The Go-Between,Joseph Losey,false,false,1
+1971,Death in Venice ( Morte a Venezia ),Luchino Visconti,false,false,1
+1971,Taking Off,Milos Forman,false,false,1
+1972,Cabaret,Bob Fosse,true,false,1
+1972,A Clockwork Orange,Stanley Kubrick,false,false,1
+1972,The French Connection,William Friedkin,false,false,1
+1972,The Last Picture Show,Peter Bogdanovich,false,false,1
+1973,Day for Night ( La Nuit américaine ),Francois Truffaut,true,false,1
+1973,The Day of the Jackal,Fred Zinnemann,false,false,1
+1973,The Discreet Charm of the Bourgeoisie ( Le Charme discret de la bourgeoisie ),Luis Buñuel,false,false,1
+1973,Don't Look Now,Nicolas Roeg,false,false,1
+1974,"Lacombe, Lucien",Louis Malle,true,false,1
+1974,Chinatown,Roman Polanski,false,false,1
+1974,The Last Detail,Hal Ashby,false,false,1
+1974,Murder on the Orient Express,Sidney Lumet,false,false,1
+1975,Alice Doesn't Live Here Anymore,Martin Scorsese,true,false,1
+1975,Barry Lyndon,Stanley Kubrick,false,false,1
+1975,Dog Day Afternoon,Sidney Lumet,false,false,1
+1975,Jaws,Steven Spielberg,false,false,1
+1976,One Flew over the Cuckoo's Nest,Milos Forman,true,false,1
+1976,All the President's Men,Alan J. Pakula,false,false,1
+1976,Bugsy Malone,Alan Parker,false,false,1
+1976,Taxi Driver,Martin Scorsese,false,false,1
+1977,Annie Hall,Woody Allen,true,false,1
+1977,A Bridge Too Far,Richard Attenborough,false,false,1
+1977,Network,Sidney Lumet,false,false,1
+1977,Rocky,John G. Avildsen,false,false,1
+1978,Julia,Fred Zinnemann,true,false,1
+1978,Close Encounters of the Third Kind,Steven Spielberg,false,false,1
+1978,Midnight Express,Alan Parker,false,false,1
+1978,Star Wars,George Lucas,false,false,1
+1979,Manhattan,Woody Allen,true,false,1
+1979,Apocalypse Now,Francis Coppola,false,false,1
+1979,The China Syndrome,James Bridges,false,false,1
+1979,The Deer Hunter,Michael Cimino,false,false,1
+1980,The Elephant Man,David Lynch,true,false,1
+1980,Being There,Hal Ashby,false,false,1
+1980,"Kagemusha ( 影武者 , Kagemusha )",Akira Kurosawa,false,false,1
+1980,Kramer vs. Kramer,Robert Benton,false,false,1
+1981,Chariots of Fire,Hugh Hudson,true,false,1
+1981,Atlantic City,Louis Malle,false,false,1
+1981,The French Lieutenant's Woman,Karel Reisz,false,false,1
+1981,Gregory's Girl,Bill Forsyth,false,false,1
+1981,Raiders of the Lost Ark,Steven Spielberg,false,false,1
+1982,Gandhi,Richard Attenborough,true,false,1
+1982,E.T. The Extra-Terrestrial,Steven Spielberg,false,false,1
+1982,Missing,Costa-Gavras,false,false,1
+1982,On Golden Pond,Mark Rydell,false,false,1
+1983,Educating Rita,Lewis Gilbert,true,false,1
+1983,Heat and Dust,James Ivory,false,false,1
+1983,Local Hero,Bill Forsyth,false,false,1
+1983,Tootsie,Sydney Pollack,false,false,1
+1984,The Killing Fields,Roland Joffé,true,false,1
+1984,The Dresser,Peter Yates,false,false,1
+1984,"Paris, Texas",Wim Wenders,false,false,1
+1984,A Private Function,Malcolm Mowbray,false,false,1
+1985,The Purple Rose of Cairo,Woody Allen,true,false,1
+1985,Amadeus,Milos Forman,false,false,1
+1985,Back to the Future,Robert Zemeckis,false,false,1
+1985,A Passage to India,David Lean,false,false,1
+1985,Witness,Peter Weir,false,false,1
+1986,A Room with a View,James Ivory,true,false,1
+1986,Hannah and Her Sisters,Woody Allen,false,false,1
+1986,The Mission,Roland Joffé,false,false,1
+1986,Mona Lisa,Neil Jordan,false,false,1
+1987,Jean de Florette,Claude Berri,true,false,1
+1987,Cry Freedom,Richard Attenborough,false,false,1
+1987,Hope and Glory,John Boorman,false,false,1
+1987,Radio Days,Woody Allen,false,false,1
+1988,The Last Emperor,Bernardo Bertolucci,true,false,1
+1988,Au revoir les enfants,Louis Malle,false,false,1
+1988,Babette's Feast,Gabriel Axel,false,false,1
+1988,A Fish Called Wanda,Charles Crichton,false,false,1
+1989,Dead Poets Society,Peter Weir,true,false,1
+1989,My Left Foot,Jim Sheridan,false,false,1
+1989,Shirley Valentine,Lewis Gilbert,false,false,1
+1989,When Harry Met Sally...,Rob Reiner,false,false,1
+1990,Good Fellas,Martin Scorsese,true,false,1
+1990,Crimes and Misdemeanors,Woody Allen,false,false,1
+1990,Driving Miss Daisy,Bruce Beresford,false,false,1
+1990,Pretty Woman,Garry Marshall,false,false,1
+1991,The Commitments,Alan Parker,true,false,1
+1991,Dances With Wolves,Kevin Costner,false,false,1
+1991,The Silence of the Lambs,Jonathan Demme,false,false,1
+1991,Thelma & Louise,Ridley Scott,false,false,1
+1992,Howards End,James Ivory,true,false,1
+1992,The Crying Game,Neil Jordan,false,false,1
+1992,The Player,Robert Altman,false,false,1
+1992,Strictly Ballroom,Baz Luhrmann,false,false,1
+1992,Unforgiven,Clint Eastwood,false,false,1
+1993,Schindler's List,Steven Spielberg,true,false,1
+1993,The Piano,Jane Campion,false,false,1
+1993,The Remains of the Day,James Ivory,false,false,1
+1993,Shadowlands,Richard Attenborough,false,false,1
+1994,Four Weddings and a Funeral,Mike Newell,true,false,1
+1994,Forrest Gump,Robert Zemeckis,false,false,1
+1994,Pulp Fiction,Quentin Tarantino,false,false,1
+1994,Quiz Show,Robert Redford,false,false,1
+1995,Sense and Sensibility,Ang Lee,true,false,1
+1995,Babe,Chris Noonan,false,false,1
+1995,The Madness of King George,Nicholas Hytner,false,false,1
+1995,The Usual Suspects,Bryan Singer,false,false,1
+1996,The English Patient,Anthony Minghella,true,false,1
+1996,Fargo,Joel Coen,false,false,1
+1996,Secrets & Lies,Mike Leigh,false,false,1
+1996,Shine,Scott Hicks,false,false,1
+1997,The Full Monty,Peter Cattaneo,true,false,1
+1997,L.A. Confidential,Curtis Hanson,false,false,1
+1997,Mrs. Brown,John Madden,false,false,1
+1997,Titanic,James Cameron,false,false,1
+1998,Shakespeare in Love,John Madden,true,false,1
+1998,Elizabeth,Shekhar Kapur,false,false,1
+1998,Saving Private Ryan,Steven Spielberg,false,false,1
+1998,The Truman Show,Peter Weir,false,false,1
+1999,American Beauty,Sam Mendes,true,false,1
+1999,East is East,Damien O'Donnell,false,false,1
+1999,The End of the Affair,Neil Jordan,false,false,1
+1999,The Sixth Sense,M. Night Shyamalan,false,false,1
+1999,The Talented Mr. Ripley,Anthony Minghella,false,false,1
+2000,Gladiator,Ridley Scott,true,false,1
+2000,Almost Famous,Cameron Crowe,false,false,1
+2000,Billy Elliot,Stephen Daldry,false,false,1
+2000,"Crouching Tiger, Hidden Dragon ( 臥虎藏龍 , Wò hǔ cáng lóng )",Ang Lee,false,false,1
+2000,Erin Brockovich,Steven Soderbergh,false,false,1
+2001,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,true,false,1
+2001,Amélie,Jean-Pierre Jeunet,false,false,1
+2001,A Beautiful Mind,Ron Howard,false,false,1
+2001,Moulin Rouge!,Baz Luhrmann,false,false,1
+2001,Shrek,"Andrew Adamson , Vicky Jenson",false,false,1
+2002,The Pianist,Roman Polanski,true,false,1
+2002,Chicago,Rob Marshall,false,false,1
+2002,Gangs of New York,Martin Scorsese,false,false,1
+2002,The Hours,Stephen Daldry,false,false,1
+2002,The Lord of the Rings: The Two Towers,Peter Jackson,false,false,1
+2003,The Lord of the Rings: The Return of the King,Peter Jackson,true,false,1
+2003,Big Fish,Tim Burton,false,false,1
+2003,Cold Mountain,Anthony Minghella,false,false,1
+2003,Lost in Translation,Sofia Coppola,false,false,1
+2003,Master and Commander: The Far Side of the World,Peter Weir,false,false,1
+2004,The Aviator,Martin Scorsese,true,false,1
+2004,Eternal Sunshine of the Spotless Mind,Michel Gondry,false,false,1
+2004,Finding Neverland,Marc Forster,false,false,1
+2004,The Motorcycle Diaries ( Diarios de motocicleta ),Walter Salles,false,false,1
+2004,Vera Drake,Mike Leigh,false,false,1
+2005,Brokeback Mountain,Ang Lee,true,false,1
+2005,Capote,Bennett Miller,false,false,1
+2005,The Constant Gardener,Fernando Meirelles,false,false,1
+2005,Crash,Paul Haggis,false,false,1
+2005,"Good Night, and Good Luck.",George Clooney,false,false,1
+2006,The Queen,Stephen Frears,true,false,1
+2006,Babel,Alejandro González Iñárritu,false,false,1
+2006,The Departed,Martin Scorsese,false,false,1
+2006,The Last King of Scotland,Kevin Macdonald,false,false,1
+2006,Little Miss Sunshine,"Jonathan Dayton , Valerie Faris",false,false,1
+2007,Atonement,Joe Wright,true,false,1
+2007,American Gangster,Ridley Scott,false,false,1
+2007,The Lives of Others (Das Leben der Anderen),Florian Henckel von Donnersmarck,false,false,1
+2007,No Country for Old Men,Joel and Ethan Coen,false,false,1
+2007,There Will Be Blood,Paul Thomas Anderson,false,false,1
+2008,Slumdog Millionaire,Danny Boyle,true,false,1
+2008,The Curious Case of Benjamin Button,David Fincher,false,false,1
+2008,Frost/Nixon,Ron Howard,false,false,1
+2008,Milk,Gus Van Sant,false,false,1
+2008,The Reader,Stephen Daldry,false,false,1
+2009,The Hurt Locker,Kathryn Bigelow,true,false,1
+2009,Avatar,James Cameron,false,false,1
+2009,An Education,Lone Scherfig,false,false,1
+2009,Precious,Lee Daniels,false,false,1
+2009,Up in the Air,Jason Reitman,false,false,1
+2010,The King's Speech,Tom Hooper,true,false,1
+2010,Black Swan,Darren Aronofsky,false,false,1
+2010,Inception,Christopher Nolan,false,false,1
+2010,The Social Network,David Fincher,false,false,1
+2010,True Grit,Joel and Ethan Coen,false,false,1
+2011,The Artist,Michel Hazanavicius,true,false,1
+2011,The Descendants,Alexander Payne,false,false,1
+2011,Drive,Nicolas Winding Refn,false,false,1
+2011,The Help,Tate Taylor,false,false,1
+2011,Tinker Tailor Soldier Spy,Tomas Alfredson,false,false,1
+2012,Argo,Ben Affleck,true,false,1
+2012,Les Misérables,Tom Hooper,false,false,1
+2012,Life of Pi,Ang Lee,false,false,1
+2012,Lincoln,Steven Spielberg,false,false,1
+2012,Zero Dark Thirty,Kathryn Bigelow,false,false,1
+2013,12 Years a Slave,Steve McQueen,true,false,1
+2013,American Hustle,David O. Russell,false,false,1
+2013,Captain Phillips,Paul Greengrass,false,false,1
+2013,Gravity,Alfonso Cuarón,false,false,1
+2013,Philomena,Stephen Frears,false,false,1
+2014,Boyhood,Richard Linklater,true,false,1
+2014,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,false,false,1
+2014,The Grand Budapest Hotel,Wes Anderson,false,false,1
+2014,The Imitation Game,Morten Tyldum,false,false,1
+2014,The Theory of Everything,James Marsh,false,false,1
+2015,The Revenant,Alejandro G. Iñárritu,true,false,1
+2015,The Big Short,Adam McKay,false,false,1
+2015,Bridge of Spies,Steven Spielberg,false,false,1
+2015,Carol,Todd Haynes,false,false,1
+2015,Spotlight,Tom McCarthy,false,false,1
+2016,La La Land,Damien Chazelle,true,false,1
+2016,Arrival,Denis Villeneuve,false,false,1
+2016,"I, Daniel Blake",Ken Loach,false,false,1
+2016,Manchester by the Sea,Kenneth Lonergan,false,false,1
+2016,Moonlight,Barry Jenkins,false,false,1
+2017,"Three Billboards outside Ebbing, Missouri",Martin McDonagh,true,false,1
+2017,Call Me by Your Name,Luca Guadagnino,false,false,1
+2017,Darkest Hour,Joe Wright,false,false,1
+2017,Dunkirk,Christopher Nolan,false,false,1
+2017,The Shape of Water,Guillermo del Toro,false,false,1
+2018,Roma,Alfonso Cuarón,true,false,1
+2018,BlacKkKlansman,Spike Lee,false,false,1
+2018,The Favourite,Yorgos Lanthimos,false,false,1
+2018,Green Book,Peter Farrelly,false,false,1
+2018,A Star Is Born,Bradley Cooper,false,false,1
+2019,1917,Sam Mendes,true,false,1
+2019,The Irishman,Martin Scorsese,false,false,1
+2019,Joker,Todd Phillips,false,false,1
+2019,Once upon a Time...in Hollywood,Quentin Tarantino,false,false,1
+2019,"Parasite ( 기생충 , Gisaengchung )",Bong Joon Ho,false,false,1
+2020,Nomadland,Chloé Zhao,true,false,1
+2020,The Father,Florian Zeller,false,false,1
+2020,The Mauritanian,Kevin Macdonald,false,false,1
+2020,Promising Young Woman,Emerald Fennell,false,false,1
+2020,The Trial of the Chicago 7,Aaron Sorkin,false,false,1
+2021,The Power of the Dog,Jane Campion,true,false,1
+2021,Belfast,Kenneth Branagh,false,false,1
+2021,Don't Look Up,Adam McKay,false,false,1
+2021,Dune,Denis Villeneuve,false,false,1
+2021,Licorice Pizza,Paul Thomas Anderson,false,false,1
+2022,All Quiet on the Western Front (Im Westen nichts Neues),Edward Berger,true,false,1
+2022,The Banshees of Inisherin,Martin McDonagh,false,false,1
+2022,Elvis,Baz Luhrmann,false,false,1
+2022,Everything Everywhere All at Once,"Daniel Kwan , Daniel Scheinert",false,false,1
+2022,Tár,Todd Field,false,false,1
+2023,Oppenheimer,Christopher Nolan,true,false,1
+2023,Anatomy of a Fall (Anatomie d'une chute),Justine Triet,false,false,1
+2023,The Holdovers,Alexander Payne,false,false,1
+2023,Killers of the Flower Moon,Martin Scorsese,false,false,1
+2023,Poor Things,Yorgos Lanthimos,false,false,1
+2024,Conclave,Edward Berger,true,false,1
+2024,Anora,Sean Baker,false,false,1
+2024,The Brutalist,Brady Corbet,false,false,1
+2024,A Complete Unknown,James Mangold,false,false,1
+2024,Emilia Pérez,Jacques Audiard,false,false,1
+2025,One Battle after Another,Paul Thomas Anderson,true,false,1
+2025,Hamnet,Chloé Zhao,false,false,1
+2025,Marty Supreme,Josh Safdie,false,false,1
+2025,Sentimental Value,Joachim Trier,false,false,1
+2025,Sinners,Ryan Coogler,false,false,1

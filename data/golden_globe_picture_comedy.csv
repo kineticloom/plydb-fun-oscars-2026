@@ -1,0 +1,80 @@
+year_from,year_to,film,is_winner,is_tie
+1951,1952,An American in Paris,true,false
+1952,1953,With a Song in My Heart,true,false
+1954,1955,Carmen Jones,true,false
+1955,1956,Guys and Dolls,true,false
+1956,1957,The King and I,true,false
+1957,1958,Les Girls,true,false
+1958,1959,Gigi,true,true
+1958,1959,Auntie Mame,true,true
+1959,1960,Porgy and Bess,true,true
+1959,1960,Some Like It Hot,true,true
+1960,1961,Song Without End,true,true
+1960,1961,The Apartment,true,true
+1961,1962,West Side Story,true,true
+1961,1962,A Majority of One,true,true
+1962,1963,The Music Man,true,true
+1962,1963,That Touch of Mink,true,true
+1963,1964,Tom Jones,true,false
+1964,1965,My Fair Lady,true,false
+1965,1966,The Sound of Music,true,false
+1966,1967,The Russians Are Coming The Russians Are Coming,true,false
+1967,1968,The Graduate,true,false
+1968,1969,Oliver!,true,false
+1969,1970,The Secret of Santa Vittoria,true,false
+1970,1971,M*A*S*H,true,false
+1971,1972,Fiddler on the Roof,true,false
+1972,1973,Cabaret,true,false
+1973,1974,American Graffiti,true,false
+1974,1975,The Longest Yard,true,false
+1975,1976,The Sunshine Boys,true,false
+1976,1977,A Star Is Born,true,false
+1977,1978,The Goodbye Girl,true,false
+1978,1979,Heaven Can Wait,true,false
+1979,1980,Breaking Away,true,false
+1980,1981,Coal Miner's Daughter,true,false
+1981,1982,Arthur,true,false
+1982,1983,Tootsie,true,false
+1983,1984,Yentl,true,false
+1984,1985,Romancing the Stone,true,false
+1985,1986,Prizzi's Honor,true,false
+1986,1987,Hannah and Her Sisters,true,false
+1987,1988,Hope and Glory,true,false
+1988,1989,Working Girl,true,false
+1989,1990,Driving Miss Daisy,true,false
+1990,1991,Green Card,true,false
+1991,1992,Beauty and the Beast,true,false
+1992,1993,The Player,true,false
+1993,1994,Mrs. Doubtfire,true,false
+1994,1995,The Lion King,true,false
+1995,1996,Babe,true,false
+1996,1997,Evita,true,false
+1997,1998,As Good as It Gets,true,false
+1998,1999,Shakespeare in Love,true,false
+1999,2000,Toy Story 2,true,false
+2000,2001,Almost Famous,true,false
+2001,2002,Moulin Rouge!,true,false
+2002,2003,Chicago,true,false
+2003,2004,Lost in Translation,true,false
+2004,2005,Sideways,true,false
+2005,2006,Walk the Line,true,false
+2006,2007,Dreamgirls,true,false
+2007,2008,Sweeney Todd: The Demon Barber of Fleet Street,true,false
+2008,2009,Vicky Cristina Barcelona,true,false
+2009,2010,The Hangover,true,false
+2010,2011,The Kids Are All Right,true,false
+2011,2012,The Artist,true,false
+2012,2013,Les Misérables,true,false
+2013,2014,American Hustle,true,false
+2014,2015,The Grand Budapest Hotel,true,false
+2015,2016,The Martian,true,false
+2016,2017,La La Land,true,false
+2017,2018,Lady Bird,true,false
+2018,2019,Green Book,true,false
+2019,2020,Once upon a Time...in Hollywood,true,false
+2020,2021,Borat Subsequent Moviefilm,true,false
+2021,2022,West Side Story,true,false
+2022,2023,The Banshees of Inisherin,true,false
+2023,2024,Poor Things,true,false
+2024,2025,Emilia Pérez,true,false
+2025,2026,One Battle after Another,true,false

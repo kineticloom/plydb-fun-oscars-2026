@@ -1,0 +1,157 @@
+year,film,is_winner,is_tie
+1995,Apollo 13,true,false
+1995,Get Shorty,false,false
+1995,How to Make an American Quilt,false,false
+1995,Nixon,false,false
+1995,Sense and Sensibility,false,false
+1996,The Birdcage,true,false
+1996,The English Patient,false,false
+1996,Marvin's Room,false,false
+1996,Shine,false,false
+1996,Sling Blade,false,false
+1997,The Full Monty,true,false
+1997,Boogie Nights,false,false
+1997,Good Will Hunting,false,false
+1997,L.A. Confidential,false,false
+1997,Titanic,false,false
+1998,Shakespeare in Love,true,false
+1998,Life Is Beautiful ( La vita è bella ),false,false
+1998,Little Voice,false,false
+1998,Saving Private Ryan,false,false
+1998,Waking Ned Devine,false,false
+1999,American Beauty,true,false
+1999,Being John Malkovich,false,false
+1999,The Cider House Rules,false,false
+1999,The Green Mile,false,false
+1999,Magnolia,false,false
+2000,Traffic,true,false
+2000,Almost Famous,false,false
+2000,Billy Elliot,false,false
+2000,Chocolat,false,false
+2000,Gladiator,false,false
+2001,Gosford Park,true,false
+2001,A Beautiful Mind,false,false
+2001,In the Bedroom,false,false
+2001,The Lord of the Rings: The Fellowship of the Ring,false,false
+2001,Moulin Rouge!,false,false
+2002,Chicago,true,false
+2002,Adaptation,false,false
+2002,The Hours,false,false
+2002,The Lord of the Rings: The Two Towers,false,false
+2002,My Big Fat Greek Wedding,false,false
+2003,The Lord of the Rings: The Return of the King,true,false
+2003,In America,false,false
+2003,Mystic River,false,false
+2003,Seabiscuit,false,false
+2003,The Station Agent,false,false
+2004,Sideways,true,false
+2004,The Aviator,false,false
+2004,Finding Neverland,false,false
+2004,Hotel Rwanda,false,false
+2004,Million Dollar Baby,false,false
+2004,Ray,false,false
+2005,Crash,true,false
+2005,Brokeback Mountain,false,false
+2005,Capote,false,false
+2005,"Good Night, and Good Luck.",false,false
+2005,Hustle & Flow,false,false
+2006,Little Miss Sunshine,true,false
+2006,Babel,false,false
+2006,Bobby,false,false
+2006,The Departed,false,false
+2006,Dreamgirls,false,false
+2007,No Country for Old Men,true,false
+2007,3:10 to Yuma,false,false
+2007,American Gangster,false,false
+2007,Hairspray,false,false
+2007,Into the Wild,false,false
+2008,Slumdog Millionaire,true,false
+2008,The Curious Case of Benjamin Button,false,false
+2008,Doubt,false,false
+2008,Frost/Nixon,false,false
+2008,Milk,false,false
+2009,Inglourious Basterds,true,false
+2009,An Education,false,false
+2009,The Hurt Locker,false,false
+2009,Nine,false,false
+2009,Precious,false,false
+2010,The King's Speech,true,false
+2010,Black Swan,false,false
+2010,The Fighter,false,false
+2010,The Kids Are All Right,false,false
+2010,The Social Network,false,false
+2011,The Help,true,false
+2011,The Artist,false,false
+2011,Bridesmaids,false,false
+2011,The Descendants,false,false
+2011,Midnight in Paris,false,false
+2012,Argo,true,false
+2012,The Best Exotic Marigold Hotel,false,false
+2012,Les Misérables,false,false
+2012,Lincoln,false,false
+2012,Silver Linings Playbook,false,false
+2013,American Hustle,true,false
+2013,12 Years a Slave,false,false
+2013,August: Osage County,false,false
+2013,The Butler,false,false
+2013,Dallas Buyers Club,false,false
+2014,Birdman,true,false
+2014,Boyhood,false,false
+2014,The Grand Budapest Hotel,false,false
+2014,The Imitation Game,false,false
+2014,The Theory of Everything,false,false
+2015,Spotlight,true,false
+2015,Beasts of No Nation,false,false
+2015,The Big Short,false,false
+2015,Straight Outta Compton,false,false
+2015,Trumbo,false,false
+2016,Hidden Figures,true,false
+2016,Captain Fantastic,false,false
+2016,Fences,false,false
+2016,Manchester by the Sea,false,false
+2016,Moonlight,false,false
+2017,"Three Billboards outside Ebbing, Missouri",true,false
+2017,The Big Sick,false,false
+2017,Get Out,false,false
+2017,Lady Bird,false,false
+2017,Mudbound,false,false
+2018,Black Panther,true,false
+2018,BlacKkKlansman,false,false
+2018,Bohemian Rhapsody,false,false
+2018,Crazy Rich Asians,false,false
+2018,A Star Is Born,false,false
+2019,Parasite (기생충),true,false
+2019,Bombshell,false,false
+2019,The Irishman,false,false
+2019,Jojo Rabbit,false,false
+2019,Once upon a Time...in Hollywood,false,false
+2020,The Trial of the Chicago 7,true,false
+2020,Da 5 Bloods,false,false
+2020,Ma Rainey's Black Bottom,false,false
+2020,Minari,false,false
+2020,One Night in Miami...,false,false
+2021,CODA,true,false
+2021,Belfast,false,false
+2021,Don't Look Up,false,false
+2021,House of Gucci,false,false
+2021,King Richard,false,false
+2022,Everything Everywhere All at Once,true,false
+2022,Babylon,false,false
+2022,The Banshees of Inisherin,false,false
+2022,The Fabelmans,false,false
+2022,Women Talking,false,false
+2023,Oppenheimer,true,false
+2023,American Fiction,false,false
+2023,Barbie,false,false
+2023,The Color Purple,false,false
+2023,Killers of the Flower Moon,false,false
+2024,Conclave,true,false
+2024,Anora,false,false
+2024,A Complete Unknown,false,false
+2024,Emilia Pérez,false,false
+2024,Wicked,false,false
+2025,Sinners,true,false
+2025,Frankenstein,false,false
+2025,Hamnet,false,false
+2025,Marty Supreme,false,false
+2025,One Battle after Another,false,false
