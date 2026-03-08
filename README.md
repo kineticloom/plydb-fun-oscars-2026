@@ -15,14 +15,14 @@ We asked Claude to predict the winners — using only SQL queries across
 historical Oscar and precursor award data, no intuition allowed. Here's what it
 found:
 
-| Category                | Predicted Winner             | Win Probability |
-| ----------------------- | ---------------------------- | --------------- |
-| Best Picture            | **One Battle after Another** | 45%             |
-| Best Director           | **Paul Thomas Anderson**     | 89%             |
-| Best Actor              | **Michael B. Jordan**        | 35%             |
-| Best Actress            | **Jessie Buckley**           | 90%             |
-| Best Supporting Actor   | **Sean Penn**                | 59%             |
-| Best Supporting Actress | **Amy Madigan**              | 76%             |
+| Category                | Predicted Winner             | Win Score (%) |
+| ----------------------- | ---------------------------- | ------------- |
+| Best Picture            | **One Battle after Another** | 45%           |
+| Best Director           | **Paul Thomas Anderson**     | 89%           |
+| Best Actor              | **Michael B. Jordan**        | 35%           |
+| Best Actress            | **Jessie Buckley**           | 90%           |
+| Best Supporting Actor   | **Sean Penn**                | 59%           |
+| Best Supporting Actress | **Amy Madigan**              | 76%           |
 
 Predictions are driven entirely by precursor award wins (BAFTA, Golden Globes,
 SAG, Critics Choice, TIFF), weighted by their historical accuracy as Oscar

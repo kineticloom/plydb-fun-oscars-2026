@@ -8,7 +8,7 @@
 
 ## Summary
 
-| Category | Predicted Winner | Win Probability |
+| Category | Predicted Winner | Win Score (%) |
 |---|---|---|
 | Best Picture | **One Battle after Another** | 45% |
 | Best Director | **Paul Thomas Anderson** | 89% |
@@ -21,7 +21,7 @@ Predictions are driven entirely by precursor award wins (BAFTA, Golden Globes, S
 
 A few things that jumped out:
 
-- **Jessie Buckley swept.** She won BAFTA, GG Drama, Critics Choice, and SAG for *Hamnet* — 4 of 5 major precursors, a historically dominant sweep. The only other Best Actress nominees who've done that in recent history (Zellweger, McDormand, Larson) all won the Oscar. Model gives her 90%.
+- **Jessie Buckley swept.** She won BAFTA, GG Drama, Critics Choice, and SAG for *Hamnet* — 4 of 5 major precursors, a historically dominant sweep. The only other Best Actress nominees who've done that in recent history (Zellweger, McDormand, Larson) all won the Oscar. Model scores her at 90%.
 
 - **Paul Thomas Anderson won every directing precursor.** BAFTA, Golden Globe, Critics Choice — a clean 3-for-3. No other 2026 directing nominee won any of them. At 89%, he's the strongest data-supported call on the night.
 
@@ -240,7 +240,7 @@ Elle Fanning (Sentimental Value), Inga Ibsdotter Lilleaas (Sentimental Value), A
 
 ## Predictions
 
-| Category | Predicted Winner | Win Probability |
+| Category | Predicted Winner | Win Score (%) |
 |---|---|---|
 | Best Picture | **One Battle after Another** | 45% |
 | Best Director | **Paul Thomas Anderson** | 89% |
@@ -299,16 +299,16 @@ LEFT JOIN precursor_winners p ON o.Year = p.year AND o.Name = p.name
 
 **Formula:** For each nominee *i* among *N* nominees:
 
-> P(i) = signal(i) / Σ signals × (1 − upset_rate) + upset_rate / N
+> Score(i) = signal(i) / Σ signals × (1 − upset_rate) + upset_rate / N
 
-This allocates (1 − upset_rate) of the probability mass in proportion to precursor signal
-strength, and distributes upset_rate uniformly across all nominees.
+This allocates (1 − upset_rate) of the score weight in proportion to precursor signal
+strength, and distributes upset_rate uniformly across all nominees. Scores sum to 100% within each category.
 
 ### Results
 
 #### 🏆 Best Picture
 
-| Nominee | Precursor wins | Signal | Probability |
+| Nominee | Precursor wins | Signal | Score (%) |
 |---|---|---|---|
 | **One Battle after Another** | BAFTA (31.6%) + GG Comedy (16.7%) + CC (60.0%) | 108.3 | **45%** |
 | Hamnet | GG Drama (46.7%) + TIFF (14.9%) | 61.6 | **26%** |
@@ -321,7 +321,7 @@ One Battle after Another holds the three highest-value signals: Critics Choice (
 
 #### 🎬 Best Director
 
-| Nominee | Precursor wins | Signal | Probability |
+| Nominee | Precursor wins | Signal | Score (%) |
 |---|---|---|---|
 | **Paul Thomas Anderson** | BAFTA (33.9%) + GG (53.7%) + CC (71.9%) | 159.5 | **89%** |
 | Chloé Zhao / Josh Safdie / Joachim Trier / Ryan Coogler | — | 0 | **3% each** |
@@ -332,7 +332,7 @@ The clearest call of the night. PTA swept every available directing precursor �
 
 #### 🎭 Best Actor
 
-| Nominee | Precursor wins | Signal | Probability |
+| Nominee | Precursor wins | Signal | Score (%) |
 |---|---|---|---|
 | **Michael B. Jordan** | SAG (77.4%) | 77.4 | **35%** |
 | Timothée Chalamet | GG Comedy (9.2%) + CC (64.5%) | 73.7 | **33%** |
@@ -343,17 +343,17 @@ The tightest race of the night. Jordan's SAG win (77.4% predictor — the strong
 
 #### 💃 Best Actress
 
-| Nominee | Precursor wins | Signal | Probability |
+| Nominee | Precursor wins | Signal | Score (%) |
 |---|---|---|---|
 | **Jessie Buckley** | BAFTA (44.8%) + GG Drama (47.4%) + CC (48.5%) + SAG (67.7%) | 208.4 | **90%** |
 | Rose Byrne | GG Comedy (22.8%) | 22.8 | **10%** |
 | Renate Reinsve / Emma Stone / Kate Hudson | — | 0 | **<1% each** |
 
-The most lopsided race of the night. Buckley's four-precursor sweep is historically rare — comparable in scope to Renée Zellweger (2019, *Judy*), Frances McDormand (2017, *Three Billboards*), and Brie Larson (2015, *Room*), all of whom converted identical sweeps to Oscar wins. The only comparable sweep that failed: Cate Blanchett for *Tár* (2022) — but Blanchett didn't win the SAG, which Buckley did. The 0.0% historical upset rate means the model assigns zero probability mass to zero-signal nominees, concentrating everything on Buckley and Byrne. Buckley's four-precursor signal accumulates 9× more than Byrne's single GG Comedy win.
+The most lopsided race of the night. Buckley's four-precursor sweep is historically rare — comparable in scope to Renée Zellweger (2019, *Judy*), Frances McDormand (2017, *Three Billboards*), and Brie Larson (2015, *Room*), all of whom converted identical sweeps to Oscar wins. The only comparable sweep that failed: Cate Blanchett for *Tár* (2022) — but Blanchett didn't win the SAG, which Buckley did. The 0.0% historical upset rate means the model assigns zero score weight to zero-signal nominees, concentrating everything on Buckley and Byrne. Buckley's four-precursor signal accumulates 9× more than Byrne's single GG Comedy win.
 
 #### 🎭 Best Supporting Actor
 
-| Nominee | Precursor wins | Signal | Probability |
+| Nominee | Precursor wins | Signal | Score (%) |
 |---|---|---|---|
 | **Sean Penn** | BAFTA (30.4%) + SAG (71.0%) | 101.4 | **59%** |
 | Jacob Elordi | CC (61.3%) | 61.3 | **37%** |
@@ -365,7 +365,7 @@ A genuine two-horse race. Penn's dual wins (BAFTA + SAG) give him a clear signal
 
 #### 🌟 Best Supporting Actress
 
-| Nominee | Precursor wins | Signal | Probability |
+| Nominee | Precursor wins | Signal | Score (%) |
 |---|---|---|---|
 | **Amy Madigan** | CC (62.5%) + SAG (71.9%) | 134.4 | **76%** |
 | Wunmi Mosaku | BAFTA (37.5%) | 37.5 | **22%** |
@@ -439,7 +439,7 @@ Using Ceremony 68–97 (roughly 30 years) for precursor overlap was data-driven 
 
 ### 6. Missing precursors
 
-The Directors Guild of America (DGA) Award is historically the single strongest Best Director predictor and isn't in this model. The Producers Guild Award (PGA) similarly leads Best Picture prediction. Their absence is a data gap, not a methodological choice — we don't have that data. Including them would tighten the directing and picture probabilities considerably, and might shift Best Picture away from the current three-way signal split.
+The Directors Guild of America (DGA) Award is historically the single strongest Best Director predictor and isn't in this model. The Producers Guild Award (PGA) similarly leads Best Picture prediction. Their absence is a data gap, not a methodological choice — we don't have that data. Including them would tighten the directing and picture scores considerably, and might shift Best Picture away from the current three-way signal split.
 
 ### 7. No cross-category correlation
 
