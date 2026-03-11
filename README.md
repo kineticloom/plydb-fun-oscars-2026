@@ -1,5 +1,9 @@
 # Fun with PlyDB: Predicting the 2026 Oscars
 
+Accompanying [blog post](https://www.plydb.com/blog/plydb-fun-oscars-2026/).
+
+---
+
 This repo is a fun experiment in conversational analytics using
 [PlyDB](https://www.plydb.com/) and Academy Awards data.
 
@@ -8,6 +12,8 @@ database gateway that lets AI agents query across live data in place - no data
 movement required. It bridges the gap between your AI and your data, from SQL
 databases to flat files: Postgres, MySQL, CSV, Excel, Parquet, and
 [more](https://www.plydb.com/docs/data-sources/).
+
+---
 
 ## What does the data say about the 2026 Oscars?
 
