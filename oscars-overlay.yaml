@@ -36,6 +36,31 @@ semantic_model:
          nominees. The Winner column is BLANK (not 'False') for all Ceremony 98 rows —
          the ceremony has not yet occurred. Do not filter on Winner for Ceremony 98.
 
+      6. PERSON IDENTITY — USE NomineeIds/Nominees, NOT Name: The Name field contains
+         the Academy's written credit string, which for collaborative categories (especially
+         Original Song) is a group credit like "Music by Peter Gabriel and Thomas Newman;
+         Lyric by Peter Gabriel". Do NOT use Name for counting nominations per person —
+         exact match misses shared-credit rows, and fuzzy/LIKE match over-counts. Instead,
+         use the NomineeIds and Nominees columns, which are pipe-separated (|) lists of
+         individual IMDb person IDs and display names respectively. Unnest with DuckDB syntax:
+           unnest(string_split(NomineeIds, '|')) AS nominee_id
+           unnest(string_split(Nominees, '|')) AS nominee_name
+         Group by nominee_id for accurate per-person counts across all nomination types.
+
+      7. HONORARY AWARDS: The CanonicalCategory value 'HONORARY AWARD' has Winner = true
+         but represents honorary recognition, not a competitive win. Always exclude it when
+         filtering for competitive wins: WHERE Winner = true AND CanonicalCategory != 'HONORARY AWARD'.
+         Failing to exclude honorary awards will incorrectly filter out figures like Peter O'Toole
+         (honorary at ceremony 75), Federico Fellini (honorary 1993), and Robert Altman
+         (honorary 2006) from "never won" analyses.
+
+      8. ACTING/DIRECTING CANONICAL CATEGORIES: The full set of acting and directing categories
+         across all eras is:
+           'ACTOR IN A LEADING ROLE', 'ACTOR IN A SUPPORTING ROLE',
+           'ACTRESS IN A LEADING ROLE', 'ACTRESS IN A SUPPORTING ROLE',
+           'DIRECTING', 'DIRECTING (Comedy Picture)', 'DIRECTING (Dramatic Picture)'
+         Use CanonicalCategory LIKE 'DIRECTING%' to capture all directing variants in one filter.
+
   datasets:
     - name: oscar_nominations
       source: oscars.default.oscar_nominations
@@ -62,12 +87,29 @@ semantic_model:
             Film title. Pipe-separated (|) for split nominations across multiple films.
         - name: Name
           description: >
-            Nominee name. For BEST PICTURE this is producer names; for DIRECTING it is the
-            director; for acting categories it is the performer.
+            The Academy's written credit string. For individual nominees this matches the
+            person's name, but for collaborative nominations (especially Original Song) it
+            is a group credit string like "Music by Peter Gabriel and Thomas Newman; Lyric
+            by Peter Gabriel". DO NOT use this field for per-person counting — use
+            NomineeIds and Nominees instead.
+        - name: Nominees
+          description: >
+            Pipe-separated (|) list of individual nominee display names, one per person
+            credited in this nomination row. Use with NomineeIds for accurate per-person
+            counts. Unnest with: unnest(string_split(Nominees, '|')) AS nominee_name.
+        - name: NomineeIds
+          description: >
+            Pipe-separated (|) list of individual IMDb person IDs (e.g. nm0002353)
+            corresponding positionally to Nominees. Use as the stable identifier for
+            grouping nominations per person across all categories. Unnest with:
+            unnest(string_split(NomineeIds, '|')) AS nominee_id.
         - name: Winner
           description: >
-            'True' (string) if winner, blank string if nominated but did not win.
-            Blank for ALL Ceremony 98 rows (ceremony not yet held).
+            BOOLEAN: true if winner, null if nominated but did not win. (Not a string —
+            filter with Winner = true, not Winner = 'True'.) null for ALL Ceremony 98 rows
+            (ceremony not yet held). For competitive win analysis, also exclude
+            CanonicalCategory = 'HONORARY AWARD' rows which have Winner = true but are
+            not competitive wins.
 
     - name: bafta_film
       source: bafta_film.default.bafta_film
